@@ -1,0 +1,28 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const cities = (await getCollection('cities')).sort((a, b) =>
+  a.data.title.localeCompare(b.data.title)
+);
+const base = import.meta.env.BASE_URL;
+const updated =
+  cities.map((c) => String(c.data.updated)).sort().at(-1) ?? '2026-08-29';
+---
+<Base title="Saturday Walk-in Live Scan (California)">
+  <h1>Saturday Walk-in Live Scan (California)</h1>
+  <p>
+    California Live Scan shops that the DOJ list marks as Saturday walk-in, city by city.
+  </p>
+  <ul class="city-list">
+    {cities.map((city) => (
+      <li>
+        <a href={`${base}${city.id}/`}>{city.data.title}</a>
+      </li>
+    ))}
+  </ul>
+  <p class="note">
+    Confirm hours and fees with the shop before you go. DOJ says the public list can be stale. Nobody listed here was called.
+  </p>
+  <p class="updated">Updated {updated}.</p>
+</Base>

@@ -1,0 +1,93 @@
+:root {
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 18px;
+}
+
+body {
+  margin: 0;
+  color: #111;
+  background: #fff;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.45;
+}
+
+a {
+  color: #0033aa;
+}
+
+a:visited {
+  color: #4b0082;
+}
+
+header,
+main,
+footer {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 0.75rem 1rem;
+}
+
+header {
+  border-bottom: 1px solid #ccc;
+}
+
+header a {
+  color: inherit;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.site-title {
+  font-size: 1.05rem;
+}
+
+main h1 {
+  font-size: 1.45rem;
+  line-height: 1.25;
+  margin: 0.6rem 0 0.8rem;
+}
+
+.city-list {
+  padding-left: 1.2rem;
+}
+
+.note {
+  margin: 1rem 0;
+}
+
+.updated {
+  color: #333;
+}
+
+article table {
+  display: block;
+  overflow-x: auto;
+  max-width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+
+article th,
+article td {
+  border: 1px solid #444;
+  padding: 0.35rem 0.5rem;
+  vertical-align: top;
+  text-align: left;
+}
+
+article th {
+  background: #f3f3f3;
+}
+
+footer {
+  border-top: 1px solid #ccc;
+  font-size: 0.9rem;
+  color: #333;
+}

@@ -1,0 +1,31 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const pageTitle =
+  title === 'Saturday Walk-in Live Scan (California)'
+    ? title
+    : `${title} · Saturday Walk-in Live Scan (California)`;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
+    <title>{pageTitle}</title>
+  </head>
+  <body>
+    <header>
+      <a class="site-title" href={base}>Saturday Walk-in Live Scan (California)</a>
+    </header>
+    <main>
+      <slot />
+    </main>
+  </body>
+</html>
