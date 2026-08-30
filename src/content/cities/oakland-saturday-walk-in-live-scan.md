@@ -77,3 +77,34 @@ That is why this page is a **filtered Saturday walk-in list**, not a dump of the
 ## After you scan
 
 Results go to the **requesting agency**, not to you (DOJ applicants page). Keep the yellow copy / ATI number. If prints reject, resubmission rules are the agency’s, not the shop’s.
+
+
+## FAQ
+
+### Can I walk in Saturday in Oakland without an appointment?
+
+Yes for the 7 DOJ Saturday walk-in rows. "Walk-in & appt" means appointments may still jump the line. UPS #7098 is a public conflict — treat as appointment-until-proven. Confirm hours before you go. Nobody was called.
+
+### What do I bring?
+
+A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.
+
+### How much does it cost?
+
+The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF.
+
+### Cash or card?
+
+It varies. Several shops are cash/card; some add a card surcharge. Certifix @ The UPS Store #3270 lists $45 cash / $47 card plus government fees. DOJ says to check for payment restrictions. Confirm with the shop before you go.
+
+### Are UPS store hours the fingerprint hours?
+
+No. UPS pages advertise "open 7 days." That is shipping. Live Scan Saturday hours are the DOJ column.
+
+### Why isn't Certifix Oakland HQ on this list?
+
+It is weekday walk-in only on the DOJ list (accessed 2026-08-29).
+
+### Do I get the results?
+
+No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.

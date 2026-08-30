@@ -1,6 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import { getCollection, render } from 'astro:content';
+import { oaklandFaq } from '../data/faq';
 
 export async function getStaticPaths() {
   const cities = await getCollection('cities');
@@ -13,8 +14,9 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 const description = `${entry.data.title}: DOJ-listed shops, hours, rolling fees, and skip list. Confirm before you go.`;
+const faq = entry.id === 'oakland-saturday-walk-in-live-scan' ? oaklandFaq : undefined;
 ---
-<Base title={entry.data.title} description={description}>
+<Base title={entry.data.title} description={description} faq={faq}>
   <article>
     <Content />
   </article>

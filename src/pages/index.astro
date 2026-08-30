@@ -1,6 +1,8 @@
 ---
 import Base from '../layouts/Base.astro';
+import Faq from '../components/Faq.astro';
 import { getCollection } from 'astro:content';
+import { homeFaq } from '../data/faq';
 
 const cities = (await getCollection('cities')).sort((a, b) =>
   a.data.title.localeCompare(b.data.title)
@@ -12,6 +14,7 @@ const updated =
 <Base
   title="Saturday Walk-in Live Scan (California)"
   description="California Live Scan shops that the DOJ list marks as Saturday walk-in, city by city. Confirm hours before you go."
+  faq={homeFaq}
 >
   <h1>Saturday Walk-in Live Scan (California)</h1>
   <p>
@@ -24,6 +27,7 @@ const updated =
       </li>
     ))}
   </ul>
+  <Faq items={homeFaq} />
   <p class="note">
     Confirm hours and fees with the shop before you go. DOJ says the public list can be stale. Nobody listed here was called.
   </p>

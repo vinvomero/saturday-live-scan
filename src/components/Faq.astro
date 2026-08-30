@@ -1,0 +1,26 @@
+---
+import type { FaqItem } from '../data/faq';
+
+interface Props {
+  items: FaqItem[];
+}
+
+const { items } = Astro.props;
+
+function parts(text: string) {
+  return text.split(/(https:\/\/\S+)/);
+}
+---
+<section class="faq">
+  <h2>FAQ</h2>
+  {items.map((item) => (
+    <div>
+      <h3>{item.q}</h3>
+      <p>
+        {parts(item.a).map((part) =>
+          part.startsWith('https://') ? <a href={part}>{part}</a> : part
+        )}
+      </p>
+    </div>
+  ))}
+</section>

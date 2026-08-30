@@ -6,5 +6,6 @@ Confirm hours and fees with the shop before you go. DOJ says the public list can
 
 ## Pages
 
-- [Saturday Walk-in Live Scan (California)](https://vinvomero.github.io/saturday-live-scan/): Index of California cities with DOJ-listed Saturday walk-in Live Scan shops.
-- [Saturday walk-in Live Scan in Oakland](https://vinvomero.github.io/saturday-live-scan/oakland-saturday-walk-in-live-scan/): DOJ-listed Saturday walk-in Live Scan shops in Oakland. Hours, rolling fees, skip list.
+- [Saturday Walk-in Live Scan (California)](https://vinvomero.github.io/saturday-live-scan/): Index of California cities with DOJ-listed Saturday walk-in Live Scan shops. Includes FAQ.
+- [Saturday walk-in Live Scan in Oakland](https://vinvomero.github.io/saturday-live-scan/oakland-saturday-walk-in-live-scan/): DOJ-listed Saturday walk-in Live Scan shops in Oakland. Hours, rolling fees, skip list, FAQ.
+- [FAQ](https://vinvomero.github.io/saturday-live-scan/faq/): Links to the home and Oakland FAQ sections.

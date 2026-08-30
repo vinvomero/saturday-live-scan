@@ -1,21 +1,37 @@
 ---
 import '../styles/global.css';
+import type { FaqItem } from '../data/faq';
 
 interface Props {
   title: string;
   description?: string;
+  faq?: FaqItem[];
 }
 
 const defaultDescription =
   'California Live Scan shops that the DOJ list marks as Saturday walk-in, city by city. Confirm hours before you go.';
 
-const { title, description = defaultDescription } = Astro.props;
+const { title, description = defaultDescription, faq } = Astro.props;
 const base = import.meta.env.BASE_URL;
 const pageTitle =
   title === 'Saturday Walk-in Live Scan (California)'
     ? title
     : `${title} · Saturday Walk-in Live Scan (California)`;
 const canonical = new URL(Astro.url.pathname, 'https://vinvomero.github.io').href;
+const faqJson = faq?.length
+  ? JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: faq.map((item) => ({
+        '@type': 'Question',
+        name: item.q,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: item.a,
+        },
+      })),
+    })
+  : null;
 ---
 <!doctype html>
 <html lang="en">
@@ -29,6 +45,7 @@ const canonical = new URL(Astro.url.pathname, 'https://vinvomero.github.io').hre
     <meta property="og:url" content={canonical} />
     <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
     <title>{pageTitle}</title>
+    {faqJson && <script type="application/ld+json" set:html={faqJson} />}
   </head>
   <body>
     <header>
