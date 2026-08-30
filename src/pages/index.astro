@@ -9,7 +9,10 @@ const base = import.meta.env.BASE_URL;
 const updated =
   cities.map((c) => String(c.data.updated)).sort().at(-1) ?? '2026-08-29';
 ---
-<Base title="Saturday Walk-in Live Scan (California)">
+<Base
+  title="Saturday Walk-in Live Scan (California)"
+  description="California Live Scan shops that the DOJ list marks as Saturday walk-in, city by city. Confirm hours before you go."
+>
   <h1>Saturday Walk-in Live Scan (California)</h1>
   <p>
     California Live Scan shops that the DOJ list marks as Saturday walk-in, city by city.
