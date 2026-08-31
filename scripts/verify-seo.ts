@@ -101,19 +101,27 @@ function skipNames(md: string): string[] {
     .filter(Boolean);
 }
 
-const host = 'https://vinvomero.github.io';
-const base = '/saturday-live-scan/';
+const host = 'https://saturdaylivescan.com';
+const base = '/';
 const origin = `${host}${base}`;
 const ogUrl = `${origin}og.png`;
 
 if (existsSync(join(root, 'public/sitemap.xml'))) fail('public/sitemap.xml must not remain as source of truth');
 if (existsSync(join(root, 'public/llms.txt'))) fail('public/llms.txt must not remain as source of truth');
-if (existsSync(join(root, 'CNAME'))) fail('CNAME file must not exist');
+if (existsSync(join(root, 'CNAME'))) fail('repo-root CNAME must not exist on main');
 if (existsSync(join(root, '.github/workflows'))) fail('.github/workflows must not exist');
 
+const publicCnamePath = join(root, 'public/CNAME');
+if (!existsSync(publicCnamePath)) {
+  fail('public/CNAME missing');
+} else {
+  const cname = readFileSync(publicCnamePath, 'utf8').trim();
+  if (cname !== 'saturdaylivescan.com') fail(`public/CNAME is ${JSON.stringify(cname)}`);
+}
+
 const astro = readRepo('astro.config.mjs');
-if (!astro.includes("base: '/saturday-live-scan/'")) fail('astro base left /saturday-live-scan/');
-if (!astro.includes("site: 'https://vinvomero.github.io'")) fail('astro site must stay github.io');
+if (!astro.includes("base: '/'")) fail('astro base must be /');
+if (!astro.includes("site: 'https://saturdaylivescan.com'")) fail('astro site must be saturdaylivescan.com');
 
 const robots = read('robots.txt');
 if (!robots.includes('User-agent: *')) fail('robots.txt missing User-agent');
@@ -128,8 +136,8 @@ for (const loc of [
 ]) {
   if (!sitemap.includes(`<loc>${loc}</loc>`)) fail(`sitemap missing ${loc}`);
 }
-if (sitemap.includes(`${host}/oakland-`) || sitemap.includes(`${host}/berkeley-`)) {
-  fail('sitemap loc values must include /saturday-live-scan/');
+if (sitemap.includes('github.io') || sitemap.includes('/saturday-live-scan/')) {
+  fail('sitemap loc values must be apex host-root URLs');
 }
 
 const llms = read('llms.txt');
@@ -311,12 +319,23 @@ if (oakland) {
   }
 }
 
-const readme = readRepo('README.md');
-if (!readme.includes('https://vinvomero.github.io/robots.txt') && !readme.toLowerCase().includes('host root')) {
-  fail('README must document host-root robots.txt limit');
+const distCnamePath = join(dist, 'CNAME');
+if (!existsSync(distCnamePath)) {
+  fail('missing dist/CNAME');
+} else {
+  const distCname = readFileSync(distCnamePath, 'utf8').trim();
+  if (distCname !== 'saturdaylivescan.com') fail(`dist/CNAME is ${JSON.stringify(distCname)}`);
 }
-if (!readme.includes('/saturday-live-scan/robots.txt')) {
-  fail('README must name the project-path robots.txt URL');
+
+const readme = readRepo('README.md');
+if (!readme.includes('https://saturdaylivescan.com/robots.txt')) {
+  fail('README must name host-root robots.txt URL');
+}
+if (!readme.toLowerCase().includes('host root')) {
+  fail('README must document host-root robots.txt');
+}
+if (readme.includes('https://vinvomero.github.io/saturday-live-scan/')) {
+  fail('README still names the github.io project URL as live origin');
 }
 
 if (failures.length) {

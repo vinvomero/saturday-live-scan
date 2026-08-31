@@ -2,7 +2,7 @@
 
 Directory of California Live Scan shops that the DOJ list marks as Saturday walk-in.
 
-Live site: https://vinvomero.github.io/saturday-live-scan/
+Live site: https://saturdaylivescan.com/
 
 No affiliate links. No shops were paid. Confirm hours before you go.
 
@@ -25,17 +25,17 @@ Berkeley is a collection city like Oakland. Dropping another `src/content/cities
 
 `sitemap.xml` and `llms.txt` are generated at build from the cities collection plus home and FAQ (`src/pages/sitemap.xml.ts`, `src/pages/llms.txt.ts`). Do not put hand-edited copies in `public/` — those would overwrite the endpoints.
 
-## Crawl files and robots.txt limit
+## Crawl files and robots.txt at the host root
 
-This is a GitHub Pages **project** site. Google looks for `robots.txt` at the **host root** (`https://vinvomero.github.io/robots.txt`). This project cannot own that file. It serves robots at:
+This site uses a custom domain, so Google can fetch `robots.txt` at the **host root**:
 
-https://vinvomero.github.io/saturday-live-scan/robots.txt
+https://saturdaylivescan.com/robots.txt
 
-Sitemap: https://vinvomero.github.io/saturday-live-scan/sitemap.xml
+Sitemap: https://saturdaylivescan.com/sitemap.xml
 
-llms.txt: https://vinvomero.github.io/saturday-live-scan/llms.txt
+llms.txt: https://saturdaylivescan.com/llms.txt
 
-A custom domain is what puts robots and canonicals at the host root. Do not add a `CNAME` file until DNS for a bought domain already points at GitHub Pages. A CNAME now would break the github.io URLs.
+`public/CNAME` holds `saturdaylivescan.com` so the built `dist/CNAME` survives orphan `gh-pages` publishes. Do not put a `CNAME` at the repo root of `main`. The previous GitHub Pages project URL may break or redirect after this cutover.
 
 ## Local build
 
@@ -49,4 +49,4 @@ Requires Node 22 or newer.
 
 ## Config
 
-`astro.config.mjs` sets `site` to `https://vinvomero.github.io` and `base` to `/saturday-live-scan/`. Do not add a custom domain or a `CNAME` file.
+`astro.config.mjs` sets `site` to `https://saturdaylivescan.com` and `base` to `/`. Keep `trailingSlash: 'always'`.

@@ -2,7 +2,7 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://vinvomero.github.io',
-  base: '/saturday-live-scan/',
+  site: 'https://saturdaylivescan.com',
+  base: '/',
   trailingSlash: 'always',
 });

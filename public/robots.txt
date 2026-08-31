@@ -16,4 +16,4 @@ Allow: /
 User-agent: PerplexityBot
 Allow: /
 
-Sitemap: https://vinvomero.github.io/saturday-live-scan/sitemap.xml
+Sitemap: https://saturdaylivescan.com/sitemap.xml

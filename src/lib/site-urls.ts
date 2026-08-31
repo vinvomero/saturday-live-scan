@@ -1,7 +1,7 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 
 export function originFromSite(site: URL | undefined): URL {
-  return site ?? new URL('https://vinvomero.github.io');
+  return site ?? new URL('https://saturdaylivescan.com');
 }
 
 export function pageUrl(site: URL | undefined, slug = ''): string {

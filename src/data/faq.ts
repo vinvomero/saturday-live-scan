@@ -10,7 +10,7 @@ export const homeFaq: FaqItem[] = [
   },
   {
     q: 'Do I need an appointment for Saturday Live Scan in California?',
-    a: 'This site only lists shops the DOJ list marks as Saturday walk-in. Appointments may still jump the line. Confirm hours before you go. For Oakland shops, see Saturday walk-in Live Scan in Oakland: https://vinvomero.github.io/saturday-live-scan/oakland-saturday-walk-in-live-scan/ For Berkeley shops, see Saturday walk-in Live Scan in Berkeley: https://vinvomero.github.io/saturday-live-scan/berkeley-saturday-walk-in-live-scan/',
+    a: 'This site only lists shops the DOJ list marks as Saturday walk-in. Appointments may still jump the line. Confirm hours before you go. For Oakland shops, see Saturday walk-in Live Scan in Oakland: https://saturdaylivescan.com/oakland-saturday-walk-in-live-scan/ For Berkeley shops, see Saturday walk-in Live Scan in Berkeley: https://saturdaylivescan.com/berkeley-saturday-walk-in-live-scan/',
   },
   {
     q: 'What do I bring?',
