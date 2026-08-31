@@ -11,11 +11,6 @@ export function pageUrl(site: URL | undefined, slug = ''): string {
   return new URL(path, originFromSite(site)).href;
 }
 
-export function fileUrl(site: URL | undefined, filename: string): string {
-  const base = import.meta.env.BASE_URL;
-  return new URL(`${base}${filename.replace(/^\/+/, '')}`, originFromSite(site)).href;
-}
-
 export async function cityEntries(): Promise<CollectionEntry<'cities'>[]> {
   return (await getCollection('cities')).sort((a, b) =>
     a.data.title.localeCompare(b.data.title),
