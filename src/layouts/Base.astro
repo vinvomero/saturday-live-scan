@@ -1,25 +1,41 @@
 ---
 import '../styles/global.css';
 import type { FaqItem } from '../data/faq';
+import { getCollection } from 'astro:content';
 
 interface Props {
   title: string;
   description?: string;
   faq?: FaqItem[];
+  extraJsonLd?: Record<string, unknown>[];
+  robots?: string;
+  website?: boolean;
+  canonicalHref?: string;
 }
 
 const defaultDescription =
   'California Live Scan shops that the DOJ list marks as Saturday walk-in, city by city. Confirm hours before you go.';
 
-const { title, description = defaultDescription, faq } = Astro.props;
+const {
+  title,
+  description = defaultDescription,
+  faq,
+  extraJsonLd = [],
+  robots = 'index,follow',
+  website = false,
+  canonicalHref,
+} = Astro.props;
+
+const site = Astro.site ?? new URL('https://vinvomero.github.io');
 const base = import.meta.env.BASE_URL;
-const pageTitle =
-  title === 'Saturday Walk-in Live Scan (California)'
-    ? title
-    : `${title} · Saturday Walk-in Live Scan (California)`;
-const canonical = new URL(Astro.url.pathname, 'https://vinvomero.github.io').href;
+const canonical = canonicalHref ?? new URL(Astro.url.pathname, site).href;
+const ogImage = new URL(`${base}og.png`, site).href;
+const cities = (await getCollection('cities')).sort((a, b) =>
+  a.data.title.localeCompare(b.data.title),
+);
+
 const faqJson = faq?.length
-  ? JSON.stringify({
+  ? {
       '@context': 'https://schema.org',
       '@type': 'FAQPage',
       mainEntity: faq.map((item) => ({
@@ -30,8 +46,27 @@ const faqJson = faq?.length
           text: item.a,
         },
       })),
-    })
+    }
   : null;
+
+const webPageJson = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: title,
+  url: canonical,
+  description,
+};
+
+const websiteJson = website
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'WebSite',
+      name: 'Saturday Walk-in Live Scan (California)',
+      url: new URL(base, site).href,
+    }
+  : null;
+
+const jsonBlocks = [webPageJson, websiteJson, faqJson, ...extraJsonLd].filter(Boolean);
 ---
 <!doctype html>
 <html lang="en">
@@ -39,20 +74,57 @@ const faqJson = faq?.length
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
+    <meta name="robots" content={robots} />
     <link rel="canonical" href={canonical} />
-    <meta property="og:title" content={pageTitle} />
+    <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Saturday Walk-in Live Scan (California)" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content={ogImage} />
     <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
-    <title>{pageTitle}</title>
-    {faqJson && <script type="application/ld+json" set:html={faqJson} />}
+    <title>{title}</title>
+    {jsonBlocks.map((block) => (
+      <script type="application/ld+json" set:html={JSON.stringify(block)} />
+    ))}
   </head>
   <body>
     <header>
       <a class="site-title" href={base}>Saturday Walk-in Live Scan (California)</a>
+      <nav aria-label="Site">
+        <ul>
+          <li><a href={base}>Home</a></li>
+          {cities.map((city) => (
+            <li>
+              <a href={`${base}${city.id}/`}>{city.data.title}</a>
+            </li>
+          ))}
+          <li><a href={`${base}faq/`}>FAQ</a></li>
+        </ul>
+      </nav>
     </header>
     <main>
       <slot />
     </main>
+    <footer>
+      <nav aria-label="Footer">
+        <ul>
+          <li><a href={base}>Home</a></li>
+          {cities.map((city) => (
+            <li>
+              <a href={`${base}${city.id}/`}>{city.data.title}</a>
+            </li>
+          ))}
+          <li><a href={`${base}faq/`}>FAQ</a></li>
+        </ul>
+      </nav>
+      <p class="note">
+        Confirm hours and fees with the shop before you go. DOJ says the public list can be stale. Nobody listed here was called.
+      </p>
+    </footer>
   </body>
 </html>

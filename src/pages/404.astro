@@ -1,0 +1,18 @@
+---
+import Base from '../layouts/Base.astro';
+
+const site = Astro.site ?? new URL('https://vinvomero.github.io');
+const base = import.meta.env.BASE_URL;
+const canonicalHref = new URL(`${base}404.html`, site).href;
+---
+<Base
+  title="Page not found"
+  description="That Saturday walk-in Live Scan URL is missing. Use home, Oakland, Berkeley, or the FAQ."
+  robots="noindex,follow"
+  canonicalHref={canonicalHref}
+>
+  <h1>Page not found</h1>
+  <p>
+    That URL is not a Saturday walk-in Live Scan page. Try home, a city directory, or the FAQ.
+  </p>
+</Base>
