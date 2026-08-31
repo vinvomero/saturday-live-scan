@@ -21,14 +21,31 @@ No affiliate links. No shops were paid. Confirm hours before you go.
 
 Home lists every file in `src/content/cities/` automatically. You do not edit `src/pages/index.astro` to add a city.
 
+Berkeley is a collection city like Oakland. Dropping another `src/content/cities/*.md` file is enough for home, sitemap, and llms.txt to list it on the next production build. Sourced FAQ JSON-LD and ItemList names/addresses are still added per city when that copy exists.
+
+`sitemap.xml` and `llms.txt` are generated at build from the cities collection plus home and FAQ (`src/pages/sitemap.xml.ts`, `src/pages/llms.txt.ts`). Do not put hand-edited copies in `public/` — those would overwrite the endpoints.
+
+## Crawl files and robots.txt limit
+
+This is a GitHub Pages **project** site. Google looks for `robots.txt` at the **host root** (`https://vinvomero.github.io/robots.txt`). This project cannot own that file. It serves robots at:
+
+https://vinvomero.github.io/saturday-live-scan/robots.txt
+
+Sitemap: https://vinvomero.github.io/saturday-live-scan/sitemap.xml
+
+llms.txt: https://vinvomero.github.io/saturday-live-scan/llms.txt
+
+A custom domain is what puts robots and canonicals at the host root. Do not add a `CNAME` file until DNS for a bought domain already points at GitHub Pages. A CNAME now would break the github.io URLs.
+
 ## Local build
 
 ```sh
 bun install
 bun run build
+bun scripts/verify-seo.ts
 ```
 
-Requires Node 22 or newer (GitHub Actions uses the Astro Pages action).
+Requires Node 22 or newer.
 
 ## Config
 
