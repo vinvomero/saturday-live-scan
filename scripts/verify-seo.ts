@@ -132,6 +132,7 @@ for (const loc of [
   origin,
   `${origin}oakland-saturday-walk-in-live-scan/`,
   `${origin}berkeley-saturday-walk-in-live-scan/`,
+  `${origin}alameda-county-sunday-live-scan/`,
   `${origin}faq/`,
 ]) {
   if (!sitemap.includes(`<loc>${loc}</loc>`)) fail(`sitemap missing ${loc}`);
@@ -145,6 +146,7 @@ for (const loc of [
   origin,
   `${origin}oakland-saturday-walk-in-live-scan/`,
   `${origin}berkeley-saturday-walk-in-live-scan/`,
+  `${origin}alameda-county-sunday-live-scan/`,
   `${origin}faq/`,
 ]) {
   if (!llms.includes(loc)) fail(`llms.txt missing ${loc}`);
@@ -218,6 +220,7 @@ function checkPage(
     base,
     `${base}oakland-saturday-walk-in-live-scan/`,
     `${base}berkeley-saturday-walk-in-live-scan/`,
+    `${base}alameda-county-sunday-live-scan/`,
     `${base}faq/`,
   ]) {
     if (!html.includes(`href="${href}"`)) fail(`${rel}: missing internal link ${href}`);
@@ -245,6 +248,18 @@ const berkeley = checkPage('berkeley-saturday-walk-in-live-scan/index.html', {
   types: ['WebPage', 'FAQPage', 'BreadcrumbList', 'ItemList'],
   faq: true,
 });
+const alameda = checkPage('alameda-county-sunday-live-scan/index.html', {
+  title: 'Sunday Live Scan in Alameda County',
+  canonical: `${origin}alameda-county-sunday-live-scan/`,
+  types: ['WebPage', 'FAQPage', 'BreadcrumbList'],
+  faq: true,
+});
+if (alameda) {
+  if (!alameda.includes('UNVERIFIED')) fail('alameda: UNVERIFIED strings missing from HTML');
+  if (!alameda.includes('id="faq"')) fail('alameda: missing id=faq');
+  if (!alameda.includes('Sunday')) fail('alameda HTML missing Sunday');
+}
+
 checkPage('faq/index.html', {
   title: 'Saturday walk-in Live Scan FAQ',
   canonical: `${origin}faq/`,
@@ -327,6 +342,42 @@ if (!existsSync(distCnamePath)) {
   if (distCname !== 'saturdaylivescan.com') fail(`dist/CNAME is ${JSON.stringify(distCname)}`);
 }
 
+function checkShopOffer(html: string, rel: string, expect: boolean) {
+  const needles = [
+    'mailto:vvomero@gmail.com',
+    'Shops: feature this listing',
+    '$49/month',
+    'Saturday featured slot',
+    'offer, not a live checkout',
+    'directory listing stays free',
+    'No shop is featured today',
+  ];
+  if (expect) {
+    for (const n of needles) {
+      if (!html.includes(n)) fail(`${rel}: missing shop offer: ${n}`);
+    }
+    if (!html.includes('vvomero@gmail.com')) fail(`${rel}: email not visible`);
+  } else if (html.includes('Shops: feature this listing')) {
+    fail(`${rel}: shop offer should be omitted`);
+  }
+  if (/<article[\s\S]*?<td[^>]*>\s*Featured/.test(html)) {
+    fail(`${rel}: Featured badge in a table cell`);
+  }
+  if (/gtag\(|googletagmanager|adsbygoogle|js.stripe.com|stripe.com\/v3/i.test(html)) {
+    fail(`${rel}: analytics, ads, or Stripe markup is forbidden`);
+  }
+  if (/\b(utm_source|ref=|affid=|affiliate)/i.test(html) && /certifix|printscan|applicantservices|identogo/i.test(html)) {
+    fail(`${rel}: affiliate-style outbound tracking is forbidden`);
+  }
+}
+
+checkShopOffer(home, 'home', true);
+checkShopOffer(oakland, 'oakland', true);
+checkShopOffer(berkeley, 'berkeley', true);
+checkShopOffer(alameda, 'alameda', true);
+checkShopOffer(read('faq/index.html'), 'faq', true);
+checkShopOffer(read('404.html'), '404', false);
+
 const readme = readRepo('README.md');
 if (!readme.includes('https://saturdaylivescan.com/robots.txt')) {
   fail('README must name host-root robots.txt URL');
@@ -336,6 +387,16 @@ if (!readme.toLowerCase().includes('host root')) {
 }
 if (readme.includes('https://vinvomero.github.io/saturday-live-scan/')) {
   fail('README still names the github.io project URL as live origin');
+}
+if (!readme.includes('No affiliate links')) fail('README must say no affiliate links');
+if (!readme.includes('No shop is featured or paid today')) {
+  fail('README must say no shop is featured or paid today');
+}
+if (readme.includes('No shops were paid.') && !readme.includes('No shop is featured or paid today')) {
+  fail('README still says unconditional No shops were paid');
+}
+if (!readme.includes('offer, not checkout') && !readme.includes('offer, not a live checkout')) {
+  fail('README must label the featured slot as an offer not checkout');
 }
 
 if (failures.length) {

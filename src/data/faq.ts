@@ -10,7 +10,7 @@ export const homeFaq: FaqItem[] = [
   },
   {
     q: 'Do I need an appointment for Saturday Live Scan in California?',
-    a: 'This site only lists shops the DOJ list marks as Saturday walk-in. Appointments may still jump the line. Confirm hours before you go. For Oakland shops, see Saturday walk-in Live Scan in Oakland: https://saturdaylivescan.com/oakland-saturday-walk-in-live-scan/ For Berkeley shops, see Saturday walk-in Live Scan in Berkeley: https://saturdaylivescan.com/berkeley-saturday-walk-in-live-scan/',
+    a: 'This site lists shops the DOJ list marks as Saturday walk-in, plus a Sunday Alameda County page. Appointments may still jump the line. Confirm hours before you go. For Oakland shops, see Saturday walk-in Live Scan in Oakland: https://saturdaylivescan.com/oakland-saturday-walk-in-live-scan/ For Berkeley shops, see Saturday walk-in Live Scan in Berkeley: https://saturdaylivescan.com/berkeley-saturday-walk-in-live-scan/ For Sunday in Alameda County, see Sunday Live Scan in Alameda County: https://saturdaylivescan.com/alameda-county-sunday-live-scan/',
   },
   {
     q: 'What do I bring?',
@@ -93,5 +93,40 @@ export const berkeleyFaq: FaqItem[] = [
   {
     q: 'What’s the cheapest Saturday walk-in in Berkeley?',
     a: 'A1 Photo Lab lists the lowest rolling fee in this table at $28.00, with the shortest Saturday window (10:15 am – 1:45 pm). Operator page conflicts ($20 / longer hours) — treat DOJ as the source of truth until proven. Next cheapest on DOJ is P.O. Pack at $34.75 (additional service fees may apply), walk-in-only Saturday 10:00 am – 5:00 pm. UPS #6706 opens earliest at 9:00 am but rolls at $50.00.',
+  },
+];
+
+export const alamedaSundayFaq: FaqItem[] = [
+  {
+    q: 'Can I walk in Sunday in Alameda County without an appointment?',
+    a: 'Yes for the 13 DOJ Sunday walk-in rows. Four of those are walk-in-only on Sunday (UPS #0345 Pleasanton, #0953 Dublin, #5898 Alameda, #1411 Newark). The other nine list walk-ins and appointments — appointments may still jump the line. Sixteen more Sunday rows are appointment-only; do not walk in there. UPS #1640 Fremont is a common trap: Saturday is walk-in, Sunday is appt only. Confirm hours before you go. Nobody was called.',
+  },
+  {
+    q: 'Are UPS store hours the fingerprint hours?',
+    a: 'No. UPS locator pages advertise “open 7 days” and often notary 7 days. That is shipping. Live Scan Sunday hours are the DOJ column. Telegraph #6089, Piedmont #3270, and Grand #1821 are open Sunday for packages and are Saturday-only on DOJ for Live Scan.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. UPS #6088, AngelVetting, Nexusphase, and GM Defense DOJ rows also say additional service fees may apply.',
+  },
+  {
+    q: 'What’s the cheapest or earliest Sunday option?',
+    a: 'Cheapest Sunday walk-in rolling fee on DOJ is $30.00, tied: Naka Tax (Union City, 9:00 am – 8:00 pm, no cards), UPS #0953 Dublin (walk-in 10:00 am – 3:00 pm), and UPS #0345 Pleasanton (DOJ prints Sunday 12:00 am – 2:00 pm — do not treat midnight as a real open). Earliest usable walk-in open is 9:00 am at Naka and at Suraj Notary (Dublin residential terrace, $38). Cheapest Sunday appointment rolling fee is $25.00 (Niche — public hours conflict; Western Notary — mobile add-on fee conflict; Santosh — no street on the detail page; AAA — Sunday times UNVERIFIED).',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'It varies. Most UPS Sunday rows list cash/credit/debit; several have no billing accounts. Naka Tax is billing / cash / checks only (no cards on DOJ). Santosh is cash / cashier’s check only. GM Defense lists no cash. DOJ says to check for payment restrictions. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'Why isn’t the Telegraph / Piedmont / Grand UPS store on this list?',
+    a: 'Those three are Saturday Live Scan on DOJ and “open 7 days” on UPS store pages. Sunday Live Scan is not on their DOJ rows (accessed 2026-08-31). This page is Sunday Live Scan, not Sunday shipping.',
   },
 ];

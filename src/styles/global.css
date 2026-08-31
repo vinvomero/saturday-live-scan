@@ -131,3 +131,13 @@ footer nav a:visited {
 footer nav ul {
   margin-bottom: 0.75rem;
 }
+
+.shop-feature-offer {
+  margin: 1rem 0 0;
+  padding: 0.75rem 0 0;
+  border-top: 1px dashed #ccc;
+}
+
+.shop-feature-offer p {
+  margin: 0;
+}

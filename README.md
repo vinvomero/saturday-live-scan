@@ -4,7 +4,7 @@ Directory of California Live Scan shops that the DOJ list marks as Saturday walk
 
 Live site: https://saturdaylivescan.com/
 
-No affiliate links. No shops were paid. Confirm hours before you go.
+No affiliate links. No shop is featured or paid today. Shops can email about a $49/month Saturday featured-slot offer; that is an offer, not checkout. Confirm hours before you go.
 
 ## Add a city page
 

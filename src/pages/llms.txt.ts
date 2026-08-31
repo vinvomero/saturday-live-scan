@@ -8,7 +8,7 @@ export const GET: APIRoute = async ({ site }) => {
   const cityLines = cities
     .map(
       (city) =>
-        `- [${city.data.title}](${pageUrl(site, city.id)}): DOJ-listed Saturday walk-in Live Scan shops. Hours, rolling fees, skip list, FAQ on the city page.`,
+        `- [${city.data.title}](${pageUrl(site, city.id)}): DOJ-listed shops, hours, rolling fees, skip list, FAQ on the city page.`,
     )
     .join('\n');
   const body = `# Saturday Walk-in Live Scan (California)

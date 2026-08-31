@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import type { FaqItem } from '../data/faq';
+import ShopFeatureOffer from '../components/ShopFeatureOffer.astro';
 import { getCollection } from 'astro:content';
 
 interface Props {
@@ -67,6 +68,7 @@ const websiteJson = website
   : null;
 
 const jsonBlocks = [webPageJson, websiteJson, faqJson, ...extraJsonLd].filter(Boolean);
+const showShopOffer = !/\bnoindex\b/.test(robots);
 ---
 <!doctype html>
 <html lang="en">
@@ -122,6 +124,7 @@ const jsonBlocks = [webPageJson, websiteJson, faqJson, ...extraJsonLd].filter(Bo
           <li><a href={`${base}faq/`}>FAQ</a></li>
         </ul>
       </nav>
+      {showShopOffer && <ShopFeatureOffer />}
       <p class="note">
         Confirm hours and fees with the shop before you go. DOJ says the public list can be stale. Nobody listed here was called.
       </p>
