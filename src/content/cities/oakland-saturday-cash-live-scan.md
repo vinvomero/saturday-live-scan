@@ -1,6 +1,6 @@
 ---
 title: Saturday cash Live Scan in Oakland
-updated: 2026-08-31
+updated: "2026-08-31"
 query: Saturday cash Live Scan Oakland
 ---
 

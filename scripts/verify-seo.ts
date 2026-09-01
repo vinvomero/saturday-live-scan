@@ -131,6 +131,7 @@ const sitemap = read('sitemap.xml');
 for (const loc of [
   origin,
   `${origin}oakland-saturday-walk-in-live-scan/`,
+  `${origin}oakland-saturday-cash-live-scan/`,
   `${origin}berkeley-saturday-walk-in-live-scan/`,
   `${origin}san-francisco-saturday-walk-in-live-scan/`,
   `${origin}alameda-county-sunday-live-scan/`,
@@ -146,6 +147,7 @@ const llms = read('llms.txt');
 for (const loc of [
   origin,
   `${origin}oakland-saturday-walk-in-live-scan/`,
+  `${origin}oakland-saturday-cash-live-scan/`,
   `${origin}berkeley-saturday-walk-in-live-scan/`,
   `${origin}san-francisco-saturday-walk-in-live-scan/`,
   `${origin}alameda-county-sunday-live-scan/`,
@@ -221,6 +223,7 @@ function checkPage(
   for (const href of [
     base,
     `${base}oakland-saturday-walk-in-live-scan/`,
+    `${base}oakland-saturday-cash-live-scan/`,
     `${base}berkeley-saturday-walk-in-live-scan/`,
     `${base}san-francisco-saturday-walk-in-live-scan/`,
     `${base}alameda-county-sunday-live-scan/`,
@@ -271,6 +274,17 @@ const sanFrancisco = checkPage('san-francisco-saturday-walk-in-live-scan/index.h
 if (sanFrancisco) {
   if (!sanFrancisco.includes('UNVERIFIED')) fail('san-francisco: UNVERIFIED strings missing from HTML');
   if (!sanFrancisco.includes('id="faq"')) fail('san-francisco: missing id=faq');
+}
+
+const oaklandCash = checkPage('oakland-saturday-cash-live-scan/index.html', {
+  title: 'Saturday cash Live Scan in Oakland',
+  canonical: `${origin}oakland-saturday-cash-live-scan/`,
+  types: ['WebPage', 'FAQPage', 'BreadcrumbList'],
+  faq: true,
+});
+if (oaklandCash) {
+  if (!oaklandCash.includes('UNVERIFIED')) fail('oakland-cash: UNVERIFIED strings missing from HTML');
+  if (!oaklandCash.includes('id="faq"')) fail('oakland-cash: missing id=faq');
 }
 
 checkPage('faq/index.html', {
@@ -389,6 +403,7 @@ checkShopOffer(oakland, 'oakland', true);
 checkShopOffer(berkeley, 'berkeley', true);
 checkShopOffer(alameda, 'alameda', true);
 checkShopOffer(sanFrancisco, 'san-francisco', true);
+checkShopOffer(oaklandCash, 'oakland-cash', true);
 checkShopOffer(read('faq/index.html'), 'faq', true);
 checkShopOffer(read('404.html'), '404', false);
 
