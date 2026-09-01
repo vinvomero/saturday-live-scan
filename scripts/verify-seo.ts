@@ -132,6 +132,7 @@ for (const loc of [
   origin,
   `${origin}oakland-saturday-walk-in-live-scan/`,
   `${origin}berkeley-saturday-walk-in-live-scan/`,
+  `${origin}san-francisco-saturday-walk-in-live-scan/`,
   `${origin}alameda-county-sunday-live-scan/`,
   `${origin}faq/`,
 ]) {
@@ -146,6 +147,7 @@ for (const loc of [
   origin,
   `${origin}oakland-saturday-walk-in-live-scan/`,
   `${origin}berkeley-saturday-walk-in-live-scan/`,
+  `${origin}san-francisco-saturday-walk-in-live-scan/`,
   `${origin}alameda-county-sunday-live-scan/`,
   `${origin}faq/`,
 ]) {
@@ -220,6 +222,7 @@ function checkPage(
     base,
     `${base}oakland-saturday-walk-in-live-scan/`,
     `${base}berkeley-saturday-walk-in-live-scan/`,
+    `${base}san-francisco-saturday-walk-in-live-scan/`,
     `${base}alameda-county-sunday-live-scan/`,
     `${base}faq/`,
   ]) {
@@ -258,6 +261,16 @@ if (alameda) {
   if (!alameda.includes('UNVERIFIED')) fail('alameda: UNVERIFIED strings missing from HTML');
   if (!alameda.includes('id="faq"')) fail('alameda: missing id=faq');
   if (!alameda.includes('Sunday')) fail('alameda HTML missing Sunday');
+}
+const sanFrancisco = checkPage('san-francisco-saturday-walk-in-live-scan/index.html', {
+  title: 'Saturday walk-in Live Scan in San Francisco',
+  canonical: `${origin}san-francisco-saturday-walk-in-live-scan/`,
+  types: ['WebPage', 'FAQPage', 'BreadcrumbList'],
+  faq: true,
+});
+if (sanFrancisco) {
+  if (!sanFrancisco.includes('UNVERIFIED')) fail('san-francisco: UNVERIFIED strings missing from HTML');
+  if (!sanFrancisco.includes('id="faq"')) fail('san-francisco: missing id=faq');
 }
 
 checkPage('faq/index.html', {
@@ -375,6 +388,7 @@ checkShopOffer(home, 'home', true);
 checkShopOffer(oakland, 'oakland', true);
 checkShopOffer(berkeley, 'berkeley', true);
 checkShopOffer(alameda, 'alameda', true);
+checkShopOffer(sanFrancisco, 'san-francisco', true);
 checkShopOffer(read('faq/index.html'), 'faq', true);
 checkShopOffer(read('404.html'), '404', false);
 
