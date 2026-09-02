@@ -390,9 +390,9 @@ if (!existsSync(distCnamePath)) {
 
 function checkShopOffer(html: string, rel: string, expect: boolean) {
   const needles = [
-    'mailto:vvomero@gmail.com',
+    'mailto:cls@agentmail.to',
     'Shops: feature this listing',
-    '$49/month',
+    '$19/month',
     'Saturday featured slot',
     'offer, not a live checkout',
     'directory listing stays free',
@@ -402,7 +402,7 @@ function checkShopOffer(html: string, rel: string, expect: boolean) {
     for (const n of needles) {
       if (!html.includes(n)) fail(`${rel}: missing shop offer: ${n}`);
     }
-    if (!html.includes('vvomero@gmail.com')) fail(`${rel}: email not visible`);
+    if (!html.includes('cls@agentmail.to')) fail(`${rel}: email not visible`);
   } else if (html.includes('Shops: feature this listing')) {
     fail(`${rel}: shop offer should be omitted`);
   }
