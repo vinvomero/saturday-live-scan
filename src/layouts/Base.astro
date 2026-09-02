@@ -69,6 +69,7 @@ const websiteJson = website
 
 const jsonBlocks = [webPageJson, websiteJson, faqJson, ...extraJsonLd].filter(Boolean);
 const showShopOffer = !/\bnoindex\b/.test(robots);
+const currentPath = Astro.url.pathname;
 ---
 <!doctype html>
 <html lang="en">
@@ -99,13 +100,16 @@ const showShopOffer = !/\bnoindex\b/.test(robots);
       <a class="site-title" href={base}>Saturday Walk-in Live Scan (California)</a>
       <nav aria-label="Site">
         <ul>
-          <li><a href={base}>Home</a></li>
-          {cities.map((city) => (
-            <li>
-              <a href={`${base}${city.id}/`}>{city.data.title}</a>
-            </li>
-          ))}
-          <li><a href={`${base}faq/`}>FAQ</a></li>
+          <li><a href={base} aria-current={currentPath === base || currentPath === `${base}` ? 'page' : undefined}>Home</a></li>
+          {cities.map((city) => {
+            const cityPath = `${base}${city.id}/`;
+            return (
+              <li>
+                <a href={cityPath} aria-current={currentPath === cityPath || currentPath === `${base}${city.id}` ? 'page' : undefined}>{city.data.title}</a>
+              </li>
+            );
+          })}
+          <li><a href={`${base}faq/`} aria-current={currentPath === `${base}faq/` || currentPath === `${base}faq` ? 'page' : undefined}>FAQ</a></li>
         </ul>
       </nav>
     </header>
@@ -115,13 +119,16 @@ const showShopOffer = !/\bnoindex\b/.test(robots);
     <footer>
       <nav aria-label="Footer">
         <ul>
-          <li><a href={base}>Home</a></li>
-          {cities.map((city) => (
-            <li>
-              <a href={`${base}${city.id}/`}>{city.data.title}</a>
-            </li>
-          ))}
-          <li><a href={`${base}faq/`}>FAQ</a></li>
+          <li><a href={base} aria-current={currentPath === base || currentPath === `${base}` ? 'page' : undefined}>Home</a></li>
+          {cities.map((city) => {
+            const cityPath = `${base}${city.id}/`;
+            return (
+              <li>
+                <a href={cityPath} aria-current={currentPath === cityPath || currentPath === `${base}${city.id}` ? 'page' : undefined}>{city.data.title}</a>
+              </li>
+            );
+          })}
+          <li><a href={`${base}faq/`} aria-current={currentPath === `${base}faq/` || currentPath === `${base}faq` ? 'page' : undefined}>FAQ</a></li>
         </ul>
       </nav>
       {showShopOffer && <ShopFeatureOffer />}
