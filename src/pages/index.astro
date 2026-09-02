@@ -18,9 +18,38 @@ const updated =
   website={true}
 >
   <h1>Saturday Walk-in Live Scan (California)</h1>
+  <div class="trust-strip">
+    <span class="trust-chip">{cities.length} cities</span>
+    <span class="trust-chip">California walk-in focus</span>
+    <span class="trust-chip">Free directory</span>
+    <span class="trust-chip">Confirm hours before you go</span>
+  </div>
   <p>
     California Live Scan shops that the DOJ list marks as Saturday walk-in, city by city.
   </p>
+  <section class="how-it-works">
+    <h2>How it works</h2>
+    <div class="how-steps">
+      <div class="how-step">
+        <div class="step-number">1</div>
+        <div class="step-content">
+          <p>Find your city below and check which shops are marked Saturday walk-in.</p>
+        </div>
+      </div>
+      <div class="how-step">
+        <div class="step-number">2</div>
+        <div class="step-content">
+          <p>Bring your Form 8016 / 41-LS request form and ID.</p>
+        </div>
+      </div>
+      <div class="how-step">
+        <div class="step-number">3</div>
+        <div class="step-content">
+          <p>Walk in on Saturday. Confirm hours with the shop first — the DOJ list can be stale.</p>
+        </div>
+      </div>
+    </div>
+  </section>
   <ul class="city-list">
     {cities.map((city) => (
       <li>

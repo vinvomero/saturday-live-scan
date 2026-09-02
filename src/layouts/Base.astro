@@ -97,7 +97,9 @@ const currentPath = Astro.url.pathname;
   </head>
   <body>
     <header>
-      <a class="site-title" href={base}>Saturday Walk-in Live Scan (California)</a>
+      <a class="site-title" href={base}>
+        <span class="wordmark-saturday">Saturday</span> <span class="wordmark-livescan">Live Scan</span>
+      </a>
       <nav aria-label="Site">
         <ul>
           <li><a href={base} aria-current={currentPath === base || currentPath === `${base}` ? 'page' : undefined}>Home</a></li>
