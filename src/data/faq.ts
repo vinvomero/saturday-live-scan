@@ -10,7 +10,7 @@ export const homeFaq: FaqItem[] = [
   },
   {
     q: 'Do I need an appointment for Saturday Live Scan in California?',
-    a: 'This site lists shops the DOJ list marks as Saturday walk-in, plus a Sunday Alameda County page. Appointments may still jump the line. Confirm hours before you go. For Oakland shops, see Saturday walk-in Live Scan in Oakland: https://saturdaylivescan.com/oakland-saturday-walk-in-live-scan/ For Oakland Saturday cash shops, see Saturday cash Live Scan in Oakland: https://saturdaylivescan.com/oakland-saturday-cash-live-scan/ For Berkeley shops, see Saturday walk-in Live Scan in Berkeley: https://saturdaylivescan.com/berkeley-saturday-walk-in-live-scan/ For San Francisco shops, see Saturday walk-in Live Scan in San Francisco: https://saturdaylivescan.com/san-francisco-saturday-walk-in-live-scan/ For Sunday in Alameda County, see Sunday Live Scan in Alameda County: https://saturdaylivescan.com/alameda-county-sunday-live-scan/',
+    a: 'This site lists shops the DOJ list marks as Saturday walk-in, plus a Sunday Alameda County page. Appointments may still jump the line. Confirm hours before you go. For Oakland shops, see Saturday walk-in Live Scan in Oakland: https://saturdaylivescan.com/oakland-saturday-walk-in-live-scan/ For Oakland Saturday cash shops, see Saturday cash Live Scan in Oakland: https://saturdaylivescan.com/oakland-saturday-cash-live-scan/ For Oakland Saturday teacher credential, see Saturday Live Scan in Oakland for a teacher credential: https://saturdaylivescan.com/oakland-saturday-teacher-credential-live-scan/ For Berkeley shops, see Saturday walk-in Live Scan in Berkeley: https://saturdaylivescan.com/berkeley-saturday-walk-in-live-scan/ For San Francisco shops, see Saturday walk-in Live Scan in San Francisco: https://saturdaylivescan.com/san-francisco-saturday-walk-in-live-scan/ For Sunday in Alameda County, see Sunday Live Scan in Alameda County: https://saturdaylivescan.com/alameda-county-sunday-live-scan/',
   },
   {
     q: 'What do I bring?',
@@ -198,5 +198,40 @@ export const oaklandCashFaq: FaqItem[] = [
   {
     q: 'Cheapest / earliest cash Saturday walk-in in Oakland?',
     a: 'Cheapest cash rolling: Allscan at $23.00 (Sat 10:00 am – 12:00 pm; 6th-floor Saturday access UNVERIFIED). Earliest open with cash: LPG and Certifix @ UPS #3270 both 9:00 am — LPG $30 with no verified card bump; Certifix is walk-in-only Saturday and $45 cash / $47 card.',
+  },
+];
+
+export const oaklandTeacherFaq: FaqItem[] = [
+  {
+    q: 'Which form do I use for CTC / teacher credential Live Scan?',
+    a: 'California residents use CTC Form 41-LS (Request for Live Scan Service), which includes BCIA 8016 privacy notices. Download the official PDF from CTC — Form 41-LS at https://docs.ctc.ca.gov/document/download/29865 — and follow 41-LS Instructions. Do not invent an ORI on a blank DIY BCIA 8016.',
+  },
+  {
+    q: 'Can I invent or look up the CTC ORI myself?',
+    a: 'No. CTC\'s 41-LS instructions say the ORI is the "CTC number included - do not change." Pre-filled agency fields must stay as shown. Incorrect ORI/mail code can delay or misroute results. Never publish or guess a CTC ORI — use the official form only.',
+  },
+  {
+    q: 'How much does CTC Live Scan cost?',
+    a: 'There is no honest single Live Scan government-fee total. CTC\'s fees table for California Resident / Live Scan is "Varies - pay LS Operator." Rolling fees are the shop table on this page. DOJ/FBI processing: check the requesting agency — do not invent a package dollar. Separately, the CTC COC online application fee is $50.00 + $2.65 = $52.65 — that is a CTC application fee, not a Live Scan fee (CL-900).',
+  },
+  {
+    q: 'Which Oakland shops take Saturday walk-ins for a teaching credential?',
+    a: 'All 7 Oakland Saturday walk-in shops on DOJ tonight (accessed 2026-09-01): LPG Live Scan, Certifix @ UPS #3270, Allscan, Copy USA, UPS #7098, UPS #1821, and UPS #0243. Any DOJ Live Scan site works when Form 41-LS ORI is correct — this page does not invent CTC-certified shop badges. Nobody was called. Confirm before you go.',
+  },
+  {
+    q: 'Does a Certificate of Clearance let me teach?',
+    a: 'No. CL-900: the COC is not the same as a clear teaching or services credential and does not authorize instruction or services in schools. Its purpose is verification that you completed a professional fitness review.',
+  },
+  {
+    q: 'Do I email my Live Scan form to CTC?',
+    a: 'No. CTC: do not email your form to the Commission — scans are sent directly to CTC electronically. Print three copies of 41-LS, take them to the Live Scan site, and retain a copy for your records (CL-900; Fees and Fingerprinting).',
+  },
+  {
+    q: 'Where do results go / how do I check status?',
+    a: 'Results go to CTC via DOJ, not to you. Keep your ATI. Check status with ATI + date of birth at https://applicantstatus.doj.ca.gov/. Official ranges: 3–7 days (DOJ) on CTC\'s fees table; CL-900 usually within 10 working days. Also check CTC Online for Commission receipt.',
+  },
+  {
+    q: 'Cheapest / earliest Saturday walk-in in Oakland?',
+    a: 'Cheapest rolling: Allscan at $23.00 (Sat 10:00 am – 12:00 pm; 6th-floor Saturday access UNVERIFIED). Earliest open: LPG and Certifix @ UPS #3270 both 9:00 am — LPG $30; Certifix is walk-in-only Saturday and $45 cash / $47 card on the Certifix operator page. UPS #7098 remains a PrintScan CONFLICT (appointment-until-proven).',
   },
 ];

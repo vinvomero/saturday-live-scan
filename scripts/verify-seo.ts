@@ -132,6 +132,7 @@ for (const loc of [
   origin,
   `${origin}oakland-saturday-walk-in-live-scan/`,
   `${origin}oakland-saturday-cash-live-scan/`,
+  `${origin}oakland-saturday-teacher-credential-live-scan/`,
   `${origin}berkeley-saturday-walk-in-live-scan/`,
   `${origin}san-francisco-saturday-walk-in-live-scan/`,
   `${origin}alameda-county-sunday-live-scan/`,
@@ -148,6 +149,7 @@ for (const loc of [
   origin,
   `${origin}oakland-saturday-walk-in-live-scan/`,
   `${origin}oakland-saturday-cash-live-scan/`,
+  `${origin}oakland-saturday-teacher-credential-live-scan/`,
   `${origin}berkeley-saturday-walk-in-live-scan/`,
   `${origin}san-francisco-saturday-walk-in-live-scan/`,
   `${origin}alameda-county-sunday-live-scan/`,
@@ -224,6 +226,7 @@ function checkPage(
     base,
     `${base}oakland-saturday-walk-in-live-scan/`,
     `${base}oakland-saturday-cash-live-scan/`,
+    `${base}oakland-saturday-teacher-credential-live-scan/`,
     `${base}berkeley-saturday-walk-in-live-scan/`,
     `${base}san-francisco-saturday-walk-in-live-scan/`,
     `${base}alameda-county-sunday-live-scan/`,
@@ -287,11 +290,27 @@ if (oaklandCash) {
   if (!oaklandCash.includes('id="faq"')) fail('oakland-cash: missing id=faq');
 }
 
-checkPage('faq/index.html', {
+const oaklandTeacher = checkPage('oakland-saturday-teacher-credential-live-scan/index.html', {
+  title: 'Saturday Live Scan in Oakland for a teacher credential',
+  canonical: `${origin}oakland-saturday-teacher-credential-live-scan/`,
+  types: ['WebPage', 'FAQPage', 'BreadcrumbList'],
+  faq: true,
+});
+if (oaklandTeacher) {
+  if (!oaklandTeacher.includes('UNVERIFIED')) fail('oakland-teacher: UNVERIFIED strings missing from HTML');
+  if (!oaklandTeacher.includes('id="faq"')) fail('oakland-teacher: missing id=faq');
+}
+
+const faqHub = checkPage('faq/index.html', {
   title: 'Saturday walk-in Live Scan FAQ',
   canonical: `${origin}faq/`,
   types: ['WebPage'],
 });
+if (faqHub) {
+  if (!faqHub.includes(`href="${base}oakland-saturday-teacher-credential-live-scan/#faq"`)) {
+    fail('faq hub: missing teacher credential FAQ link');
+  }
+}
 checkPage('404.html', {
   title: 'Page not found',
   canonical: `${origin}404.html`,
@@ -404,6 +423,7 @@ checkShopOffer(berkeley, 'berkeley', true);
 checkShopOffer(alameda, 'alameda', true);
 checkShopOffer(sanFrancisco, 'san-francisco', true);
 checkShopOffer(oaklandCash, 'oakland-cash', true);
+checkShopOffer(oaklandTeacher, 'oakland-teacher', true);
 checkShopOffer(read('faq/index.html'), 'faq', true);
 checkShopOffer(read('404.html'), '404', false);
 
