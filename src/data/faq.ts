@@ -270,3 +270,38 @@ export const oaklandDowntownFruitvaleFaq: FaqItem[] = [
     a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
   },
 ];
+
+export const sanJoseFaq: FaqItem[] = [
+  {
+    q: 'Can I walk in Saturday in San Jose without an appointment?',
+    a: 'Yes for the 19 DOJ Saturday walk-in rows on this page. "Walk-ins & appointments" means appointments may still jump the line. Walk-in-only on Saturday (DOJ does not list appointments): Postal Annex 387, Certifix Mailbox & More, Certifix Postal Annex 3015, and Certifix UPS #5199. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. Several San Jose rows also say additional service fees may apply (including the cheapest UPS #0793 row).',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'Most shops in this table list cash plus card options on DOJ. Cash only: Certifix at Mailbox & More, and Long Luc Insurance Agency. No Credit Cards on DOJ: Liberty Tax LTS 18555 (it still lists debit and other methods). Certifix UPS #5199 lists cash and credit but not debit or billing accounts. DOJ says to check for payment restrictions. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are UPS store hours the fingerprint hours?',
+    a: 'No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Several UPS rows also list Sunday Live Scan on DOJ (#0793, #0102, #1330, #6497, #6582, and T&T Patel / Monterey Rd). That is fingerprint hours from DOJ, not a promise that every UPS service is open.',
+  },
+  {
+    q: 'Why isn\'t UPS #0122 / FingerScan / Quick Scan / Veracity on this list?',
+    a: 'UPS #0122 (Snell Ave), FingerScan Digital, Fortress Business Services, SK Salunkhe, Certifix UPS #6381, Postal Annex +4U, and Veracity are Saturday (or Weekends) appointment only on DOJ. Quick Scan is Weekends appointment only. Certifix UPS #0240 is weekday-only. This page is Saturday walk-in only (accessed 2026-09-03).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in San Jose?',
+    a: 'Cheapest rolling fee in this table: The UPS Store #0793 at $20.00 (1512 S. De Anza Blvd; additional service fees may apply; opens 10:00 am). Earliest Saturday open is a five-way tie at 9:00 am: Insightful Notary ($30), Long Luc ($25, cash only, closes 2:00 pm), UPS #1330 ($25), UPS #6497 ($27.50), and UPS #0134 ($40). Next-cheapest after #0793 is Liberty Tax at $24.00 (no credit cards on DOJ).',
+  },
+];
