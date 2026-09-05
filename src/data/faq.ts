@@ -305,3 +305,38 @@ export const sanJoseFaq: FaqItem[] = [
     a: 'Cheapest rolling fee in this table: The UPS Store #0793 at $20.00 (1512 S. De Anza Blvd; additional service fees may apply; opens 10:00 am). Earliest Saturday open is a five-way tie at 9:00 am: Insightful Notary ($30), Long Luc ($25, cash only, closes 2:00 pm), UPS #1330 ($25), UPS #6497 ($27.50), and UPS #0134 ($40). Next-cheapest after #0793 is Liberty Tax at $24.00 (no credit cards on DOJ).',
   },
 ];
+
+export const fremontFaq: FaqItem[] = [
+  {
+    q: 'Can I walk in Saturday in Fremont without an appointment?',
+    a: 'Yes for the 6 DOJ Saturday walk-in rows on this page. "Walk-ins & appointments" means appointments may still jump the line. Walk-in-only on Saturday (DOJ does not list appointments): Niche Business Cafe and Certifix Aria Printing and Shipping. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. Rolling fees on this page range from $20.00 (Print N\' Parcel) to $45.00.',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'Every shop in this table lists cash plus card options on DOJ. Certifix Aria lists cash, checks, credit, and debit but no Billing Accounts. DOJ says to check for payment restrictions. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are UPS store hours the fingerprint hours?',
+    a: 'No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. UPS #1640 also lists Sunday appt-only Live Scan on DOJ (10:30 am – 2:30 pm). UPS #1805 lists Sunday Walk-ins & Appointments on DOJ (10:30 am – 2:30 pm). That is fingerprint hours from DOJ, not a promise that every UPS service is open.',
+  },
+  {
+    q: 'Why isn\'t California Immigration / Santosh / Fremont PD on this list?',
+    a: 'California Immigration Services Inc. is Saturday appointment only on DOJ. Santosh Services Inc. is Weekends appointment only (and DOJ lists city-only Fremont, CA 94539 with no street). Fremont Police Department, Livescan Identity, Postal Annex #111, and Certifix UPS #6139 are weekday-only on DOJ. This page is Saturday walk-in only (accessed 2026-09-04).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Fremont?',
+    a: 'Cheapest rolling fee and earliest Saturday open in this table: Print N\' Parcel at $20.00, open 9:00 am – 2:00 pm (3654 Thornton Avenue; short window, closes 2:00 pm). Second-cheapest: Niche Business Cafe at $25.00 (walk-in-only Saturday; opens 10:00 am). Latest morning open: Certifix Aria at 11:00 am ($45.00; no Billing Accounts on DOJ).',
+  },
+];
