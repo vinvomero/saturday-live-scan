@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 import { getCollection, render } from 'astro:content';
 import type { FaqItem } from '../data/faq';
-import { oaklandFaq, berkeleyFaq, alamedaSundayFaq, sanFranciscoFaq, oaklandCashFaq, oaklandTeacherFaq, oaklandDowntownFruitvaleFaq, sanJoseFaq } from '../data/faq';
+import { oaklandFaq, berkeleyFaq, alamedaSundayFaq, sanFranciscoFaq, oaklandCashFaq, oaklandTeacherFaq, oaklandDowntownFruitvaleFaq, sanJoseFaq, fremontFaq } from '../data/faq';
 import { listingsBySlug, itemListJsonLd } from '../data/listings';
 
 export async function getStaticPaths() {
@@ -25,6 +25,7 @@ const faqById: Record<string, FaqItem[] | undefined> = {
   'oakland-saturday-teacher-credential-live-scan': oaklandTeacherFaq,
   'oakland-saturday-downtown-vs-fruitvale-live-scan': oaklandDowntownFruitvaleFaq,
   'san-jose-saturday-walk-in-live-scan': sanJoseFaq,
+  'fremont-saturday-walk-in-live-scan': fremontFaq,
 };
 const faq = faqById[entry.id];
 const site = Astro.site ?? new URL('https://saturdaylivescan.com');
