@@ -340,3 +340,38 @@ export const concordFaq: FaqItem[] = [
     a: 'Cheapest rolling fee (tie): A1 Photo Lab and Postal Annex #164 at $28.00 (both at 785 Oak Grove Road; Suites N and E2). Earliest Saturday open: The UPS Store #0854 at 8:30 am ($38.00; 4425-C Treat Blvd.). Latest Saturday close: The UPS Store #7668 at 5:00 pm ($38.00). Highest fee: Certifix UPS #0075 at $43.00 (walk-in-only Saturday; no Billing Accounts on DOJ).',
   },
 ];
+
+export const haywardFaq: FaqItem[] = [
+  {
+    q: 'Can I walk in Saturday in Hayward without an appointment?',
+    a: 'Yes for the 4 DOJ Saturday walk-in rows on this page. "Walk-ins & appointments" means appointments may still jump the line. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. Rolling fees on this page range from $31.00 (WellnessMart, MD.) to $45.00 (Postal Annex #250 and UPS #5831). UPS #7559 is $39.99.',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'WellnessMart lists billing / corporate / credit / debit on DOJ but no Cash. UPS #5831 lists Cash and Credit Cards only on DOJ (no Debit, no Billing Accounts) and may charge additional service fees. Postal Annex #250 and UPS #7559 list cash plus card options on DOJ. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are UPS store hours the fingerprint hours?',
+    a: 'No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. UPS #7559 lists Weekends Walk-ins & Appointments on DOJ (10:00 am – 3:00 pm). UPS #5831 lists Saturday Walk-ins & Appointments on DOJ (10:00 am – 5:00 pm). That is fingerprint hours from DOJ, not a promise that every UPS service is open.',
+  },
+  {
+    q: 'Why isn\'t Tarrell / ArrangeNotary / CSU East Bay on this list?',
+    a: 'Tarrell Live Scan and Garcia\'s Security Training are weekday-only on DOJ. ArrangeNotary is Saturday appointment only (city-only address on DOJ). Link Livescan is Weekends appointment only (city-only; hours blank on DOJ detail). CSU East Bay Police Department is Mon–Thu walk-ins only. This page is Saturday walk-in only (accessed 2026-09-06).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Hayward?',
+    a: 'Cheapest rolling fee: WellnessMart, MD. at $31.00 (22314 Foothill Blvd; no Cash on DOJ; split Saturday lunch gap). Earliest Saturday open: four-way tie at 10:00 am (WellnessMart; UPS #7559 Weekends; Postal Annex #250; UPS #5831). Latest Saturday close: The UPS Store #5831 at 5:00 pm ($45.00; Cash + Credit Cards only on DOJ). Highest fee tie: Postal Annex #250 and UPS #5831 at $45.00.',
+  },
+];
