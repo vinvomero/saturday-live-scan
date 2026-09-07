@@ -1,6 +1,6 @@
 ---
 title: Saturday walk-in Live Scan in Fremont
-updated: 2026-09-04
+updated: "2026-09-04"
 query: Saturday walk-in Live Scan Fremont
 ---
 
