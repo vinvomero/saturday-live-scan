@@ -410,3 +410,38 @@ export const haywardFaq: FaqItem[] = [
     a: 'Cheapest rolling fee: WellnessMart, MD. at $31.00 (22314 Foothill Blvd; no Cash on DOJ; split Saturday lunch gap). Earliest Saturday open: four-way tie at 10:00 am (WellnessMart; UPS #7559 Weekends; Postal Annex #250; UPS #5831). Latest Saturday close: The UPS Store #5831 at 5:00 pm ($45.00; Cash + Credit Cards only on DOJ). Highest fee tie: Postal Annex #250 and UPS #5831 at $45.00.',
   },
 ];
+
+export const walnutCreekFaq: FaqItem[] = [
+  {
+    q: 'Can I walk in Saturday in Walnut Creek without an appointment?',
+    a: 'Yes for the 5 DOJ Saturday walk-in rows on this page. "Walk-ins & appointments" means appointments may still jump the line. Copymat is walk-in-only on Saturday (DOJ does not list appointments). Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. Rolling fees on this page range from $35.00 (UPS #0099 and Vee\'s Tax) to $68.00 (Certifix UPS #6547). UPS #2414 is $38.00; Copymat is $40.00.',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'All five INCLUDE rows list Cash on DOJ. UPS #0099 and Vee\'s Tax flag that additional service fees may apply. Copymat and Certifix UPS #6547 list no Billing Accounts on DOJ. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are UPS store hours the fingerprint hours?',
+    a: 'No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. UPS #0099 and UPS #2414 list Saturday Walk-ins & Appointments on DOJ (both 9:00 am – 5:00 pm). Certifix UPS #6547 lists Saturday Walk-ins & Appointments on DOJ (10:00 am – 3:30 pm). That is fingerprint hours from DOJ, not a promise that every UPS service is open.',
+  },
+  {
+    q: 'Why isn\'t Certifix #6225 / UPS #0863 / Fingerprints Background Check on this list?',
+    a: 'Certifix UPS #6225 is Saturday appointment only. Fingerprints Background Check Services is Weekends appointment only (city-only address on DOJ). The UPS Store #0863 is weekday-only walk-ins on DOJ. This page is Saturday walk-in only (accessed 2026-09-07).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Walnut Creek?',
+    a: 'Cheapest rolling fee tie: The UPS Store #0099 and Vee\'s Tax Services LLC at $35.00 (both flag additional service fees on DOJ). Earliest Saturday open: two-way tie at 9:00 am (UPS #0099; UPS #2414). Latest close: Vee\'s Tax Services LLC at 7:00 pm (Weekends label; $35.00). Highest fee: Certifix UPS #6547 at $68.00 (closes 3:30 pm Saturday).',
+  },
+];
