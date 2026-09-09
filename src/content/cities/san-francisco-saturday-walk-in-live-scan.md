@@ -85,6 +85,10 @@ DOJ's own disclaimer (accessed 2026-08-31): contact providers "in advance to ver
 
 Results go to the **requesting agency**, not to you (DOJ applicants page). Keep the yellow copy / ATI number. If prints reject, resubmission rules are the agency's, not the shop's.
 
+## See also
+
+Nearby: [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-live-scan/) — 7 shops, rolling fees $23–$50.
+
 ---
 
 ## FAQ

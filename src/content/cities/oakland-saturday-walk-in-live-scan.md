@@ -1,10 +1,13 @@
 ---
-title: Saturday walk-in Live Scan in Oakland
-updated: "2026-08-29"
+title: Saturday walk-in Live Scan Oakland
+updated: "2026-09-09"
 query: Saturday walk-in Live Scan Oakland
+description: Saturday walk-in Live Scan Oakland — 7 shops open Saturday. Rolling fees $23–$50. Bring BCIA 8016 form and ID. Confirm hours before you go.
 ---
 
-# Saturday walk-in Live Scan in Oakland
+# Saturday walk-in Live Scan Oakland
+
+**Saturday walk-in Live Scan Oakland:** 7 shops marked Saturday walk-in on the DOJ list. Rolling fees range from $23 (Allscan, 10am–12pm) to $50. Bring your California Request for Live Scan Service form (BCIA 8016) and unexpired photo ID. Confirm hours before you go — nobody was called.
 
 **Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** without an appointment.
 
