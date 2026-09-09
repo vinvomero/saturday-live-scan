@@ -13,7 +13,7 @@ description: Saturday walk-in Live Scan Oakland — 7 shops open Saturday. Rolli
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop’s own page says they roll FD-258. I-9s or notary work.
 
-**Updated:** 2026-08-29  
+**Updated:** 2026-09-09  
 **Query this page answers:** “Saturday walk-in Live Scan Oakland”
 
 ## How this was verified
