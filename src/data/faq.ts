@@ -445,3 +445,38 @@ export const walnutCreekFaq: FaqItem[] = [
     a: 'Cheapest rolling fee tie: The UPS Store #0099 and Vee\'s Tax Services LLC at $35.00 (both flag additional service fees on DOJ). Earliest Saturday open: two-way tie at 9:00 am (UPS #0099; UPS #2414). Latest close: Vee\'s Tax Services LLC at 7:00 pm (Weekends label; $35.00). Highest fee: Certifix UPS #6547 at $68.00 (closes 3:30 pm Saturday).',
   },
 ];
+
+export const richmondFaq: FaqItem[] = [
+  {
+    q: 'Can I walk in Saturday in Richmond without an appointment?',
+    a: 'Yes for the 3 DOJ Saturday walk-in rows on this page. "Walk-ins & appointments" means appointments may still jump the line. UPS #7242 is walk-in-only on Saturday (DOJ does not list appointments). Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. Rolling fees on this page range from $31.00 (WellnessMart, MD.) to $50.00 (UPS #7242). UPS #4612 is $35.00.',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'WellnessMart lists credit and debit only on DOJ — no Cash. UPS #4612 and UPS #7242 list cash plus card options on DOJ. UPS #7242 may charge additional service fees. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are UPS store hours the fingerprint hours?',
+    a: 'No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. UPS #7242 lists Saturday Walk-ins on DOJ (9:15 am – 4:30 pm). UPS #4612 lists Saturday Walk-ins & Appointments on DOJ (10:00 am – 5:00 pm). That is fingerprint hours from DOJ, not a promise that every UPS service is open.',
+  },
+  {
+    q: 'Why isn\'t Richmond Police / STTICKY FINGERS on this list?',
+    a: 'Richmond Police Department is weekday appointment only (Tue / Wed / Thu). STTICKY FINGERS, LLC is Tuesday appointment only (city-only address on DOJ). This page is Saturday walk-in only (accessed 2026-09-08).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Richmond?',
+    a: 'Cheapest rolling fee: WellnessMart, MD. at $31.00 (3288 Pierce Street; no Cash on DOJ; split Saturday lunch gap). Earliest Saturday open: The UPS Store #7242 at 9:15 am ($50.00; walk-in-only Saturday; additional service fees may apply). Latest close: The UPS Store #4612 at 5:00 pm ($35.00). Highest fee: UPS #7242 at $50.00.',
+  },
+];
