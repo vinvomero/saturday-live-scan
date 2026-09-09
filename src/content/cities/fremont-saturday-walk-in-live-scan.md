@@ -114,3 +114,7 @@ No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI 
 ### What's the cheapest / earliest Saturday walk-in in Fremont?
 
 Cheapest rolling fee and earliest Saturday open in this table: Print N' Parcel at $20.00, open 9:00 am – 2:00 pm (3654 Thornton Avenue; short window, closes 2:00 pm). Second-cheapest: Niche Business Cafe at $25.00 (walk-in-only Saturday; opens 10:00 am). Latest morning open: Certifix Aria at 11:00 am ($45.00; no Billing Accounts on DOJ).
+
+---
+
+**See also:** [Saturday walk-in Live Scan Oakland](https://saturdaylivescan.com/oakland-saturday-walk-in-live-scan/) — nearby Oakland has 7 Saturday walk-in shops with rolling fees $23–$50, including downtown and Fruitvale options.
