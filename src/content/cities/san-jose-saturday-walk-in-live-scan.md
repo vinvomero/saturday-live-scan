@@ -127,3 +127,7 @@ No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI 
 ### What's the cheapest / earliest Saturday walk-in in San Jose?
 
 Cheapest rolling fee in this table: **The UPS Store #0793** at **$20.00** (1512 S. De Anza Blvd; additional service fees may apply; opens 10:00 am). Earliest Saturday open is a five-way tie at **9:00 am**: Insightful Notary ($30), Long Luc ($25, cash only, closes 2:00 pm), UPS #1330 ($25), UPS #6497 ($27.50), and UPS #0134 ($40). Next-cheapest after #0793 is Liberty Tax at $24.00 (no credit cards on DOJ).
+
+---
+
+**See also:** [Saturday walk-in Live Scan in Oakland](https://saturdaylivescan.com/oakland-saturday-walk-in-live-scan/) — if you're in the East Bay, Oakland offers 7 Saturday walk-in locations with rolling fees $23–$50.

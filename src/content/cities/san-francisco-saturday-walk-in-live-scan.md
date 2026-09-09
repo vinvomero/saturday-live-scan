@@ -120,3 +120,7 @@ No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI 
 ### What's the cheapest / earliest Saturday walk-in in San Francisco?
 
 Post Box Inc. lists the lowest rolling fee in this table at $29.00, walk-in-only Saturday 9:00 am – 5:00 pm (also Sunday walk-ins 10:00 am – 2:00 pm on DOJ). Tied for earliest open with Certifix/UPS #0361 at 9:00 am — but #0361 is $30.00 and carries a closed-listing gotcha. Next cheapest clean rows: AAA/UnionPost at $30.00 (opens 11:00 am) and the UPS #0178 / #5037 / #5402 band at $35.00 (open 9:30 am).
+
+---
+
+**See also:** [Saturday walk-in Live Scan in Oakland](https://saturdaylivescan.com/oakland-saturday-walk-in-live-scan/) — 7 shops across Oakland with rolling fees $23–$50, including downtown and Fruitvale locations.

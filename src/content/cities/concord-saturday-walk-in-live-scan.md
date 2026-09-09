@@ -109,3 +109,7 @@ No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI 
 ### What's the cheapest / earliest Saturday walk-in in Concord?
 
 Cheapest rolling fee (tie): A1 Photo Lab and Postal Annex #164 at $28.00 (both at 785 Oak Grove Road; Suites N and E2). Earliest Saturday open: The UPS Store #0854 at 8:30 am ($38.00; 4425-C Treat Blvd.). Latest Saturday close: The UPS Store #7668 at 5:00 pm ($38.00). Highest fee: Certifix UPS #0075 at $43.00 (walk-in-only Saturday; no Billing Accounts on DOJ).
+
+---
+
+**See also:** [Saturday walk-in Live Scan in Oakland](https://saturdaylivescan.com/oakland-saturday-walk-in-live-scan/) — across the bay, Oakland offers 7 Saturday walk-in locations with rolling fees $23–$50.
