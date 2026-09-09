@@ -8,6 +8,7 @@ const cities = defineCollection({
     title: z.string(),
     updated: z.string(),
     query: z.string().optional(),
+    description: z.string().optional(),
   }),
 });
 
