@@ -136,6 +136,14 @@ for (const loc of [
   `${origin}berkeley-saturday-walk-in-live-scan/`,
   `${origin}san-francisco-saturday-walk-in-live-scan/`,
   `${origin}alameda-county-sunday-live-scan/`,
+  `${origin}san-jose-saturday-walk-in-live-scan/`,
+  `${origin}fremont-saturday-walk-in-live-scan/`,
+  `${origin}concord-saturday-walk-in-live-scan/`,
+  `${origin}hayward-saturday-walk-in-live-scan/`,
+  `${origin}walnut-creek-saturday-walk-in-live-scan/`,
+  `${origin}richmond-saturday-walk-in-live-scan/`,
+  `${origin}oakland-saturday-downtown-vs-fruitvale-live-scan/`,
+  `${origin}santa-clara-saturday-walk-in-live-scan/`,
   `${origin}faq/`,
 ]) {
   if (!sitemap.includes(`<loc>${loc}</loc>`)) fail(`sitemap missing ${loc}`);
@@ -153,6 +161,14 @@ for (const loc of [
   `${origin}berkeley-saturday-walk-in-live-scan/`,
   `${origin}san-francisco-saturday-walk-in-live-scan/`,
   `${origin}alameda-county-sunday-live-scan/`,
+  `${origin}san-jose-saturday-walk-in-live-scan/`,
+  `${origin}fremont-saturday-walk-in-live-scan/`,
+  `${origin}concord-saturday-walk-in-live-scan/`,
+  `${origin}hayward-saturday-walk-in-live-scan/`,
+  `${origin}walnut-creek-saturday-walk-in-live-scan/`,
+  `${origin}richmond-saturday-walk-in-live-scan/`,
+  `${origin}oakland-saturday-downtown-vs-fruitvale-live-scan/`,
+  `${origin}santa-clara-saturday-walk-in-live-scan/`,
   `${origin}faq/`,
 ]) {
   if (!llms.includes(loc)) fail(`llms.txt missing ${loc}`);
@@ -230,6 +246,14 @@ function checkPage(
     `${base}berkeley-saturday-walk-in-live-scan/`,
     `${base}san-francisco-saturday-walk-in-live-scan/`,
     `${base}alameda-county-sunday-live-scan/`,
+    `${base}san-jose-saturday-walk-in-live-scan/`,
+    `${base}fremont-saturday-walk-in-live-scan/`,
+    `${base}concord-saturday-walk-in-live-scan/`,
+    `${base}hayward-saturday-walk-in-live-scan/`,
+    `${base}walnut-creek-saturday-walk-in-live-scan/`,
+    `${base}richmond-saturday-walk-in-live-scan/`,
+    `${base}oakland-saturday-downtown-vs-fruitvale-live-scan/`,
+    `${base}santa-clara-saturday-walk-in-live-scan/`,
     `${base}faq/`,
   ]) {
     if (!html.includes(`href="${href}"`)) fail(`${rel}: missing internal link ${href}`);
@@ -368,6 +392,19 @@ checkListings(
   ['Berkeley Live Scan'],
 );
 
+const santaClara = checkPage('santa-clara-saturday-walk-in-live-scan/index.html', {
+  title: 'Saturday walk-in Live Scan in Santa Clara',
+  canonical: `${origin}santa-clara-saturday-walk-in-live-scan/`,
+  types: ['WebPage', 'FAQPage', 'BreadcrumbList', 'ItemList'],
+  faq: true,
+});
+checkListings(
+  santaClara,
+  'src/content/cities/santa-clara-saturday-walk-in-live-scan.md',
+  'santa-clara',
+  [],
+);
+
 if (oakland) {
   for (const s of ['Allscan', 'Copy USA', '#7098', '#0243', '6th-floor', 'UNVERIFIED']) {
     if (!oakland.includes(s) && !oakland.toLowerCase().includes(s.toLowerCase())) {
@@ -424,6 +461,7 @@ checkShopOffer(alameda, 'alameda', true);
 checkShopOffer(sanFrancisco, 'san-francisco', true);
 checkShopOffer(oaklandCash, 'oakland-cash', true);
 checkShopOffer(oaklandTeacher, 'oakland-teacher', true);
+checkShopOffer(santaClara, 'santa-clara', true);
 checkShopOffer(read('faq/index.html'), 'faq', true);
 checkShopOffer(read('404.html'), '404', false);
 

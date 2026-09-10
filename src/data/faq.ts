@@ -480,3 +480,38 @@ export const richmondFaq: FaqItem[] = [
     a: 'Cheapest rolling fee: WellnessMart, MD. at $31.00 (3288 Pierce Street; no Cash on DOJ; split Saturday lunch gap). Earliest Saturday open: The UPS Store #7242 at 9:15 am ($50.00; walk-in-only Saturday; additional service fees may apply). Latest close: The UPS Store #4612 at 5:00 pm ($35.00). Highest fee: UPS #7242 at $50.00.',
   },
 ];
+
+export const santaClaraFaq: FaqItem[] = [
+  {
+    q: 'Can I walk in Saturday in Santa Clara without an appointment?',
+    a: 'Yes for the 6 DOJ Saturday walk-in rows on this page (city of Santa Clara only). "Walk-ins & appointments" means appointments may still jump the line. Certifix AD West Mail Center and The Connector Fashion Lane are walk-in-only on Saturday (DOJ does not list appointments). Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. Rolling fees on this page range from $18.00 (Certifix AD West Mail Center) to $30.00 (UPS #6844 and The Connector Fashion Lane).',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'All six INCLUDE rows list Cash plus card options on DOJ. Certifix AD West, UPS #2762, and The Connector Fashion Lane may charge additional service fees. The Connector Fashion Lane lists Cash + credit + debit only (no billing accounts / checks on DOJ). Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are UPS store hours the fingerprint hours?',
+    a: 'No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. UPS #2762 lists Saturday Walk-ins & Appointments on DOJ (9:00 am – 4:00 pm). UPS #6844 lists 9:00 am – 5:00 pm. UPS #4636 lists 10:00 am – 5:00 pm. That is fingerprint hours from DOJ, not a promise that every UPS service is open.',
+  },
+  {
+    q: 'Why isn\'t San Jose / Sunnyvale on this list?',
+    a: 'This page is the city of Santa Clara only. San Jose already has its own Saturday walk-in page. Sunnyvale, Cupertino, Mountain View, Palo Alto, Milpitas, Campbell, Los Gatos, and other Santa Clara County cities are other cities (accessed 2026-09-09).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Santa Clara?',
+    a: 'Cheapest rolling fee: Certifix Live Scan dbw AD West Mail Center at $18.00 (59 Washington Street; walk-in-only Saturday; additional service fees may apply). Earliest Saturday open: The UPS Store #2762 and The UPS Store #6844 at 9:00 am (two-way tie; #2762 is the cheaper of the two at $25.00). Latest close: The Connector Fashion Lane at 7:00 pm ($30.00; walk-in-only Saturday). Highest fee: UPS #6844 and The Connector Fashion Lane at $30.00.',
+  },
+];
