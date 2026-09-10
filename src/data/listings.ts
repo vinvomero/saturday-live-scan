@@ -56,6 +56,32 @@ export const listingsBySlug: Record<string, ShopListing[]> = {
       address: '1629 University Avenue, Berkeley, CA 94710',
     },
   ],
+  'santa-clara-saturday-walk-in-live-scan': [
+    {
+      name: 'The UPS Store #2762',
+      address: '5255 Stevens Creek Blvd., Santa Clara, CA 95051',
+    },
+    {
+      name: 'The UPS Store #6844',
+      address: '1231 Franklin Mall, Santa Clara, CA 95050',
+    },
+    {
+      name: 'Certifix Live Scan dbw AD West Mail Center',
+      address: '59 Washington Street, Santa Clara, CA 95050',
+    },
+    {
+      name: 'Postal Annex #14024',
+      address: '2010 El Camino Real, Santa Clara, CA 95050',
+    },
+    {
+      name: 'The UPS Store #4636',
+      address: '2784 Homestead Road, Santa Clara, CA 95051',
+    },
+    {
+      name: 'The Connector Fashion Lane',
+      address: '2907 El Camino Real, Santa Clara, CA 95051',
+    },
+  ],
 };
 
 export function itemListJsonLd(listings: ShopListing[]): Record<string, unknown> {
