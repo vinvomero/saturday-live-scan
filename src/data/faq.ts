@@ -515,3 +515,38 @@ export const santaClaraFaq: FaqItem[] = [
     a: 'Cheapest rolling fee: Certifix Live Scan dbw AD West Mail Center at $18.00 (59 Washington Street; walk-in-only Saturday; additional service fees may apply). Earliest Saturday open: The UPS Store #2762 and The UPS Store #6844 at 9:00 am (two-way tie; #2762 is the cheaper of the two at $25.00). Latest close: The Connector Fashion Lane at 7:00 pm ($30.00; walk-in-only Saturday). Highest fee: UPS #6844 and The Connector Fashion Lane at $30.00.',
   },
 ];
+
+export const sunnyvaleFaq: FaqItem[] = [
+  {
+    q: 'Can I walk in Saturday in Sunnyvale without an appointment?',
+    a: 'Yes for the 3 DOJ Saturday walk-in rows on this page (city of Sunnyvale only). "Walk-ins & appointments" means appointments may still jump the line. KR Services and The UPS Store #0067 are walk-in-only on Saturday (DOJ does not list appointments). Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. Rolling fees on this page range from $25.00 (KR Services) to $55.00 (UPS #0067).',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'All three INCLUDE rows list Cash plus card options on DOJ. KR Services may charge additional service fees. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are UPS store hours the fingerprint hours?',
+    a: 'No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. UPS #0067 lists Saturday Walk-ins on DOJ (10:00 am – 4:45 pm). That is fingerprint hours from DOJ, not a promise that every UPS service is open.',
+  },
+  {
+    q: 'Why isn\'t San Jose / Santa Clara on this list?',
+    a: 'This page is the city of Sunnyvale only. San Jose and Santa Clara already have their own Saturday walk-in pages. Cupertino, Mountain View, Palo Alto, Milpitas, Campbell, Los Gatos, and other Santa Clara County cities are other cities (accessed 2026-09-10).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Sunnyvale?',
+    a: 'Cheapest rolling fee: KR Services, LLC dba Notary Livescan Post at $25.00 (1208 E. Arques Avenue, Suite #101; walk-in-only Saturday; additional service fees may apply). Earliest Saturday open: all three shops at 10:00 am (three-way tie). Latest close: KR Services at 5:00 pm. Highest fee: The UPS Store #0067 at $55.00.',
+  },
+];
