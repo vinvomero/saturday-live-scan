@@ -2,6 +2,7 @@
 title: Saturday walk-in Live Scan in Fremont
 updated: "2026-09-04"
 query: Saturday walk-in Live Scan Fremont
+description: Saturday walk-in Live Scan in Fremont — 6 shops open Saturday. Rolling fees $20–$45. Bring BCIA 8016 form and ID. Confirm hours before you go.
 ---
 
 # Saturday walk-in Live Scan in Fremont

@@ -100,6 +100,14 @@ Results go to the **requesting agency**, not to you (DOJ applicants page). Keep 
 
 ---
 
+---
+
+**See also:** [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-live-scan/) — main Oakland page, 7 shops.
+
+---
+
+**See also:** [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-live-scan/) — main Oakland page, 7 shops.
+
 ## FAQ
 
 ### How did you split downtown vs Fruitvale?

@@ -72,6 +72,10 @@ Keep the **ATI** number from the Live Scan session. Results go to **CTC via DOJ*
 
 ---
 
+---
+
+**See also:** [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-live-scan/) — main Oakland page, 7 shops.
+
 ## FAQ
 
 ### Which form do I use for CTC / teacher credential Live Scan?

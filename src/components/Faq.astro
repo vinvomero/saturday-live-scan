@@ -14,13 +14,13 @@ function parts(text: string) {
 <section class="faq" id="faq">
   <h2>FAQ</h2>
   {items.map((item) => (
-    <div>
-      <h3>{item.q}</h3>
+    <details>
+      <summary>{item.q}</summary>
       <p>
         {parts(item.a).map((part) =>
           part.startsWith('https://') ? <a href={part}>{part}</a> : part
         )}
       </p>
-    </div>
+    </details>
   ))}
 </section>

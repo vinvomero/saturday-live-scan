@@ -2,6 +2,7 @@
 title: Saturday walk-in Live Scan in San Jose
 updated: "2026-09-03"
 query: Saturday walk-in Live Scan San Jose
+description: Saturday walk-in Live Scan in San Jose — 19 shops open Saturday. Rolling fees $20–$40. Bring BCIA 8016 form and ID. Confirm hours before you go.
 ---
 
 # Saturday walk-in Live Scan in San Jose
