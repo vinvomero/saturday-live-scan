@@ -17,32 +17,63 @@ const updated =
   faq={homeFaq}
   website={true}
 >
-  <h1>Saturday Walk-in Live Scan (California)</h1>
-  <div class="trust-strip">
-    <span class="trust-chip">{cities.length} cities</span>
-    <span class="trust-chip">California walk-in focus</span>
-    <span class="trust-chip">Free directory</span>
-    <span class="trust-chip">Confirm hours before you go</span>
+  <div class="hero">
+    <div class="hero-left">
+      <p class="eyebrow">California · Saturday walk-in filter</p>
+      <h1>Find a Saturday walk-in Live Scan without digging the DOJ list.</h1>
+      <p class="lede">
+        California Live Scan shops that the DOJ list marks as Saturday walk-in, city by city. Confirm hours before you go — nobody listed here was called.
+      </p>
+      <div class="hero-ctas">
+        <a href="#cities" class="btn btn-primary">Browse cities</a>
+        <a href={`${base}oakland-saturday-walk-in-live-scan/`} class="btn btn-secondary">Jump to Oakland</a>
+      </div>
+      <div class="trust-strip">
+        <span class="trust-chip">{cities.length} pages live</span>
+        <span class="trust-chip">DOJ-sourced rows only</span>
+        <span class="trust-chip">Free directory</span>
+        <span class="trust-chip">Confirm hours first</span>
+      </div>
+    </div>
+    <div class="hero-right">
+      <h2>Most searched</h2>
+      <p class="featured-city">
+        <strong><a href={`${base}oakland-saturday-walk-in-live-scan/`} style="color: white;">Saturday walk-in Live Scan Oakland</a></strong><br />
+        7 shops, rolling fees $23–$50
+      </p>
+      <div class="stat-grid">
+        <div class="stat">
+          <span class="stat-value">{cities.length}</span>
+          <span class="stat-label">city pages</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value">$19</span>
+          <span class="stat-label">founding featured/mo</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value">Sat</span>
+          <span class="stat-label">walk-in</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value">CA</span>
+          <span class="stat-label">DOJ filter</span>
+        </div>
+      </div>
+    </div>
   </div>
-  <p>
-    California Live Scan shops that the DOJ list marks as Saturday walk-in, city by city.
-  </p>
-  <p class="featured-city">
-    <strong>Most searched:</strong> <a href={`${base}oakland-saturday-walk-in-live-scan/`}>Saturday walk-in Live Scan Oakland</a> — 7 shops, rolling fees $23–$50.
-  </p>
   <section class="how-it-works">
     <h2>How it works</h2>
     <div class="how-steps">
       <div class="how-step">
         <div class="step-number">1</div>
         <div class="step-content">
-          <p>Find your city below and check which shops are marked Saturday walk-in.</p>
+          <p>Pick your city from the table below. Each page lists which shops the DOJ marks as Saturday walk-in.</p>
         </div>
       </div>
       <div class="how-step">
         <div class="step-number">2</div>
         <div class="step-content">
-          <p>Bring your Form 8016 / 41-LS request form and ID.</p>
+          <p>Bring your Form 8016 / 41-LS request form and unexpired photo ID.</p>
         </div>
       </div>
       <div class="how-step">
@@ -53,13 +84,67 @@ const updated =
       </div>
     </div>
   </section>
-  <ul class="city-list">
-    {cities.map((city) => (
-      <li>
-        <a href={`${base}${city.id}/`}>{city.data.title}</a>
-      </li>
-    ))}
-  </ul>
+  <section id="cities">
+    <h2>Saturday walk-in by city</h2>
+    <ul class="city-list">
+      {cities.map((city) => {
+        const id = city.id;
+        let shortName = city.data.title;
+        let descriptor = 'Saturday walk-in';
+        let badge = null;
+        let isFeatured = false;
+        
+        if (id === 'oakland-saturday-walk-in-live-scan') {
+          shortName = 'Oakland';
+          descriptor = '7 shops, $23–$50 rolling fees';
+          badge = 'Most searched';
+          isFeatured = true;
+        } else if (id === 'sunnyvale-saturday-walk-in-live-scan') {
+          shortName = 'Sunnyvale';
+          badge = 'New';
+          descriptor = '3 shops';
+        } else if (id === 'oakland-saturday-cash-live-scan') {
+          shortName = 'Oakland (cash)';
+          descriptor = 'Cash accepted shops';
+        } else if (id === 'oakland-saturday-teacher-credential-live-scan') {
+          shortName = 'Oakland (teacher)';
+          descriptor = 'Teacher credential';
+        } else if (id === 'oakland-saturday-downtown-vs-fruitvale-live-scan') {
+          shortName = 'Oakland (downtown)';
+          descriptor = 'Downtown vs Fruitvale';
+        } else if (id === 'alameda-county-sunday-live-scan') {
+          shortName = 'Alameda County';
+          descriptor = 'Sunday walk-in';
+        } else if (id === 'berkeley-saturday-walk-in-live-scan') {
+          shortName = 'Berkeley';
+        } else if (id === 'concord-saturday-walk-in-live-scan') {
+          shortName = 'Concord';
+        } else if (id === 'fremont-saturday-walk-in-live-scan') {
+          shortName = 'Fremont';
+        } else if (id === 'hayward-saturday-walk-in-live-scan') {
+          shortName = 'Hayward';
+        } else if (id === 'richmond-saturday-walk-in-live-scan') {
+          shortName = 'Richmond';
+        } else if (id === 'san-francisco-saturday-walk-in-live-scan') {
+          shortName = 'San Francisco';
+        } else if (id === 'san-jose-saturday-walk-in-live-scan') {
+          shortName = 'San Jose';
+        } else if (id === 'santa-clara-saturday-walk-in-live-scan') {
+          shortName = 'Santa Clara';
+        } else if (id === 'walnut-creek-saturday-walk-in-live-scan') {
+          shortName = 'Walnut Creek';
+        }
+        
+        return (
+          <li class={isFeatured ? 'city-card featured' : 'city-card'}>
+            {badge && <span class="badge">{badge}</span>}
+            <a href={`${base}${id}/`}>{shortName}</a>
+            <span class="descriptor">{descriptor}</span>
+          </li>
+        );
+      })}
+    </ul>
+  </section>
   <Faq items={homeFaq} />
   <p class="note">
     Confirm hours and fees with the shop before you go. DOJ says the public list can be stale. Nobody listed here was called.
