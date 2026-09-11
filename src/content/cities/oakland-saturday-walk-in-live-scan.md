@@ -82,6 +82,12 @@ That is why this page is a **filtered Saturday walk-in list**, not a dump of the
 Results go to the **requesting agency**, not to you (DOJ applicants page). Keep the yellow copy / ATI number. If prints reject, resubmission rules are the agency’s, not the shop’s.
 
 
+---
+
+**Oakland Saturday walk-in filters:** [Saturday cash Live Scan in Oakland](/oakland-saturday-cash-live-scan/) — all 7 rows accept cash. [Saturday Live Scan in Oakland for a teacher credential](/oakland-saturday-teacher-credential-live-scan/) — Form 41-LS for CTC. [Saturday walk-in Live Scan: downtown Oakland vs East Oakland / Fruitvale](/oakland-saturday-downtown-vs-fruitvale-live-scan/) — 2 downtown, 1 Fruitvale Avenue.
+
+**Bay Area:** [Saturday walk-in Live Scan in Berkeley](/berkeley-saturday-walk-in-live-scan/) — 5 shops. [Saturday walk-in Live Scan in San Francisco](/san-francisco-saturday-walk-in-live-scan/) — 13 shops. [Sunday Live Scan in Alameda County](/alameda-county-sunday-live-scan/) — 13 Sunday walk-in rows.
+
 ## FAQ
 
 ### Can I walk in Saturday in Oakland without an appointment?

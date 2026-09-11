@@ -12,8 +12,8 @@ const updated =
   cities.map((c) => String(c.data.updated)).sort().at(-1) ?? '2026-08-29';
 ---
 <Base
-  title="Saturday Walk-in Live Scan (California)"
-  description="California Live Scan shops that the DOJ list marks as Saturday walk-in, city by city. Confirm hours before you go."
+  title="Find Saturday Walk-in Live Scan in California"
+  description="California Live Scan shops that the DOJ list marks as Saturday walk-in, city by city. Confirm hours before you go — nobody listed here was called."
   faq={homeFaq}
   website={true}
 >
@@ -99,6 +99,9 @@ const updated =
         </div>
       </div>
     </div>
+    <p style="margin-top: 2rem; color: var(--ink-soft);">
+      <strong>Oakland filters:</strong> <a href={`${base}oakland-saturday-cash-live-scan/`}>Saturday cash Live Scan in Oakland</a> — all 7 rows accept cash. <a href={`${base}oakland-saturday-teacher-credential-live-scan/`}>Saturday Live Scan in Oakland for a teacher credential</a> — Form 41-LS for CTC.
+    </p>
   </section>
   <section id="cities">
     <h2>Saturday walk-in by city</h2>

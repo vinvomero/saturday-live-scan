@@ -2,6 +2,7 @@
 title: Saturday walk-in Live Scan in San Francisco
 updated: "2026-08-31"
 query: Saturday walk-in Live Scan San Francisco
+description: Saturday walk-in Live Scan in San Francisco — 13 shops open Saturday. Rolling fees $29–$50. Bring BCIA 8016 form and ID. Confirm hours before you go.
 ---
 
 # Saturday walk-in Live Scan in San Francisco
