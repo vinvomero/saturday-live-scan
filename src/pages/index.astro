@@ -37,28 +37,44 @@ const updated =
     </div>
     <div class="hero-right">
       <h2>Most searched</h2>
-      <p class="featured-city">
-        <strong><a href={`${base}oakland-saturday-walk-in-live-scan/`} style="color: white;">Saturday walk-in Live Scan Oakland</a></strong><br />
-        7 shops, rolling fees $23–$50
-      </p>
-      <div class="stat-grid">
-        <div class="stat">
-          <span class="stat-value">{cities.length}</span>
-          <span class="stat-label">city pages</span>
-        </div>
-        <div class="stat">
-          <span class="stat-value">$19</span>
-          <span class="stat-label">founding featured/mo</span>
-        </div>
-        <div class="stat">
-          <span class="stat-value">Sat</span>
-          <span class="stat-label">walk-in</span>
-        </div>
-        <div class="stat">
-          <span class="stat-value">CA</span>
-          <span class="stat-label">DOJ filter</span>
-        </div>
-      </div>
+      <ul class="city-quick-list">
+        <li>
+          <a href={`${base}oakland-saturday-walk-in-live-scan/`}>Oakland walk-in</a>
+          <span class="fact">7 shops, $23–$50 rolling fees</span>
+        </li>
+        <li>
+          <a href={`${base}oakland-saturday-cash-live-scan/`}>Oakland cash</a>
+          <span class="fact">All 7 Saturday walk-in rows accept cash</span>
+        </li>
+        <li>
+          <a href={`${base}oakland-saturday-teacher-credential-live-scan/`}>Oakland teacher</a>
+          <span class="fact">Form 41-LS for CTC credential</span>
+        </li>
+        <li>
+          <a href={`${base}san-francisco-saturday-walk-in-live-scan/`}>San Francisco</a>
+          <span class="fact">13 Saturday walk-in rows</span>
+        </li>
+        <li>
+          <a href={`${base}san-jose-saturday-walk-in-live-scan/`}>San Jose</a>
+          <span class="fact">19 Saturday walk-in rows</span>
+        </li>
+        <li>
+          <a href={`${base}berkeley-saturday-walk-in-live-scan/`}>Berkeley</a>
+          <span class="fact">5 Saturday walk-in rows</span>
+        </li>
+        <li>
+          <a href={`${base}sunnyvale-saturday-walk-in-live-scan/`}>Sunnyvale</a>
+          <span class="fact">3 Saturday walk-in rows</span>
+        </li>
+        <li>
+          <a href={`${base}fremont-saturday-walk-in-live-scan/`}>Fremont</a>
+          <span class="fact">6 Saturday walk-in rows</span>
+        </li>
+        <li>
+          <a href={`${base}alameda-county-sunday-live-scan/`}>Alameda County Sunday</a>
+          <span class="fact">13 Sunday walk-in rows</span>
+        </li>
+      </ul>
     </div>
   </div>
   <section class="how-it-works">
