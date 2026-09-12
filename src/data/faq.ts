@@ -550,3 +550,38 @@ export const sunnyvaleFaq: FaqItem[] = [
     a: 'Cheapest rolling fee: KR Services, LLC dba Notary Livescan Post at $25.00 (1208 E. Arques Avenue, Suite #101; walk-in-only Saturday; additional service fees may apply). Earliest Saturday open: all three shops at 10:00 am (three-way tie). Latest close: KR Services at 5:00 pm. Highest fee: The UPS Store #0067 at $55.00.',
   },
 ];
+
+export const dalyCityFaq: FaqItem[] = [
+  {
+    q: 'Can I walk in Saturday in Daly City without an appointment?',
+    a: 'Yes for the 4 DOJ Saturday walk-in rows on this page (city of Daly City only). "Walk-ins & appointments" means appointments may still jump the line. Certifix UPS #0966 and Post Point Hub are walk-in-only on Saturday (DOJ does not list appointments). Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. Rolling fees on this page range from $39.99 (UPS #6096) to $45.00 (Certifix UPS #0966 and Post Point Hub). Ship Daly City and Post Point Hub may charge additional service fees.',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'All four INCLUDE rows list Cash plus card options on DOJ. Ship Daly City and Post Point Hub may charge additional service fees. Confirm with the shop before you go. Daly City Police (skip table) is cash-only on DOJ and has no Saturday hours.',
+  },
+  {
+    q: 'Are UPS / Certifix store hours the fingerprint hours?',
+    a: 'No. UPS and Certifix pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. UPS #6096 lists Saturday Walk-ins & Appointments on DOJ (9:00 am – 5:00 pm). Certifix UPS #0966 lists Saturday Walk-ins on DOJ (10:00 am – 6:00 pm). Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\u2019t San Francisco / South San Francisco on this list?',
+    a: 'This page is the city of Daly City only. San Francisco already has its own Saturday walk-in page. South San Francisco, San Bruno, Pacifica, Burlingame, Millbrae, San Mateo, Redwood City, and other San Mateo County cities are other cities (accessed 2026-09-11).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\u2019s the cheapest / earliest Saturday walk-in in Daly City?',
+    a: 'Cheapest rolling fee: The UPS Store #6096 at $39.99 (6748 Mission Street; Walk-ins & Appointments Saturday; Mobile Services Available — mobile fee UNVERIFIED). Earliest Saturday open: The UPS Store #6096 at 9:00 am. Latest close: Certifix Live Scan dbw The UPS Store #0966 at 6:00 pm. Highest fee: Certifix UPS #0966 and Post Point Hub at $45.00 (tie).',
+  },
+];

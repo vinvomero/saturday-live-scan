@@ -82,6 +82,24 @@ export const listingsBySlug: Record<string, ShopListing[]> = {
       address: '2907 El Camino Real, Santa Clara, CA 95051',
     },
   ],
+  'daly-city-saturday-walk-in-live-scan': [
+    {
+      name: 'The UPS Store #6096',
+      address: '6748 Mission Street, Daly City, CA 94014',
+    },
+    {
+      name: 'Ship Daly City',
+      address: '100 Los Olivos Avenue, Daly City, CA 94014',
+    },
+    {
+      name: 'Certifix Live Scan dbw The UPS Store #0966',
+      address: '235 Westlake Center, Daly City, CA 94115',
+    },
+    {
+      name: 'Post Point Hub',
+      address: '6844 Mission Street, Daly City, CA 94014',
+    },
+  ],
 };
 
 export function itemListJsonLd(listings: ShopListing[]): Record<string, unknown> {
