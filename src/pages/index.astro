@@ -74,6 +74,10 @@ const updated =
           <a href={`${base}alameda-county-sunday-live-scan/`}>Alameda County Sunday</a>
           <span class="fact">13 Sunday walk-in rows</span>
         </li>
+        <li>
+          <a href={`${base}daly-city-saturday-walk-in-live-scan/`}>Daly City</a>
+          <span class="fact">4 shops, $39.99–$45</span>
+        </li>
       </ul>
     </div>
   </div>
@@ -152,6 +156,9 @@ const updated =
           shortName = 'Santa Clara';
         } else if (id === 'walnut-creek-saturday-walk-in-live-scan') {
           shortName = 'Walnut Creek';
+        } else if (id === 'daly-city-saturday-walk-in-live-scan') {
+          shortName = 'Daly City';
+          descriptor = 'Saturday walk-in, 4 shops';
         }
         
         return (
