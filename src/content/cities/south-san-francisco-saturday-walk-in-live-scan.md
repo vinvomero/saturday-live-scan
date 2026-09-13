@@ -1,6 +1,6 @@
 ---
 title: Saturday walk-in Live Scan in South San Francisco
-updated: 2026-09-12
+updated: "2026-09-12"
 query: Saturday walk-in Live Scan South San Francisco
 ---
 
