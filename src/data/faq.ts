@@ -585,3 +585,38 @@ export const dalyCityFaq: FaqItem[] = [
     a: 'Cheapest rolling fee: The UPS Store #6096 at $39.99 (6748 Mission Street; Walk-ins & Appointments Saturday; Mobile Services Available — mobile fee UNVERIFIED). Earliest Saturday open: The UPS Store #6096 at 9:00 am. Latest close: Certifix Live Scan dbw The UPS Store #0966 at 6:00 pm. Highest fee: Certifix UPS #0966 and Post Point Hub at $45.00 (tie).',
   },
 ];
+
+export const southSanFranciscoFaq: FaqItem[] = [
+  {
+    q: 'Can I walk in Saturday in South San Francisco without an appointment?',
+    a: 'Yes for the 1 DOJ Saturday walk-in row on this page (city of South San Francisco only): The UPS Store #1468 lists Walk-ins & Appointments Saturday 9:00 am – 5:00 pm. "Walk-ins & appointments" means appointments may still jump the line. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. The only South San Francisco Saturday walk-in rolling fee on this page is $39.99 (UPS #1468).',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'The INCLUDE row lists Cash plus card options on DOJ (Billing Accounts, Cashier\'s Check, Checks, Company Checks, Corporate Accounts, Credit Cards, Debit Cards, Money Order). Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are UPS store hours the fingerprint hours?',
+    a: 'No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. UPS #1468 lists Saturday Walk-ins & Appointments on DOJ (9:00 am – 5:00 pm). Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t Daly City / San Francisco on this list?',
+    a: 'This page is the city of South San Francisco only. Daly City and San Francisco already have their own Saturday walk-in pages. San Bruno, Pacifica, Burlingame, Millbrae, San Mateo, Redwood City, and other San Mateo County cities are other cities (accessed 2026-09-12).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in South San Francisco?',
+    a: 'Only one DOJ Saturday walk-in in the city tonight: The UPS Store #1468 at $39.99 (2268 Westborough Blvd, Suite #302; Walk-ins & Appointments Saturday 9:00 am – 5:00 pm; Mobile Services Available — mobile fee UNVERIFIED). That is both the cheapest and the earliest open on this page.',
+  },
+];
