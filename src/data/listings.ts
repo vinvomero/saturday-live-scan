@@ -100,6 +100,12 @@ export const listingsBySlug: Record<string, ShopListing[]> = {
       address: '6844 Mission Street, Daly City, CA 94014',
     },
   ],
+  'south-san-francisco-saturday-walk-in-live-scan': [
+    {
+      name: 'The UPS Store #1468',
+      address: '2268 Westborough Blvd, Suite #302, South San Francisco, CA 94080',
+    },
+  ],
 };
 
 export function itemListJsonLd(listings: ShopListing[]): Record<string, unknown> {
