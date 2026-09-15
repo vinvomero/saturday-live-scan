@@ -620,3 +620,38 @@ export const southSanFranciscoFaq: FaqItem[] = [
     a: 'Only one DOJ Saturday walk-in in the city tonight: The UPS Store #1468 at $39.99 (2268 Westborough Blvd, Suite #302; Walk-ins & Appointments Saturday 9:00 am – 5:00 pm; Mobile Services Available — mobile fee UNVERIFIED). That is both the cheapest and the earliest open on this page.',
   },
 ];
+
+export const redwoodCityFaq: FaqItem[] = [
+  {
+    q: 'Can I walk in Saturday in Redwood City without an appointment?',
+    a: 'Yes for the 5 DOJ Saturday walk-in rows on this page (city of Redwood City only). "Walk-ins & appointments" means appointments may still jump the line. Pack and Mail Express and Certifix UPS #2766 are walk-in-only on Saturday (DOJ does not list appointments). Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. Rolling fees on this page range from $35.00 (Pack and Mail Express) to $50.00 (UPS #7463).',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'Every INCLUDE row lists Cash plus card options on DOJ. Pack and Mail Express and UPS #7463 also list billing accounts; Pack and Mail Express adds cashier\'s check, corporate accounts, and money order. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are UPS / Certifix store hours the fingerprint hours?',
+    a: 'No. UPS and Certifix pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Example: Mishsharm UPS #2766 lists Saturday Walk-ins & Appointments on DOJ (9:00 am – 4:30 pm); Certifix at the same address lists Saturday Walk-ins 10:30 am – 1:00 pm. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t Daly City / South San Francisco / Pacifica on this list?',
+    a: 'This page is the **city of Redwood City** only. Daly City and South San Francisco already have their own Saturday walk-in pages. San Bruno, Pacifica, Burlingame, San Mateo, Belmont, Foster City, Menlo Park, Millbrae, and other San Mateo County cities are other cities (accessed 2026-09-14).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Redwood City?',
+    a: 'Cheapest rolling fee: Pack and Mail Express at $35.00 (1017 El Camino Real, Sequoia Station; Walk-ins Saturday 10:00 am – 5:00 pm; Mobile Services Available — mobile fee UNVERIFIED). Earliest Saturday open (tie at 9:00 am): Postal Annex #4018, Mishsharm UPS #2766, and UPS #7463. Latest close: Pack and Mail Express at 5:00 pm. Highest fee: UPS #7463 at $50.00.',
+  },
+];
