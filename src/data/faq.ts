@@ -655,3 +655,38 @@ export const redwoodCityFaq: FaqItem[] = [
     a: 'Cheapest rolling fee: Pack and Mail Express at $35.00 (1017 El Camino Real, Sequoia Station; Walk-ins Saturday 10:00 am – 5:00 pm; Mobile Services Available — mobile fee UNVERIFIED). Earliest Saturday open (tie at 9:00 am): Postal Annex #4018, Mishsharm UPS #2766, and UPS #7463. Latest close: Pack and Mail Express at 5:00 pm. Highest fee: UPS #7463 at $50.00.',
   },
 ];
+
+export const burlingameFaq: FaqItem[] = [
+  {
+    q: 'Can I walk in Saturday in Burlingame without an appointment?',
+    a: 'Yes for the 2 DOJ Saturday walk-in rows on this page (city of Burlingame only): The UPS Store #0446 and Certifix UPS #2354. Both are walk-in-only on Saturday (DOJ does not list appointments). Execushield is Saturday appointment-only — not a walk-in. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. Both INCLUDE rows list $40.00 rolling on DOJ. Execushield\'s $29.00 is Saturday appointment-only (skipped).',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'Both INCLUDE rows list Cash plus card options on DOJ. UPS #0446 also lists billing accounts, checks, company checks, credit, and debit. Certifix #2354 lists billing accounts, cash, checks, and credit (no debit on DOJ). Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are UPS / Certifix store hours the fingerprint hours?',
+    a: 'No. UPS and Certifix pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Example: UPS #0446 lists Saturday Walk-ins 10:00 am – 4:30 pm on DOJ; Certifix #2354 lists Saturday Walk-ins 10:30 am – 4:30 pm. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t Daly City / South San Francisco / Redwood City / Pacifica on this list?',
+    a: 'This page is the **city of Burlingame** only. Daly City, South San Francisco, Redwood City, and San Francisco already have their own Saturday walk-in pages. San Bruno and Pacifica were previously researched with zero Saturday walk-ins — no pages. Belmont, Foster City, Menlo Park, Millbrae, San Mateo, and other San Mateo County cities are other cities (accessed 2026-09-15).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Burlingame?',
+    a: 'Cheapest rolling fee among INCLUDE rows: tie $40.00 (UPS #0446 and Certifix #2354). Earliest Saturday open: The UPS Store #0446 at 10:00 am (1534 Plaza Lane; Walk-ins). Latest close: tie 4:30 pm (both). Highest fee: tie $40.00. Execushield\'s $29.00 is Saturday appointment-only — not on this walk-in list.',
+  },
+];

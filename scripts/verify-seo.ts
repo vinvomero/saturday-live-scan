@@ -144,6 +144,11 @@ for (const loc of [
   `${origin}richmond-saturday-walk-in-live-scan/`,
   `${origin}oakland-saturday-downtown-vs-fruitvale-live-scan/`,
   `${origin}santa-clara-saturday-walk-in-live-scan/`,
+  `${origin}sunnyvale-saturday-walk-in-live-scan/`,
+  `${origin}daly-city-saturday-walk-in-live-scan/`,
+  `${origin}south-san-francisco-saturday-walk-in-live-scan/`,
+  `${origin}redwood-city-saturday-walk-in-live-scan/`,
+  `${origin}burlingame-saturday-walk-in-live-scan/`,
   `${origin}faq/`,
 ]) {
   if (!sitemap.includes(`<loc>${loc}</loc>`)) fail(`sitemap missing ${loc}`);
@@ -169,6 +174,11 @@ for (const loc of [
   `${origin}richmond-saturday-walk-in-live-scan/`,
   `${origin}oakland-saturday-downtown-vs-fruitvale-live-scan/`,
   `${origin}santa-clara-saturday-walk-in-live-scan/`,
+  `${origin}sunnyvale-saturday-walk-in-live-scan/`,
+  `${origin}daly-city-saturday-walk-in-live-scan/`,
+  `${origin}south-san-francisco-saturday-walk-in-live-scan/`,
+  `${origin}redwood-city-saturday-walk-in-live-scan/`,
+  `${origin}burlingame-saturday-walk-in-live-scan/`,
   `${origin}faq/`,
 ]) {
   if (!llms.includes(loc)) fail(`llms.txt missing ${loc}`);
@@ -254,6 +264,11 @@ function checkPage(
     `${base}richmond-saturday-walk-in-live-scan/`,
     `${base}oakland-saturday-downtown-vs-fruitvale-live-scan/`,
     `${base}santa-clara-saturday-walk-in-live-scan/`,
+    `${base}sunnyvale-saturday-walk-in-live-scan/`,
+    `${base}daly-city-saturday-walk-in-live-scan/`,
+    `${base}south-san-francisco-saturday-walk-in-live-scan/`,
+    `${base}redwood-city-saturday-walk-in-live-scan/`,
+    `${base}burlingame-saturday-walk-in-live-scan/`,
     `${base}faq/`,
   ]) {
     if (!html.includes(`href="${href}"`)) fail(`${rel}: missing internal link ${href}`);
