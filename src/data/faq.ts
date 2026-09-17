@@ -690,3 +690,38 @@ export const burlingameFaq: FaqItem[] = [
     a: 'Cheapest rolling fee among INCLUDE rows: tie $40.00 (UPS #0446 and Certifix #2354). Earliest Saturday open: The UPS Store #0446 at 10:00 am (1534 Plaza Lane; Walk-ins). Latest close: tie 4:30 pm (both). Highest fee: tie $40.00. Execushield\'s $29.00 is Saturday appointment-only — not on this walk-in list.',
   },
 ];
+
+export const sanMateoFaq: FaqItem[] = [
+  {
+    q: 'Can I walk in Saturday in San Mateo without an appointment?',
+    a: 'Yes for the 1 DOJ Saturday walk-in row on this page (city of San Mateo only): The UPS Store #0294. DOJ lists Walk-ins & Appointments on Saturday — appointments may still jump the line. A+ Mailboxes & More is Saturday appointment-only — not a walk-in. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. The INCLUDE row lists $45.00 rolling on DOJ. A+ Mailboxes & More\'s $40.00 is Saturday appointment-only (skipped).',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'The INCLUDE row lists Cash plus card options on DOJ (billing accounts, cash, cashier\'s check, checks, credit, debit, money order). Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are UPS store hours the fingerprint hours?',
+    a: 'No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Example: UPS #0294 lists Saturday Walk-ins & Appointments 11:00 am – 4:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t Daly City / South San Francisco / Redwood City / Burlingame / Pacifica on this list?',
+    a: 'This page is the **city of San Mateo** only. Daly City, South San Francisco, Redwood City, Burlingame, and San Francisco already have their own Saturday walk-in pages. San Bruno and Pacifica were previously researched with zero Saturday walk-ins — no pages. Belmont, Foster City, Menlo Park, Millbrae, and other San Mateo County cities are other cities (accessed 2026-09-16).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in San Mateo?',
+    a: 'Cheapest rolling fee among INCLUDE rows: $45.00 (The UPS Store #0294). Earliest Saturday open: The UPS Store #0294 at 11:00 am (204 E. 2nd Avenue; Walk-ins & Appointments). Latest close: 4:00 pm. Highest fee: $45.00. A+ Mailboxes & More\'s $40.00 is Saturday appointment-only — not on this walk-in list.',
+  },
+];
