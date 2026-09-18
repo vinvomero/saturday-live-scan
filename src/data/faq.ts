@@ -725,3 +725,38 @@ export const sanMateoFaq: FaqItem[] = [
     a: 'Cheapest rolling fee among INCLUDE rows: $45.00 (The UPS Store #0294). Earliest Saturday open: The UPS Store #0294 at 11:00 am (204 E. 2nd Avenue; Walk-ins & Appointments). Latest close: 4:00 pm. Highest fee: $45.00. A+ Mailboxes & More\'s $40.00 is Saturday appointment-only — not on this walk-in list.',
   },
 ];
+
+export const belmontFaq: FaqItem[] = [
+  {
+    q: 'Can I walk in Saturday in Belmont without an appointment?',
+    a: 'Yes for the 2 DOJ Saturday walk-in rows on this page (city of Belmont only): UPS Store #0426 and WellnessMart, MD. DOJ lists Walk-ins & Appointments on Saturday — appointments may still jump the line. Certifix at The UPS Store #6084 is Saturday appointment-only — not a walk-in. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. INCLUDE rolling fees are $31.00 (WellnessMart, MD) and $35.00 (UPS Store #0426). Certifix #6084\'s $80.00 is Saturday appointment-only (skipped).',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'WellnessMart lists billing / corporate / credit on DOJ but no Cash (and no Debit). UPS Store #0426 lists cash plus card options on DOJ (billing accounts, cash, cashier\'s check, checks, company checks, credit, debit). Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are UPS store hours the fingerprint hours?',
+    a: 'No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Example: UPS Store #0426 lists Saturday Walk-ins & Appointments 9:00 am – 3:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t San Mateo / Burlingame / Daly City / Pacifica on this list?',
+    a: 'This page is the **city of Belmont** only. Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages. San Bruno and Pacifica were previously researched with zero Saturday walk-ins — no pages. Foster City, Menlo Park, Millbrae, and other San Mateo County cities are other cities (accessed 2026-09-17).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Belmont?',
+    a: 'Cheapest rolling fee among INCLUDE rows: $31.00 (WellnessMart, MD at 770 El Camino Real, Suite B; no Cash on DOJ; split Saturday lunch gap). Earliest Saturday open: UPS Store #0426 at 9:00 am (951 Old County Road, Suite #2; Walk-ins & Appointments). Latest close: WellnessMart, MD at 4:00 pm. Highest INCLUDE fee: $35.00 (UPS Store #0426). Certifix #6084\'s $80.00 is Saturday appointment-only — not on this walk-in list.',
+  },
+];
