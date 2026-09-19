@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 import { getCollection, render } from 'astro:content';
 import type { FaqItem } from '../data/faq';
-import { oaklandFaq, berkeleyFaq, alamedaSundayFaq, sanFranciscoFaq, oaklandCashFaq, oaklandTeacherFaq, oaklandDowntownFruitvaleFaq, sanJoseFaq, fremontFaq, concordFaq, haywardFaq, walnutCreekFaq, richmondFaq, santaClaraFaq, sunnyvaleFaq, dalyCityFaq, southSanFranciscoFaq, redwoodCityFaq, burlingameFaq, sanMateoFaq, belmontFaq } from '../data/faq';
+import { oaklandFaq, berkeleyFaq, alamedaSundayFaq, sanFranciscoFaq, oaklandCashFaq, oaklandTeacherFaq, oaklandDowntownFruitvaleFaq, sanJoseFaq, fremontFaq, concordFaq, haywardFaq, walnutCreekFaq, richmondFaq, santaClaraFaq, sunnyvaleFaq, dalyCityFaq, southSanFranciscoFaq, redwoodCityFaq, burlingameFaq, sanMateoFaq, belmontFaq, fosterCityFaq } from '../data/faq';
 import { listingsBySlug, itemListJsonLd } from '../data/listings';
 
 export async function getStaticPaths() {
@@ -38,6 +38,7 @@ const faqById: Record<string, FaqItem[] | undefined> = {
   'burlingame-saturday-walk-in-live-scan': burlingameFaq,
   'san-mateo-saturday-walk-in-live-scan': sanMateoFaq,
   'belmont-saturday-walk-in-live-scan': belmontFaq,
+  'foster-city-saturday-walk-in-live-scan': fosterCityFaq,
 };
 const faq = faqById[entry.id];
 const site = Astro.site ?? new URL('https://saturdaylivescan.com');

@@ -760,3 +760,38 @@ export const belmontFaq: FaqItem[] = [
     a: 'Cheapest rolling fee among INCLUDE rows: $31.00 (WellnessMart, MD at 770 El Camino Real, Suite B; no Cash on DOJ; split Saturday lunch gap). Earliest Saturday open: UPS Store #0426 at 9:00 am (951 Old County Road, Suite #2; Walk-ins & Appointments). Latest close: WellnessMart, MD at 4:00 pm. Highest INCLUDE fee: $35.00 (UPS Store #0426). Certifix #6084\'s $80.00 is Saturday appointment-only — not on this walk-in list.',
   },
 ];
+
+export const fosterCityFaq: FaqItem[] = [
+  {
+    q: 'Can I walk in Saturday in Foster City without an appointment?',
+    a: 'Yes for the 2 DOJ Saturday walk-in rows on this page (city of Foster City only): The UPS Store #4153 and Certifix Live Scan dbw The UPS Store #0244. DOJ lists Walk-ins on Saturday (no appointments listed for that day). Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. Both INCLUDE rolling fees are $40.00.',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'Both INCLUDE rows list cash plus card options on DOJ. UPS Store #4153: billing accounts, cash, checks, company checks, credit, debit. Certifix #0244: billing accounts, cash, corporate accounts, credit, debit. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are UPS store hours the fingerprint hours?',
+    a: 'No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Example: UPS Store #4153 lists Saturday Walk-ins 10:00 am – 4:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t Belmont / San Mateo / Burlingame / Pacifica on this list?',
+    a: 'This page is the **city of Foster City** only. Belmont, Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages. San Bruno and Pacifica were previously researched with zero Saturday walk-ins — no pages. Menlo Park, Millbrae, and other San Mateo County cities are other cities (accessed 2026-09-18).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Foster City?',
+    a: 'Cheapest rolling fee among INCLUDE rows: $40.00 (tie — UPS Store #4153 at 1098 Foster City Blvd., Suite 106, and Certifix #0244 at 969 G Edgewater Blvd.). Earliest Saturday open: UPS Store #4153 at 10:00 am (Walk-ins). Latest close: Certifix #0244 at 4:30 pm. Highest INCLUDE fee: $40.00 (same tie).',
+  },
+];
