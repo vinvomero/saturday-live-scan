@@ -795,3 +795,38 @@ export const fosterCityFaq: FaqItem[] = [
     a: 'Cheapest rolling fee among INCLUDE rows: $40.00 (tie — UPS Store #4153 at 1098 Foster City Blvd., Suite 106, and Certifix #0244 at 969 G Edgewater Blvd.). Earliest Saturday open: UPS Store #4153 at 10:00 am (Walk-ins). Latest close: Certifix #0244 at 4:30 pm. Highest INCLUDE fee: $40.00 (same tie).',
   },
 ];
+
+export const millbraeFaq: FaqItem[] = [
+  {
+    q: 'Can I walk in Saturday in Millbrae without an appointment?',
+    a: 'Yes for the 1 DOJ Saturday walk-in row on this page (city of Millbrae only): Certifix Live Scan dbw The UPS Store #1444 at 423 Broadway. DOJ lists Walk-ins on Saturday (no appointments listed for that day). Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. The INCLUDE rolling fee is $40.00.',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'The INCLUDE row lists cash plus card / account options on DOJ. Certifix #1444: billing accounts, cash, cashier\'s check, corporate accounts, credit, debit. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are UPS store hours the fingerprint hours?',
+    a: 'No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Example: Certifix #1444 lists Saturday Walk-ins 9:00 am – 5:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t Foster City / Belmont / San Mateo / Menlo Park on this list?',
+    a: 'This page is the **city of Millbrae** only. Foster City, Belmont, Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages. San Bruno, Pacifica, and Menlo Park were previously researched with zero Saturday walk-ins — no pages. Other San Mateo County cities are other cities (accessed 2026-09-20).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Millbrae?',
+    a: 'Cheapest rolling fee among INCLUDE rows: $40.00 (Certifix Live Scan dbw The UPS Store #1444 at 423 Broadway). Earliest Saturday open: Certifix #1444 at 9:00 am (Walk-ins). Latest close: Certifix #1444 at 5:00 pm. Highest INCLUDE fee: $40.00 (same single row).',
+  },
+];
