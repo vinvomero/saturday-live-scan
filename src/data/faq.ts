@@ -853,7 +853,7 @@ export const mountainViewFaq: FaqItem[] = [
     a: 'No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Example: The UPS Store #1847 lists Saturday Walk-ins & Appointments 10:00 am – 3:30 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
   },
   {
-    q: 'Why isn't Sunnyvale / Santa Clara / San Jose / Palo Alto on this list?',
+    q: 'Why isn\'t Sunnyvale / Santa Clara / San Jose / Palo Alto on this list?',
     a: 'This page is the **city of Mountain View** only. Sunnyvale, Santa Clara, and San Jose already have their own Saturday walk-in pages. Palo Alto, Los Altos, Cupertino, Milpitas, Campbell, Los Gatos, and other Santa Clara County cities are other cities (accessed 2026-09-22).',
   },
   {
