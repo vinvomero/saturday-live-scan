@@ -830,3 +830,38 @@ export const millbraeFaq: FaqItem[] = [
     a: 'Cheapest rolling fee among INCLUDE rows: $40.00 (Certifix Live Scan dbw The UPS Store #1444 at 423 Broadway). Earliest Saturday open: Certifix #1444 at 9:00 am (Walk-ins). Latest close: Certifix #1444 at 5:00 pm. Highest INCLUDE fee: $40.00 (same single row).',
   },
 ];
+
+export const mountainViewFaq: FaqItem[] = [
+  {
+    q: 'Can I walk in Saturday in Mountain View without an appointment?',
+    a: 'Yes for the 3 DOJ Saturday walk-in rows on this page (city of Mountain View only). All three list Walk-ins & Appointments on Saturday — appointments may still jump the line. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. INCLUDE rolling fees: $17.00 (Mail All Center), $31.00 (WellnessMart, MD), $35.00 (The UPS Store #1847). Mail All Center and UPS #1847 also flag that additional service fees may apply.',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'Mail All Center and The UPS Store #1847 list cash plus card / account options on DOJ. WellnessMart, MD lists **no Cash** on DOJ (billing accounts, corporate accounts, credit, debit only). Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are UPS store hours the fingerprint hours?',
+    a: 'No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Example: The UPS Store #1847 lists Saturday Walk-ins & Appointments 10:00 am – 3:30 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn't Sunnyvale / Santa Clara / San Jose / Palo Alto on this list?',
+    a: 'This page is the **city of Mountain View** only. Sunnyvale, Santa Clara, and San Jose already have their own Saturday walk-in pages. Palo Alto, Los Altos, Cupertino, Milpitas, Campbell, Los Gatos, and other Santa Clara County cities are other cities (accessed 2026-09-22).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What's the cheapest / earliest Saturday walk-in in Mountain View?',
+    a: 'Cheapest rolling fee among INCLUDE rows: $17.00 (Mail All Center at 809 Cuesta Drive, Suite B). Earliest Saturday open: three-way tie at 10:00 am (Mail All Center, WellnessMart, MD, The UPS Store #1847). Latest close: WellnessMart, MD at 4:00 pm (second Saturday slot). Highest INCLUDE fee: $35.00 (The UPS Store #1847).',
+  },
+];
