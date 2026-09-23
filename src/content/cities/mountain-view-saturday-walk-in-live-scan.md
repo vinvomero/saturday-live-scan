@@ -1,6 +1,6 @@
 ---
 title: Saturday walk-in Live Scan in Mountain View
-updated: 2026-09-22
+updated: "2026-09-22"
 query: Saturday walk-in Live Scan Mountain View
 ---
 
