@@ -865,3 +865,38 @@ export const mountainViewFaq: FaqItem[] = [
     a: 'Cheapest rolling fee among INCLUDE rows: $17.00 (Mail All Center at 809 Cuesta Drive, Suite B). Earliest Saturday open: three-way tie at 10:00 am (Mail All Center, WellnessMart, MD, The UPS Store #1847). Latest close: WellnessMart, MD at 4:00 pm (second Saturday slot). Highest INCLUDE fee: $35.00 (The UPS Store #1847).',
   },
 ];
+
+export const paloAltoFaq: FaqItem[] = [
+  {
+    q: 'Can I walk in Saturday in Palo Alto without an appointment?',
+    a: 'Yes for the 2 DOJ Saturday walk-in rows on this page (city of Palo Alto only): The UPS Store #6105 and Certifix Live Scan dbw Green Mail. UPS #6105 lists Walk-ins & Appointments on Saturday (appointments may still jump the line). Certifix Green Mail lists Walk-ins only on Saturday (no appointments listed for that day). Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. INCLUDE rolling fees: $35.00 (The UPS Store #6105) and $40.00 (Certifix Live Scan dbw Green Mail).',
+  },
+  {
+    q: 'Cash or card?',
+    a: "Both INCLUDE rows list cash plus card / check options on DOJ. UPS Store #6105: billing accounts, cash, cashier's check, company checks, corporate accounts, credit, debit, money order. Certifix Green Mail: cash, cashier's check, checks, credit, debit, money order. Confirm with the shop before you go.",
+  },
+  {
+    q: 'Are UPS store hours the fingerprint hours?',
+    a: 'No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Example: The UPS Store #6105 lists Saturday Walk-ins & Appointments 10:00 am – 6:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t Mountain View / Sunnyvale / Santa Clara / San Jose on this list?',
+    a: 'This page is the **city of Palo Alto** only. Mountain View, Sunnyvale, Santa Clara, and San Jose already have their own Saturday walk-in pages. Los Altos, Los Altos Hills, Cupertino, Milpitas, Campbell, Los Gatos, and other Santa Clara County cities are other cities. Menlo Park was previously researched with zero Saturday walk-ins — no page (accessed 2026-09-23).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Palo Alto?',
+    a: 'Cheapest rolling fee among INCLUDE rows: $35.00 (The UPS Store #6105 at 855 El Camino Real, Suite 13A). Earliest Saturday open: two-way tie at 10:00 am (UPS #6105 and Certifix Green Mail). Latest close: UPS #6105 at 6:00 pm. Highest INCLUDE fee: $40.00 (Certifix Live Scan dbw Green Mail at 3790 El Camino Real).',
+  },
+];
