@@ -900,3 +900,38 @@ export const paloAltoFaq: FaqItem[] = [
     a: 'Cheapest rolling fee among INCLUDE rows: $35.00 (The UPS Store #6105 at 855 El Camino Real, Suite 13A). Earliest Saturday open: two-way tie at 10:00 am (UPS #6105 and Certifix Green Mail). Latest close: UPS #6105 at 6:00 pm. Highest INCLUDE fee: $40.00 (Certifix Live Scan dbw Green Mail at 3790 El Camino Real).',
   },
 ];
+
+export const milpitasFaq: FaqItem[] = [
+  {
+    q: 'Can I walk in Saturday in Milpitas without an appointment?',
+    a: "Yes for the 2 DOJ Saturday walk-in rows on this page (city of Milpitas only): Calaveras Notary Services and Post N' Parcel. Both list Walk-ins & Appointments on Saturday, so appointments may still jump the line. Oclarit Insurance Agency is Saturday appointment-only on DOJ. Nobody was called.",
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: "The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. INCLUDE rolling fees on DOJ: $13.99 (Calaveras Notary Services) and $15.00 (Post N' Parcel). Both also say 'Additional service fees may apply' on DOJ, so ask for the out-the-door price before they roll.",
+  },
+  {
+    q: 'Cash or card?',
+    a: "Both INCLUDE rows list cash plus card / check options on DOJ. Calaveras Notary Services: billing accounts, cash, cashier's check, checks, company checks, corporate accounts, credit, debit, money order. Post N' Parcel: billing accounts, cash, cashier's check, company checks, corporate accounts, credit, debit, IIS escrow accounts, money order. Confirm with the shop before you go.",
+  },
+  {
+    q: 'Are store hours the fingerprint hours?',
+    a: "No. Notary / shipping hours on a shop's own page are not Live Scan hours. Live Scan Saturday hours are the DOJ column. Example: Post N' Parcel lists Saturday Walk-ins & Appointments 10:00 am – 2:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.",
+  },
+  {
+    q: 'Why isn\'t San Jose / Fremont / Santa Clara / Sunnyvale on this list?',
+    a: 'This page is the **city of Milpitas** only. San Jose, Fremont, Santa Clara, and Sunnyvale already have their own Saturday walk-in pages. Newark, Union City, Cupertino, Campbell, and other nearby cities are other cities (accessed 2026-09-24).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Milpitas?',
+    a: "Cheapest rolling fee among INCLUDE rows: $13.99 (Calaveras Notary Services at 120 S. Gadsden Drive; DOJ adds 'Additional service fees may apply'). Earliest Saturday open: Calaveras Notary Services at 8:00 am. Latest close: Calaveras Notary Services at 7:00 pm. Highest INCLUDE fee: $15.00 (Post N' Parcel at 1765 Landess Avenue).",
+  },
+];
