@@ -935,3 +935,38 @@ export const milpitasFaq: FaqItem[] = [
     a: "Cheapest rolling fee among INCLUDE rows: $13.99 (Calaveras Notary Services at 120 S. Gadsden Drive; DOJ adds 'Additional service fees may apply'). Earliest Saturday open: Calaveras Notary Services at 8:00 am. Latest close: Calaveras Notary Services at 7:00 pm. Highest INCLUDE fee: $15.00 (Post N' Parcel at 1765 Landess Avenue).",
   },
 ];
+
+export const pleasantonFaq: FaqItem[] = [
+  {
+    q: 'Can I walk in Saturday in Pleasanton without an appointment?',
+    a: 'Yes for the 2 DOJ Saturday walk-in rows on this page (city of Pleasanton street addresses only): The UPS Store #6291 and The UPS Store #0345. #0345 lists Walk-ins only on Saturday. #6291 lists Walk-ins & Appointments on Saturday, so appointments may still jump the line. GM Defense is weekends appointment-only; Postal Annex Plesanton has no Saturday hours; AngelVetting has no street address on DOJ. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. INCLUDE rolling fees on DOJ: $30.00 (The UPS Store #0345) and $45.00 (The UPS Store #6291).',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'Both INCLUDE rows list cash plus card options on DOJ. The UPS Store #0345: cash, credit, debit. The UPS Store #6291: cash, corporate accounts, credit, debit. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are store hours the fingerprint hours?',
+    a: "No. Shipping / retail hours on a shop's own page are not Live Scan hours. Live Scan Saturday hours are the DOJ column. Example: The UPS Store #0345 lists Saturday Walk-ins 9:30 am – 4:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.",
+  },
+  {
+    q: 'Why isn\'t Dublin / Livermore / Fremont / Hayward on this list?',
+    a: 'This page is the **city of Pleasanton** only. Fremont, Hayward, Oakland, and Berkeley already have their own Saturday walk-in pages. Dublin, Livermore, San Ramon, Castro Valley, and other nearby cities are other cities (accessed 2026-09-25).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Pleasanton?',
+    a: 'Cheapest rolling fee among INCLUDE rows: $30.00 (The UPS Store #0345 at 1807 Santa Rita Road, Unit H). Earliest Saturday open: The UPS Store #6291 at 9:00 am (6754 Bernal Ave, Suite 740). Latest close: The UPS Store #6291 at 5:00 pm. Highest INCLUDE fee: $45.00 (The UPS Store #6291).',
+  },
+];
