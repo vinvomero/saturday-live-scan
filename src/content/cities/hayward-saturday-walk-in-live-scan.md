@@ -86,6 +86,10 @@ Nearby: [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-live-scan
 
 ## FAQ
 
+
+### Are UPS store hours the fingerprint hours?
+
+No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. UPS #7559 lists Weekends Walk-ins & Appointments on DOJ (10:00 am – 3:00 pm). UPS #5831 lists Saturday Walk-ins & Appointments on DOJ (10:00 am – 5:00 pm). That is fingerprint hours from DOJ, not a promise that every UPS service is open.
 ### Can I walk in Saturday in Hayward without an appointment?
 
 Yes for the 4 DOJ Saturday walk-in rows on this page. "Walk-ins & appointments" means appointments may still jump the line. Nobody was called.

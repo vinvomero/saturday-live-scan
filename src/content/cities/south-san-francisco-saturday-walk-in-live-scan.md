@@ -77,6 +77,10 @@ Nearby: [Saturday walk-in Live Scan Daly City](/daly-city-saturday-walk-in-live-
 
 ## FAQ
 
+
+### Why isn't Daly City / San Francisco on this list?
+
+This page is the city of South San Francisco only. Daly City and San Francisco already have their own Saturday walk-in pages. San Bruno, Pacifica, Burlingame, Millbrae, San Mateo, Redwood City, and other San Mateo County cities are other cities (accessed 2026-09-12).
 ### Can I walk in Saturday in South San Francisco without an appointment?
 
 Yes for the 1 DOJ Saturday walk-in row on this page (city of South San Francisco only): The UPS Store #1468 lists Walk-ins & Appointments Saturday 9:00 am – 5:00 pm. "Walk-ins & appointments" means appointments may still jump the line. Nobody was called.

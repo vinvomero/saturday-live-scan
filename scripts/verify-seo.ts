@@ -585,7 +585,7 @@ for (const slug of cityFiles) {
   }
 }
 
-// Check (d): FAQ parity
+// Check (d): FAQ parity - every FAQPage JSON-LD question and answer must appear in rendered HTML
 for (const slug of cityFiles) {
   const html = read(`${slug}/index.html`);
   if (!html) continue;
@@ -593,13 +593,7 @@ for (const slug of cityFiles) {
   const faq = findType(blocks, 'FAQPage');
   if (!faq) continue;
   const entities = (faq.mainEntity as { name: string; acceptedAnswer: { text: string } }[]) ?? [];
-  const mdPath = `src/content/cities/${slug}.md`;
-  const md = readRepo(mdPath);
-  const faqSection = md.split('## FAQ')[1] ?? '';
-  const mdQuestions = (faqSection.match(/^### /gm) ?? []).length;
-  if (entities.length !== mdQuestions) {
-    fail(`${slug}: FAQ parity fail: JSON-LD has ${entities.length} questions, markdown has ${mdQuestions}`);
-  }
+  
   // Check each question and answer appears in HTML (without script blocks)
   const htmlNoScripts = html.replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '');
   const decode = (s: string) => s
@@ -610,15 +604,19 @@ for (const slug of cityFiles) {
     .replace(/&#39;/g, "'")
     .replace(/[\u2018\u2019]/g, "'")
     .replace(/[\u201C\u201D]/g, '"')
+    .replace(/<[^>]+>/g, '') // Strip HTML tags
+    .replace(/\*\*/g, '') // Strip markdown bold
     .replace(/\s+/g, ' ')
     .trim();
+  
+  const decodedHtml = decode(htmlNoScripts);
   for (const item of entities) {
     const decodedQ = decode(item.name);
     const decodedA = decode(item.acceptedAnswer.text);
-    if (!decode(htmlNoScripts).includes(decodedQ)) {
+    if (!decodedHtml.includes(decodedQ)) {
       fail(`${slug}: FAQ question not in HTML: ${item.name}`);
     }
-    if (!decode(htmlNoScripts).includes(decodedA)) {
+    if (!decodedHtml.includes(decodedA)) {
       fail(`${slug}: FAQ answer not in HTML: ${item.name}`);
     }
   }

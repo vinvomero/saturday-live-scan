@@ -80,6 +80,14 @@ Results go to the **requesting agency**, not to you (DOJ applicants page). Keep 
 
 ## FAQ
 
+
+
+### What's the cheapest / earliest Saturday walk-in in Milpitas?
+
+Cheapest rolling fee among INCLUDE rows: $13.99 (Calaveras Notary Services at 120 S. Gadsden Drive; DOJ adds 'Additional service fees may apply'). Earliest Saturday open: Calaveras Notary Services at 8:00 am. Latest close: Calaveras Notary Services at 7:00 pm. Highest INCLUDE fee: $15.00 (Post N' Parcel at 1765 Landess Avenue).
+### How much does it cost?
+
+The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. INCLUDE rolling fees on DOJ: $13.99 (Calaveras Notary Services) and $15.00 (Post N' Parcel). Both also say 'Additional service fees may apply' on DOJ, so ask for the out-the-door price before they roll.
 ### Can I walk in Saturday in Milpitas without an appointment?
 
 Yes for the 2 DOJ Saturday walk-in rows on this page (city of Milpitas only): Calaveras Notary Services and Post N' Parcel. Both list Walk-ins & Appointments on Saturday, so appointments may still jump the line. Oclarit Insurance Agency is Saturday appointment-only on DOJ. Nobody was called.

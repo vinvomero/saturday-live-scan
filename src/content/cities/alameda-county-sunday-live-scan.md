@@ -121,6 +121,26 @@ Nearby: [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-live-scan
 
 ## FAQ
 
+
+
+
+
+
+### Why isn't the Telegraph / Piedmont / Grand UPS store on this list?
+
+Those three are Saturday Live Scan on DOJ and "open 7 days" on UPS store pages. Sunday Live Scan is not on their DOJ rows (accessed 2026-08-31). This page is Sunday Live Scan, not Sunday shipping.
+### Cash or card?
+
+It varies. Most UPS Sunday rows list cash/credit/debit; several have no billing accounts. Naka Tax is billing / cash / checks only (no cards on DOJ). Santosh is cash / cashier's check only. GM Defense lists no cash. DOJ says to check for payment restrictions. Confirm with the shop before you go.
+### What's the cheapest or earliest Sunday option?
+
+Cheapest Sunday walk-in rolling fee on DOJ is $30.00, tied: Naka Tax (Union City, 9:00 am – 8:00 pm, no cards), UPS #0953 Dublin (walk-in 10:00 am – 3:00 pm), and UPS #0345 Pleasanton (DOJ prints Sunday 12:00 am – 2:00 pm — do not treat midnight as a real open). Earliest usable walk-in open is 9:00 am at Naka and at Suraj Notary (Dublin residential terrace, $38). Cheapest Sunday appointment rolling fee is $25.00 (Niche — public hours conflict; Western Notary — mobile add-on fee conflict; Santosh — no street on the detail page; AAA — Sunday times UNVERIFIED).
+### Are UPS store hours the fingerprint hours?
+
+No. UPS locator pages advertise "open 7 days" and often notary 7 days. That is shipping. Live Scan Sunday hours are the DOJ column. Telegraph #6089, Piedmont #3270, and Grand #1821 are open Sunday for packages and are Saturday-only on DOJ for Live Scan.
+### Can I walk in Sunday in Alameda County without an appointment?
+
+Yes for the 13 DOJ Sunday walk-in rows. Four of those are walk-in-only on Sunday (UPS #0345 Pleasanton, #0953 Dublin, #5898 Alameda, #1411 Newark). The other nine list walk-ins and appointments — appointments may still jump the line. Sixteen more Sunday rows are appointment-only; do not walk in there. UPS #1640 Fremont is a common trap: Saturday is walk-in, Sunday is appt only. Confirm hours before you go. Nobody was called.
 ### Can I walk in Sunday in Alameda County without an appointment?
 
 Yes for the 13 DOJ Sunday walk-in rows. Four of those are walk-in-only on Sunday (UPS #0345 Pleasanton, #0953 Dublin, #5898 Alameda, #1411 Newark). The other nine list walk-ins **and** appointments — appointments may still jump the line. Sixteen more Sunday rows are appointment-only; do not walk in there. UPS #1640 Fremont is a common trap: Saturday is walk-in, Sunday is **appt only**. Confirm hours before you go. Nobody was called.

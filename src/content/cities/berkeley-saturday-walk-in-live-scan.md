@@ -86,6 +86,22 @@ Nearby: [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-live-scan
 
 ## FAQ
 
+
+
+
+
+### What's the cheapest Saturday walk-in in Berkeley?
+
+A1 Photo Lab lists the lowest rolling fee in this table at $28.00, with the shortest Saturday window (10:15 am – 1:45 pm). Operator page conflicts ($20 / longer hours) — treat DOJ as the source of truth until proven. Next cheapest on DOJ is P.O. Pack at $34.75 (additional service fees may apply), walk-in-only Saturday 10:00 am – 5:00 pm. UPS #6706 opens earliest at 9:00 am but rolls at $50.00.
+### Why isn't Berkeley Live Scan on this list?
+
+It has no street address on the DOJ detail page, and Saturday is appointment only 9:00 am – 12:00 pm (accessed 2026-08-31). This page is Saturday walk-in only.
+### How much does it cost?
+
+The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. P.O. Pack's DOJ row also says additional service fees may apply.
+### Can I walk in Saturday in Berkeley without an appointment?
+
+Yes for the 5 DOJ Saturday walk-in rows. "Walk-in & appt" means appointments may still jump the line. P.O. Pack and A1 are walk-in-only on Saturday (DOJ does not list appointments). A1 is a public conflict on hours/fee — use the DOJ column (10:15 am – 1:45 pm, $28). Confirm hours before you go. Nobody was called.
 ### Can I walk in Saturday in Berkeley without an appointment?
 
 Yes for the 5 DOJ Saturday walk-in rows. “Walk-in & appt” means appointments may still jump the line. P.O. Pack and A1 are walk-in-only on Saturday (DOJ does not list appointments). A1 is a public conflict on hours/fee — use the DOJ column (10:15 am – 1:45 pm, $28). Confirm hours before you go. Nobody was called.

@@ -85,6 +85,14 @@ Nearby: [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-live-scan
 
 ## FAQ
 
+
+
+### What’s the cheapest / earliest Saturday walk-in in Daly City?
+
+Cheapest rolling fee: The UPS Store #6096 at $39.99 (6748 Mission Street; Walk-ins & Appointments Saturday; Mobile Services Available — mobile fee UNVERIFIED). Earliest Saturday open: The UPS Store #6096 at 9:00 am. Latest close: Certifix Live Scan dbw The UPS Store #0966 at 6:00 pm. Highest fee: Certifix UPS #0966 and Post Point Hub at $45.00 (tie).
+### Why isn’t San Francisco / South San Francisco on this list?
+
+This page is the city of Daly City only. San Francisco already has its own Saturday walk-in page. South San Francisco, San Bruno, Pacifica, Burlingame, Millbrae, San Mateo, Redwood City, and other San Mateo County cities are other cities (accessed 2026-09-11).
 ### Can I walk in Saturday in Daly City without an appointment?
 
 Yes for the 4 DOJ Saturday walk-in rows on this page (city of Daly City only). "Walk-ins & appointments" means appointments may still jump the line. Certifix UPS #0966 and Post Point Hub are walk-in-only on Saturday (DOJ does not list appointments). Nobody was called.

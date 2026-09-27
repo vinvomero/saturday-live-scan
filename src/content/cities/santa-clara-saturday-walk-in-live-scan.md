@@ -80,6 +80,10 @@ Nearby: [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-live-scan
 
 ## FAQ
 
+
+### Why isn't San Jose / Sunnyvale on this list?
+
+This page is the city of Santa Clara only. San Jose already has its own Saturday walk-in page. Sunnyvale, Cupertino, Mountain View, Palo Alto, Milpitas, Campbell, Los Gatos, and other Santa Clara County cities are other cities (accessed 2026-09-09).
 ### Can I walk in Saturday in Santa Clara without an appointment?
 
 Yes for the 6 DOJ Saturday walk-in rows on this page (city of Santa Clara only). "Walk-ins & appointments" means appointments may still jump the line. Certifix AD West Mail Center and The Connector Fashion Lane are walk-in-only on Saturday (DOJ does not list appointments). Nobody was called.

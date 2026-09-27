@@ -78,6 +78,10 @@ Nearby: [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-live-scan
 
 ## FAQ
 
+
+### Why isn't San Jose / Santa Clara on this list?
+
+This page is the city of Sunnyvale only. San Jose and Santa Clara already have their own Saturday walk-in pages. Cupertino, Mountain View, Palo Alto, Milpitas, Campbell, Los Gatos, and other Santa Clara County cities are other cities (accessed 2026-09-10).
 ### Can I walk in Saturday in Sunnyvale without an appointment?
 
 Yes for the 3 DOJ Saturday walk-in rows on this page (city of Sunnyvale only). "Walk-ins & appointments" means appointments may still jump the line. KR Services and The UPS Store #0067 are walk-in-only on Saturday (DOJ does not list appointments). Nobody was called.

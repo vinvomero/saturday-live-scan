@@ -106,6 +106,18 @@ Bay Area: [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-live-sc
 
 ## FAQ
 
+
+
+
+### What's the cheapest / earliest Saturday walk-in in San Jose?
+
+Cheapest rolling fee in this table: The UPS Store #0793 at $20.00 (1512 S. De Anza Blvd; additional service fees may apply; opens 10:00 am). Earliest Saturday open is a five-way tie at 9:00 am: Insightful Notary ($30), Long Luc ($25, cash only, closes 2:00 pm), UPS #1330 ($25), UPS #6497 ($27.50), and UPS #0134 ($40). Next-cheapest after #0793 is Liberty Tax at $24.00 (no credit cards on DOJ).
+### Why isn't UPS #0122 / FingerScan / Quick Scan / Veracity on this list?
+
+UPS #0122 (Snell Ave), FingerScan Digital, Fortress Business Services, SK Salunkhe, Certifix UPS #6381, Postal Annex +4U, and Veracity are Saturday (or Weekends) appointment only on DOJ. Quick Scan is Weekends appointment only. Certifix UPS #0240 is weekday-only. This page is Saturday walk-in only (accessed 2026-09-03).
+### Cash or card?
+
+Most shops in this table list cash plus card options on DOJ. Cash only: Certifix at Mailbox & More, and Long Luc Insurance Agency. No Credit Cards on DOJ: Liberty Tax LTS 18555 (it still lists debit and other methods). Certifix UPS #5199 lists cash and credit but not debit or billing accounts. DOJ says to check for payment restrictions. Confirm with the shop before you go.
 ### Can I walk in Saturday in San Jose without an appointment?
 
 Yes for the 19 DOJ Saturday walk-in rows on this page. "Walk-ins & appointments" means appointments may still jump the line. Walk-in-only on Saturday (DOJ does not list appointments): Postal Annex 387, Certifix Mailbox & More, Certifix Postal Annex 3015, and Certifix UPS #5199. Nobody was called.
