@@ -974,7 +974,7 @@ export const pleasantonFaq: FaqItem[] = [
 export const campbellFaq: FaqItem[] = [
   {
     q: 'Can I walk in Saturday in Campbell without an appointment?',
-    a: 'Yes for the 2 DOJ Saturday walk-in rows on this page (city of Campbell street addresses only): Verify Group, Inc. and WellnessMart, MD. Both list Walk-ins & Appointments on Saturday, so appointments may still jump the line. Bay Area Solutions has no Saturday hours; The UPS Store #1949 is Saturday appointment-only. Cupertino's only DOJ node (Sheriff) is weekday appointment-only. Nobody was called.',
+    a: 'Yes for the 2 DOJ Saturday walk-in rows on this page (city of Campbell street addresses only): Verify Group, Inc. and WellnessMart, MD. Both list Walk-ins & Appointments on Saturday, so appointments may still jump the line. Bay Area Solutions has no Saturday hours; The UPS Store #1949 is Saturday appointment-only. Cupertino\'s only DOJ node (Sheriff) is weekday appointment-only. Nobody was called.',
   },
   {
     q: 'What do I bring?',
@@ -990,10 +990,10 @@ export const campbellFaq: FaqItem[] = [
   },
   {
     q: 'Are store hours the fingerprint hours?',
-    a: 'No. Shipping / retail hours on a shop's own page are not Live Scan hours. Live Scan Saturday hours are the DOJ column. Example: Verify Group, Inc. lists Saturday Walk-ins & Appointments 9:00 am – 12:00 pm on DOJ. WellnessMart lists two Saturday blocks with a lunch gap (10:00 am–12:15 pm and 1:00 pm–4:00 pm). Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+    a: 'No. Shipping / retail hours on a shop\'s own page are not Live Scan hours. Live Scan Saturday hours are the DOJ column. Example: Verify Group, Inc. lists Saturday Walk-ins & Appointments 9:00 am – 12:00 pm on DOJ. WellnessMart lists two Saturday blocks with a lunch gap (10:00 am–12:15 pm and 1:00 pm–4:00 pm). Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
   },
   {
-    q: 'Why isn't Cupertino / San Jose / Sunnyvale / Milpitas on this list?',
+    q: 'Why isn\'t Cupertino / San Jose / Sunnyvale / Milpitas on this list?',
     a: 'This page is the **city of Campbell** only. San Jose, Santa Clara, Sunnyvale, Mountain View, Palo Alto, and Milpitas already have their own Saturday walk-in pages. Cupertino was checked on DOJ tonight with 0 Saturday walk-ins (Sheriff weekday appointment-only). Los Gatos, Saratoga, and other nearby cities are other cities. Los Altos has no Saturday walk-in page (accessed 2026-09-26).',
   },
   {
@@ -1001,7 +1001,7 @@ export const campbellFaq: FaqItem[] = [
     a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
   },
   {
-    q: 'What's the cheapest / earliest Saturday walk-in in Campbell?',
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Campbell?',
     a: 'Cheapest rolling fee among INCLUDE rows: $30.00 (Verify Group, Inc. at 262 East Hamilton Avenue, Suite #A). Earliest Saturday open: Verify Group, Inc. at 9:00 am. Latest close: WellnessMart, MD at 4:00 pm (1645 South Bascom Avenue, Suite #7). Highest INCLUDE fee: $31.00 (WellnessMart, MD).',
   },
 ];
