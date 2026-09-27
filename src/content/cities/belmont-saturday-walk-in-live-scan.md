@@ -1,7 +1,8 @@
 ---
-title: Saturday walk-in Live Scan in Belmont
-updated: "2026-09-17"
-query: Saturday walk-in Live Scan Belmont
+title: "Live Scan in Belmont: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Belmont: 2 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 2 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Belmont"
 ---
 
 # Saturday walk-in Live Scan in Belmont
@@ -14,6 +15,11 @@ query: Saturday walk-in Live Scan Belmont
 **Query this page answers:** "Saturday walk-in Live Scan Belmont"
 
 **Canonical:** https://saturdaylivescan.com/belmont-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Belmont
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 

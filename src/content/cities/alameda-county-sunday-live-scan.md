@@ -13,6 +13,11 @@ query: Sunday Live Scan Alameda County
 **Updated:** 2026-08-31  
 **Query this page answers:** “Sunday Live Scan Alameda County”
 
+
+## Open Sunday in Alameda County
+
+Sunday walk-in shops listed on the DOJ list. The full Sunday table, the skip list, and gotchas are further down this page. Nobody was called.
+
 ## How this was verified
 
 Rows below are **only** shops on the California DOJ Public Live Scan Sites list for **Alameda County** whose DOJ hours include **Sunday** or **Weekends** (weekends include Sunday). Walk-in Sunday and appointment-only Sunday are split into two tables. A shop that is Saturday-only on DOJ is not a Sunday roller, even if the UPS locator says “open 7 days.”

@@ -1,7 +1,8 @@
 ---
-title: Saturday walk-in Live Scan in Richmond
-updated: "2026-09-08"
-query: Saturday walk-in Live Scan Richmond
+title: "Live Scan in Richmond: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Richmond: 2 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 2 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Richmond"
 ---
 
 # Saturday walk-in Live Scan in Richmond
@@ -14,6 +15,11 @@ query: Saturday walk-in Live Scan Richmond
 **Query this page answers:** "Saturday walk-in Live Scan Richmond"
 
 **Canonical:** https://saturdaylivescan.com/richmond-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Richmond
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 

@@ -15,7 +15,7 @@ interface Props {
 }
 
 const defaultDescription =
-  'California Live Scan shops that the DOJ list marks as Saturday walk-in, city by city. Confirm hours before you go.';
+  'California Live Scan sites from the DOJ list: hours, walk-in vs appointment, rolling fees, and Saturday options by city. Confirm before you go.';
 
 const {
   title,
@@ -62,7 +62,7 @@ const websiteJson = website
   ? {
       '@context': 'https://schema.org',
       '@type': 'WebSite',
-      name: 'Saturday Walk-in Live Scan (California)',
+      name: 'Saturday Live Scan',
       url: new URL(base, site).href,
     }
   : null;
@@ -86,7 +86,7 @@ const currentPath = Astro.url.pathname;
     <meta property="og:image" content={ogImage} />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
-    <meta property="og:image:alt" content="Saturday Walk-in Live Scan (California)" />
+    <meta property="og:image:alt" content="Saturday Live Scan: California Live Scan locations" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content={ogImage} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -121,9 +121,10 @@ const currentPath = Astro.url.pathname;
           <li><a href={base} aria-current={currentPath === base || currentPath === `${base}` ? 'page' : undefined}>Home</a></li>
           {cities.map((city) => {
             const cityPath = `${base}${city.id}/`;
+            const linkText = city.data.title.split(':')[0]?.trim() ?? city.data.title;
             return (
               <li>
-                <a href={cityPath} aria-current={currentPath === cityPath || currentPath === `${base}${city.id}` ? 'page' : undefined}>{city.data.title}</a>
+                <a href={cityPath} aria-current={currentPath === cityPath || currentPath === `${base}${city.id}` ? 'page' : undefined}>{linkText}</a>
               </li>
             );
           })}

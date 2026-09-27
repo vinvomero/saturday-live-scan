@@ -1,7 +1,8 @@
 ---
-title: Saturday walk-in Live Scan in Millbrae
-updated: "2026-09-20"
-query: Saturday walk-in Live Scan Millbrae
+title: "Live Scan in Millbrae: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Millbrae: 3 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 3 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Millbrae"
 ---
 
 # Saturday walk-in Live Scan in Millbrae
@@ -14,6 +15,11 @@ query: Saturday walk-in Live Scan Millbrae
 **Query this page answers:** "Saturday walk-in Live Scan Millbrae"
 
 **Canonical:** https://saturdaylivescan.com/millbrae-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Millbrae
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 

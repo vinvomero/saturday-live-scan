@@ -1,8 +1,8 @@
 ---
-title: Saturday walk-in Live Scan in San Francisco
-updated: "2026-08-31"
-query: Saturday walk-in Live Scan San Francisco
-description: Saturday walk-in Live Scan in San Francisco — 13 shops open Saturday. Rolling fees $29–$50. Bring BCIA 8016 form and ID. Confirm hours before you go.
+title: "Live Scan in San Francisco: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in San Francisco: 13 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 13 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan San Francisco"
 ---
 
 # Saturday walk-in Live Scan in San Francisco
@@ -13,6 +13,11 @@ description: Saturday walk-in Live Scan in San Francisco — 13 shops open Satur
 
 **Updated:** 2026-08-31  
 **Query this page answers:** "Saturday walk-in Live Scan San Francisco"
+
+
+## Open Saturday in San Francisco
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 

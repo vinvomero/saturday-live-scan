@@ -1,10 +1,11 @@
 ---
-title: Saturday cash Live Scan in Oakland
-updated: "2026-08-31"
-query: Saturday cash Live Scan Oakland
+title: "Cash Live Scan in Oakland: hours, walk-ins, Saturday options"
+description: "Cash Live Scan in Oakland: 7 DOJ-listed shops accept cash. Hours, walk-in vs appointment, rolling fees, and Saturday options. Confirm before you go."
+updated: "2026-09-27"
+query: "Cash Live Scan Oakland"
 ---
 
-# Saturday cash Live Scan in Oakland
+# Cash Live Scan in Oakland
 
 **Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** as a **walk-in**, and you want to **pay cash** (or know which shops list cash on DOJ and where a card costs more).
 
@@ -12,6 +13,11 @@ query: Saturday cash Live Scan Oakland
 
 **Updated:** 2026-08-31  
 **Query this page answers:** “Saturday cash Live Scan Oakland”
+
+
+## Open Saturday in Oakland
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 

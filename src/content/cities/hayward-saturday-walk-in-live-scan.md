@@ -1,7 +1,8 @@
 ---
-title: Saturday walk-in Live Scan in Hayward
-updated: "2026-09-06"
-query: Saturday walk-in Live Scan Hayward
+title: "Live Scan in Hayward: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Hayward: 3 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 3 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Hayward"
 ---
 
 # Saturday walk-in Live Scan in Hayward
@@ -14,6 +15,11 @@ query: Saturday walk-in Live Scan Hayward
 **Query this page answers:** "Saturday walk-in Live Scan Hayward"
 
 **Canonical:** https://saturdaylivescan.com/hayward-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Hayward
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 

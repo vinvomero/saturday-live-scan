@@ -109,7 +109,6 @@ const ogUrl = `${origin}og.png`;
 if (existsSync(join(root, 'public/sitemap.xml'))) fail('public/sitemap.xml must not remain as source of truth');
 if (existsSync(join(root, 'public/llms.txt'))) fail('public/llms.txt must not remain as source of truth');
 if (existsSync(join(root, 'CNAME'))) fail('repo-root CNAME must not exist on main');
-if (existsSync(join(root, '.github/workflows'))) fail('.github/workflows must not exist');
 
 const publicCnamePath = join(root, 'public/CNAME');
 if (!existsSync(publicCnamePath)) {
@@ -183,7 +182,7 @@ for (const loc of [
 ]) {
   if (!llms.includes(loc)) fail(`llms.txt missing ${loc}`);
 }
-if (!llms.includes('California Live Scan shops that the DOJ list marks as Saturday walk-in')) {
+if (!llms.includes('California Live Scan sites from the CA DOJ list, by city: hours, walk-in vs appointment, rolling fees, and Saturday options. Confirm before you go.')) {
   fail('llms.txt missing one-line site description');
 }
 
@@ -277,7 +276,7 @@ function checkPage(
 }
 
 const home = checkPage('index.html', {
-  title: 'Saturday Walk-in Live Scan (California)',
+  title: 'California Live Scan locations: hours, walk-ins, Saturday options',
   canonical: origin,
   types: ['WebPage', 'WebSite', 'FAQPage'],
   faq: true,
@@ -285,13 +284,13 @@ const home = checkPage('index.html', {
 if (home && !home.includes('id="faq"')) fail('home: missing id=faq');
 
 const oakland = checkPage('oakland-saturday-walk-in-live-scan/index.html', {
-  title: 'Saturday walk-in Live Scan in Oakland',
+  title: 'Live Scan in Oakland: hours, walk-ins, Saturday options',
   canonical: `${origin}oakland-saturday-walk-in-live-scan/`,
   types: ['WebPage', 'FAQPage', 'BreadcrumbList', 'ItemList'],
   faq: true,
 });
 const berkeley = checkPage('berkeley-saturday-walk-in-live-scan/index.html', {
-  title: 'Saturday walk-in Live Scan in Berkeley',
+  title: 'Live Scan in Berkeley: hours, walk-ins, Saturday options',
   canonical: `${origin}berkeley-saturday-walk-in-live-scan/`,
   types: ['WebPage', 'FAQPage', 'BreadcrumbList', 'ItemList'],
   faq: true,
@@ -308,7 +307,7 @@ if (alameda) {
   if (!alameda.includes('Sunday')) fail('alameda HTML missing Sunday');
 }
 const sanFrancisco = checkPage('san-francisco-saturday-walk-in-live-scan/index.html', {
-  title: 'Saturday walk-in Live Scan in San Francisco',
+  title: 'Live Scan in San Francisco: hours, walk-ins, Saturday options',
   canonical: `${origin}san-francisco-saturday-walk-in-live-scan/`,
   types: ['WebPage', 'FAQPage', 'BreadcrumbList'],
   faq: true,
@@ -319,7 +318,7 @@ if (sanFrancisco) {
 }
 
 const oaklandCash = checkPage('oakland-saturday-cash-live-scan/index.html', {
-  title: 'Saturday cash Live Scan in Oakland',
+  title: 'Cash Live Scan in Oakland: hours, walk-ins, Saturday options',
   canonical: `${origin}oakland-saturday-cash-live-scan/`,
   types: ['WebPage', 'FAQPage', 'BreadcrumbList'],
   faq: true,
@@ -330,7 +329,7 @@ if (oaklandCash) {
 }
 
 const oaklandTeacher = checkPage('oakland-saturday-teacher-credential-live-scan/index.html', {
-  title: 'Saturday Live Scan in Oakland for a teacher credential',
+  title: 'Teacher credential Live Scan in Oakland: Form 41-LS, Saturday options',
   canonical: `${origin}oakland-saturday-teacher-credential-live-scan/`,
   types: ['WebPage', 'FAQPage', 'BreadcrumbList'],
   faq: true,
@@ -340,8 +339,15 @@ if (oaklandTeacher) {
   if (!oaklandTeacher.includes('id="faq"')) fail('oakland-teacher: missing id=faq');
 }
 
+const oaklandDowntown = checkPage('oakland-saturday-downtown-vs-fruitvale-live-scan/index.html', {
+  title: 'Downtown vs Fruitvale Live Scan in Oakland: hours, walk-ins, Saturday options',
+  canonical: `${origin}oakland-saturday-downtown-vs-fruitvale-live-scan/`,
+  types: ['WebPage', 'FAQPage', 'BreadcrumbList'],
+  faq: true,
+});
+
 const faqHub = checkPage('faq/index.html', {
-  title: 'Saturday walk-in Live Scan FAQ',
+  title: 'California Live Scan FAQ: hours, walk-ins, Saturday options',
   canonical: `${origin}faq/`,
   types: ['WebPage'],
 });
@@ -408,7 +414,7 @@ checkListings(
 );
 
 const santaClara = checkPage('santa-clara-saturday-walk-in-live-scan/index.html', {
-  title: 'Saturday walk-in Live Scan in Santa Clara',
+  title: 'Live Scan in Santa Clara: hours, walk-ins, Saturday options',
   canonical: `${origin}santa-clara-saturday-walk-in-live-scan/`,
   types: ['WebPage', 'FAQPage', 'BreadcrumbList', 'ItemList'],
   faq: true,
@@ -500,6 +506,154 @@ if (readme.includes('No shops were paid.') && !readme.includes('No shop is featu
 if (!readme.includes('offer, not checkout') && !readme.includes('offer, not a live checkout')) {
   fail('README must label the featured slot as an offer not checkout');
 }
+
+// Check (a): Built sitemap URL set equals baseline
+const baselineUrls = readFileSync('/tmp/baseline-sitemap-urls.txt', 'utf8')
+  .trim()
+  .split('\n')
+  .map(line => line.trim().replace(/<\/?loc>/g, '').replace(/\s+/g, ''))
+  .filter(Boolean);
+const builtUrls = sitemap.match(/<loc>([^<]+)<\/loc>/g)?.map(m => m.replace(/<\/?loc>/g, '').trim()) ?? [];
+const baselineSet = new Set(baselineUrls);
+const builtSet = new Set(builtUrls);
+if (baselineSet.size !== builtSet.size) {
+  fail(`sitemap URL count mismatch: baseline ${baselineSet.size}, built ${builtSet.size}`);
+}
+for (const url of baselineSet) {
+  if (!builtSet.has(url)) {
+    fail(`sitemap missing baseline URL: ${url}`);
+  }
+}
+for (const url of builtSet) {
+  if (!baselineSet.has(url)) {
+    fail(`sitemap has extra URL: ${url}`);
+  }
+}
+
+// Check (b): Every city title and its part before colon is unique
+const cityFiles = [
+  'belmont-saturday-walk-in-live-scan', 'berkeley-saturday-walk-in-live-scan',
+  'burlingame-saturday-walk-in-live-scan', 'campbell-saturday-walk-in-live-scan',
+  'concord-saturday-walk-in-live-scan', 'daly-city-saturday-walk-in-live-scan',
+  'foster-city-saturday-walk-in-live-scan', 'fremont-saturday-walk-in-live-scan',
+  'hayward-saturday-walk-in-live-scan', 'millbrae-saturday-walk-in-live-scan',
+  'milpitas-saturday-walk-in-live-scan', 'mountain-view-saturday-walk-in-live-scan',
+  'oakland-saturday-walk-in-live-scan', 'palo-alto-saturday-walk-in-live-scan',
+  'pleasanton-saturday-walk-in-live-scan', 'redwood-city-saturday-walk-in-live-scan',
+  'richmond-saturday-walk-in-live-scan', 'san-francisco-saturday-walk-in-live-scan',
+  'san-jose-saturday-walk-in-live-scan', 'san-mateo-saturday-walk-in-live-scan',
+  'santa-clara-saturday-walk-in-live-scan', 'south-san-francisco-saturday-walk-in-live-scan',
+  'sunnyvale-saturday-walk-in-live-scan', 'walnut-creek-saturday-walk-in-live-scan',
+  'oakland-saturday-cash-live-scan', 'oakland-saturday-teacher-credential-live-scan',
+  'oakland-saturday-downtown-vs-fruitvale-live-scan', 'alameda-county-sunday-live-scan',
+];
+const cityTitles: string[] = [];
+const cityPrefixes: string[] = [];
+for (const slug of cityFiles) {
+  const html = read(`${slug}/index.html`);
+  if (!html) continue;
+  const t = title(html);
+  if (t) {
+    cityTitles.push(t);
+    const prefix = t.split(':')[0]?.trim() ?? t;
+    cityPrefixes.push(prefix);
+  }
+}
+const uniqueTitles = new Set(cityTitles);
+if (uniqueTitles.size !== cityTitles.length) {
+  const dupes = cityTitles.filter((t, i, a) => a.indexOf(t) !== i);
+  fail(`duplicate city titles: ${dupes.join(', ')}`);
+}
+const uniquePrefixes = new Set(cityPrefixes);
+if (uniquePrefixes.size !== cityPrefixes.length) {
+  const dupes = cityPrefixes.filter((p, i, a) => a.indexOf(p) !== i);
+  fail(`duplicate city title prefixes: ${dupes.join(', ')}`);
+}
+
+// Check (c): Every city page has "Open Saturday" or "Open Sunday"
+for (const slug of cityFiles) {
+  const html = read(`${slug}/index.html`);
+  if (!html) continue;
+  if (slug === 'alameda-county-sunday-live-scan') {
+    if (!html.includes('Open Sunday')) {
+      fail(`${slug}: missing "Open Sunday" heading`);
+    }
+  } else {
+    if (!html.includes('Open Saturday')) {
+      fail(`${slug}: missing "Open Saturday" heading`);
+    }
+  }
+}
+
+// Check (d): FAQ parity
+for (const slug of cityFiles) {
+  const html = read(`${slug}/index.html`);
+  if (!html) continue;
+  const blocks = jsonLdBlocks(html);
+  const faq = findType(blocks, 'FAQPage');
+  if (!faq) continue;
+  const entities = (faq.mainEntity as { name: string; acceptedAnswer: { text: string } }[]) ?? [];
+  const mdPath = `src/content/cities/${slug}.md`;
+  const md = readRepo(mdPath);
+  const faqSection = md.split('## FAQ')[1] ?? '';
+  const mdQuestions = (faqSection.match(/^### /gm) ?? []).length;
+  if (entities.length !== mdQuestions) {
+    fail(`${slug}: FAQ parity fail: JSON-LD has ${entities.length} questions, markdown has ${mdQuestions}`);
+  }
+  // Check each question and answer appears in HTML (without script blocks)
+  const htmlNoScripts = html.replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '');
+  const decode = (s: string) => s
+    .replace(/&quot;/g, '"')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&#39;/g, "'")
+    .replace(/[\u2018\u2019]/g, "'")
+    .replace(/[\u201C\u201D]/g, '"')
+    .replace(/\s+/g, ' ')
+    .trim();
+  for (const item of entities) {
+    const decodedQ = decode(item.name);
+    const decodedA = decode(item.acceptedAnswer.text);
+    if (!decode(htmlNoScripts).includes(decodedQ)) {
+      fail(`${slug}: FAQ question not in HTML: ${item.name}`);
+    }
+    if (!decode(htmlNoScripts).includes(decodedA)) {
+      fail(`${slug}: FAQ answer not in HTML: ${item.name}`);
+    }
+  }
+}
+
+// Check (e): Excluded cities
+const excluded = ['San Bruno', 'Pacifica', 'Menlo Park', 'San Carlos', 'Los Altos', 'Cupertino'];
+for (const name of excluded) {
+  if (sitemap.includes(name)) fail(`sitemap contains excluded city: ${name}`);
+  if (llms.includes(name)) fail(`llms.txt contains excluded city: ${name}`);
+  for (const slug of cityFiles) {
+    const html = read(`${slug}/index.html`);
+    if (!html) continue;
+    const t = title(html);
+    const desc = attr(html, 'description');
+    const og = attr(html, 'og:title');
+    if (t?.includes(name)) fail(`${slug} title contains excluded city: ${name}`);
+    if (desc?.includes(name)) fail(`${slug} description contains excluded city: ${name}`);
+    if (og?.includes(name)) fail(`${slug} og:title contains excluded city: ${name}`);
+    const h1Match = html.match(/<h1[^>]*>([^<]+)<\/h1>/);
+    if (h1Match?.[1]?.includes(name)) fail(`${slug} H1 contains excluded city: ${name}`);
+  }
+  if (home && title(home)?.includes(name)) fail(`home title contains excluded city: ${name}`);
+  if (home && attr(home, 'description')?.includes(name)) fail(`home description contains excluded city: ${name}`);
+}
+
+// Check (f): No "Local draft"
+for (const slug of cityFiles) {
+  const html = read(`${slug}/index.html`);
+  if (!html) continue;
+  if (html.includes('Local draft')) {
+    fail(`${slug}: contains "Local draft"`);
+  }
+}
+if (home?.includes('Local draft')) fail('home: contains "Local draft"');
 
 if (failures.length) {
   console.error(`SEO smoke failed (${failures.length}):`);

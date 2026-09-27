@@ -5,12 +5,12 @@ export type FaqItem = {
 
 export const homeFaq: FaqItem[] = [
   {
-    q: 'What is this site?',
-    a: 'California Live Scan shops that the DOJ list marks as Saturday walk-in, city by city. Confirm hours and fees with the shop before you go. Nobody listed here was called.',
+    q: 'Do I need an appointment for Live Scan in California?',
+    a: 'It depends on the shop and the day. Each city page shows the DOJ label for each shop: Walk-ins, Appt. only, or Walk-ins & Appointments. Appointments may still jump the line. Confirm hours before you go.',
   },
   {
-    q: 'Do I need an appointment for Saturday Live Scan in California?',
-    a: 'This site lists shops the DOJ list marks as Saturday walk-in, plus a Sunday Alameda County page. Appointments may still jump the line. Confirm hours before you go. For Oakland shops, see Saturday walk-in Live Scan in Oakland: https://saturdaylivescan.com/oakland-saturday-walk-in-live-scan/ For Oakland Saturday cash shops, see Saturday cash Live Scan in Oakland: https://saturdaylivescan.com/oakland-saturday-cash-live-scan/ For Oakland Saturday teacher credential, see Saturday Live Scan in Oakland for a teacher credential: https://saturdaylivescan.com/oakland-saturday-teacher-credential-live-scan/ For Berkeley shops, see Saturday walk-in Live Scan in Berkeley: https://saturdaylivescan.com/berkeley-saturday-walk-in-live-scan/ For San Francisco shops, see Saturday walk-in Live Scan in San Francisco: https://saturdaylivescan.com/san-francisco-saturday-walk-in-live-scan/ For Sunday in Alameda County, see Sunday Live Scan in Alameda County: https://saturdaylivescan.com/alameda-county-sunday-live-scan/',
+    q: 'What is this site?',
+    a: 'California Live Scan sites from the DOJ list, by city: hours, walk-in vs appointment, rolling fees, and Saturday options. Confirm hours and fees with the shop before you go. Nobody listed here was called.',
   },
   {
     q: 'What do I bring?',
@@ -972,6 +972,14 @@ export const pleasantonFaq: FaqItem[] = [
 ];
 
 export const campbellFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Campbell?',
+    a: 'This page lists 4 DOJ-listed Live Scan sites with a Campbell street address. 2 take Saturday walk-ins: Verify Group, Inc. and WellnessMart, MD. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Campbell; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Campbell?',
+    a: 'It depends on the shop and the day. On DOJ, Verify Group, Inc. and WellnessMart, MD take walk-ins on Saturday; Bay Area Solutions takes walk-ins Monday–Friday; The UPS Store #1949 is Saturday appointment-only. Appointments may still jump the line. Confirm before you go.',
+  },
   {
     q: 'Can I walk in Saturday in Campbell without an appointment?',
     a: 'Yes for the 2 DOJ Saturday walk-in rows on this page (city of Campbell street addresses only): Verify Group, Inc. and WellnessMart, MD. Both list Walk-ins & Appointments on Saturday, so appointments may still jump the line. Bay Area Solutions has no Saturday hours; The UPS Store #1949 is Saturday appointment-only. Cupertino\'s only DOJ node (Sheriff) is weekday appointment-only. Nobody was called.',

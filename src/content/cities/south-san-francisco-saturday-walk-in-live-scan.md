@@ -1,7 +1,8 @@
 ---
-title: Saturday walk-in Live Scan in South San Francisco
-updated: "2026-09-12"
-query: Saturday walk-in Live Scan South San Francisco
+title: "Live Scan in South San Francisco: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in South San Francisco: 1 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 1 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan South San Francisco"
 ---
 
 # Saturday walk-in Live Scan in South San Francisco
@@ -14,6 +15,11 @@ query: Saturday walk-in Live Scan South San Francisco
 **Query this page answers:** "Saturday walk-in Live Scan South San Francisco"
 
 **Canonical:** https://saturdaylivescan.com/south-san-francisco-saturday-walk-in-live-scan/
+
+
+## Open Saturday in South San Francisco
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 

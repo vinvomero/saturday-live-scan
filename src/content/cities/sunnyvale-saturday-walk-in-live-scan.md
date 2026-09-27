@@ -1,7 +1,8 @@
 ---
-title: Saturday walk-in Live Scan in Sunnyvale
-updated: "2026-09-10"
-query: Saturday walk-in Live Scan Sunnyvale
+title: "Live Scan in Sunnyvale: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Sunnyvale: 3 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 3 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Sunnyvale"
 ---
 
 # Saturday walk-in Live Scan in Sunnyvale
@@ -14,6 +15,11 @@ query: Saturday walk-in Live Scan Sunnyvale
 **Query this page answers:** "Saturday walk-in Live Scan Sunnyvale"
 
 **Canonical:** https://saturdaylivescan.com/sunnyvale-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Sunnyvale
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 

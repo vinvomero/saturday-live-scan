@@ -1,7 +1,8 @@
 ---
-title: Saturday walk-in Live Scan in Redwood City
-updated: "2026-09-14"
-query: Saturday walk-in Live Scan Redwood City
+title: "Live Scan in Redwood City: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Redwood City: 4 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 4 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Redwood City"
 ---
 
 # Saturday walk-in Live Scan in Redwood City
@@ -14,6 +15,11 @@ query: Saturday walk-in Live Scan Redwood City
 **Query this page answers:** "Saturday walk-in Live Scan Redwood City"
 
 **Canonical:** https://saturdaylivescan.com/redwood-city-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Redwood City
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 

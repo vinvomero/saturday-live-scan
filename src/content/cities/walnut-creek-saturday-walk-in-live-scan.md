@@ -1,7 +1,8 @@
 ---
-title: Saturday walk-in Live Scan in Walnut Creek
-updated: "2026-09-07"
-query: Saturday walk-in Live Scan Walnut Creek
+title: "Live Scan in Walnut Creek: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Walnut Creek: 4 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 4 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Walnut Creek"
 ---
 
 # Saturday walk-in Live Scan in Walnut Creek
@@ -14,6 +15,11 @@ query: Saturday walk-in Live Scan Walnut Creek
 **Query this page answers:** "Saturday walk-in Live Scan Walnut Creek"
 
 **Canonical:** https://saturdaylivescan.com/walnut-creek-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Walnut Creek
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 

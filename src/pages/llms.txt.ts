@@ -7,21 +7,21 @@ export const GET: APIRoute = async ({ site }) => {
   const faq = pageUrl(site, 'faq');
   const cityLines = cities
     .map(
-      (city) =>
-        `- [${city.data.title}](${pageUrl(site, city.id)}): DOJ-listed shops, hours, rolling fees, skip list, FAQ on the city page.`,
+      (city) => {
+        const prefix = city.data.title.split(':')[0]?.trim() ?? city.data.title;
+        return `- [${prefix}](${pageUrl(site, city.id)}): Hours, walk-in vs appointment, rolling fees, Saturday options.`;
+      },
     )
     .join('\n');
-  const body = `# Saturday Walk-in Live Scan (California)
+  const body = `# Saturday Live Scan: California Live Scan locations
 
-> California Live Scan shops that the DOJ list marks as Saturday walk-in, city by city.
-
-Confirm hours and fees with the shop before you go. DOJ says the public list can be stale. Nobody listed here was called.
+> California Live Scan sites from the CA DOJ list, by city: hours, walk-in vs appointment, rolling fees, and Saturday options. Confirm before you go.
 
 ## Pages
 
-- [Saturday Walk-in Live Scan (California)](${home}): Index of California cities with DOJ-listed Saturday walk-in Live Scan shops. Includes FAQ.
+- [California Live Scan locations: hours, walk-ins, Saturday options](${home}): Index of California cities with DOJ-listed Live Scan sites. Includes FAQ.
 ${cityLines}
-- [FAQ](${faq}): Links to the home FAQ and each city FAQ section.
+- [California Live Scan FAQ](${faq}): Links to the home FAQ and each city FAQ section.
 `;
   return new Response(body, {
     headers: { 'Content-Type': 'text/plain; charset=utf-8' },

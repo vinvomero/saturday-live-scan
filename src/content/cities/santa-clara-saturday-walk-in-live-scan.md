@@ -1,7 +1,8 @@
 ---
-title: Saturday walk-in Live Scan in Santa Clara
-updated: "2026-09-09"
-query: Saturday walk-in Live Scan Santa Clara
+title: "Live Scan in Santa Clara: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Santa Clara: 4 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 4 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Santa Clara"
 ---
 
 # Saturday walk-in Live Scan in Santa Clara
@@ -14,6 +15,11 @@ query: Saturday walk-in Live Scan Santa Clara
 **Query this page answers:** "Saturday walk-in Live Scan Santa Clara"
 
 **Canonical:** https://saturdaylivescan.com/santa-clara-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Santa Clara
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 

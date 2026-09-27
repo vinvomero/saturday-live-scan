@@ -1,7 +1,8 @@
 ---
-title: Saturday walk-in Live Scan in Burlingame
-updated: "2026-09-15"
-query: Saturday walk-in Live Scan Burlingame
+title: "Live Scan in Burlingame: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Burlingame: 4 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 4 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Burlingame"
 ---
 
 # Saturday walk-in Live Scan in Burlingame
@@ -14,6 +15,11 @@ query: Saturday walk-in Live Scan Burlingame
 **Query this page answers:** "Saturday walk-in Live Scan Burlingame"
 
 **Canonical:** https://saturdaylivescan.com/burlingame-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Burlingame
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 

@@ -1,7 +1,8 @@
 ---
-title: Saturday walk-in Live Scan in Mountain View
-updated: "2026-09-22"
-query: Saturday walk-in Live Scan Mountain View
+title: "Live Scan in Mountain View: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Mountain View: 4 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 4 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Mountain View"
 ---
 
 # Saturday walk-in Live Scan in Mountain View
@@ -14,6 +15,11 @@ query: Saturday walk-in Live Scan Mountain View
 **Query this page answers:** "Saturday walk-in Live Scan Mountain View"
 
 **Canonical:** https://saturdaylivescan.com/mountain-view-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Mountain View
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 

@@ -1,10 +1,11 @@
 ---
-title: 'Saturday walk-in Live Scan: downtown Oakland vs East Oakland / Fruitvale'
-updated: "2026-09-02"
-query: 'Saturday walk-in Live Scan downtown Oakland vs Fruitvale'
+title: "Downtown vs Fruitvale Live Scan in Oakland: hours, walk-ins, Saturday options"
+description: "Downtown vs Fruitvale Live Scan in Oakland: 7 shops. Hours, walk-in vs appointment, rolling fees, and Saturday options. Confirm before you go."
+updated: "2026-09-27"
+query: "Downtown vs Fruitvale Live Scan Oakland"
 ---
 
-# Saturday walk-in Live Scan: downtown Oakland vs East Oakland / Fruitvale
+# Downtown vs Fruitvale Live Scan in Oakland
 
 **Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) and you need fingerprints **this Saturday** as a walk-in in Oakland. You are choosing **downtown** versus a shop **on Fruitvale Avenue**. You are not hunting a new city.
 
@@ -13,6 +14,11 @@ query: 'Saturday walk-in Live Scan downtown Oakland vs Fruitvale'
 **Updated:** 2026-09-02  
 **Query this page answers:** "Saturday walk-in Live Scan downtown Oakland vs Fruitvale"  
 **Canonical:** https://saturdaylivescan.com/oakland-saturday-downtown-vs-fruitvale-live-scan/
+
+
+## Open Saturday in Oakland
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 

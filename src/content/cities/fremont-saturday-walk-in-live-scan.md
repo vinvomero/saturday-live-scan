@@ -1,8 +1,8 @@
 ---
-title: Saturday walk-in Live Scan in Fremont
-updated: "2026-09-04"
-query: Saturday walk-in Live Scan Fremont
-description: Saturday walk-in Live Scan in Fremont — 6 shops open Saturday. Rolling fees $20–$45. Bring BCIA 8016 form and ID. Confirm hours before you go.
+title: "Live Scan in Fremont: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Fremont: 6 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 6 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Fremont"
 ---
 
 # Saturday walk-in Live Scan in Fremont
@@ -15,6 +15,11 @@ description: Saturday walk-in Live Scan in Fremont — 6 shops open Saturday. Ro
 **Query this page answers:** "Saturday walk-in Live Scan Fremont"
 
 **Canonical:** https://saturdaylivescan.com/fremont-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Fremont
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 

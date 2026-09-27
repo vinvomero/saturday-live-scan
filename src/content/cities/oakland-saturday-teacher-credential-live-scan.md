@@ -1,10 +1,11 @@
 ---
-title: Saturday Live Scan in Oakland for a teacher credential
-updated: "2026-09-01"
-query: Saturday Live Scan Oakland teacher credential
+title: "Teacher credential Live Scan in Oakland: Form 41-LS, Saturday options"
+description: "Teacher credential Live Scan in Oakland: Form 41-LS for CTC. 7 Saturday walk-in shops. Hours, walk-in vs appointment, fees. Confirm before you go."
+updated: "2026-09-27"
+query: "Teacher credential Live Scan Oakland"
 ---
 
-# Saturday Live Scan in Oakland for a teacher credential
+# Teacher credential Live Scan in Oakland (Form 41-LS)
 
 **Who this is for:** You need fingerprints for a California teaching credential, Certificate of Clearance (COC), or other Commission on Teacher Credentialing (CTC) document, and you want a **Saturday walk-in** Live Scan in **Oakland** with the official CTC Form **41-LS**.
 
@@ -13,6 +14,11 @@ query: Saturday Live Scan Oakland teacher credential
 **Updated:** 2026-09-01  
 **Query this page answers:** “Saturday Live Scan Oakland teacher credential”  
 **Canonical:** https://saturdaylivescan.com/oakland-saturday-teacher-credential-live-scan/
+
+
+## Open Saturday in Oakland
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 

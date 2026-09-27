@@ -1,7 +1,8 @@
 ---
-title: Saturday walk-in Live Scan in San Mateo
-updated: "2026-09-16"
-query: Saturday walk-in Live Scan San Mateo
+title: "Live Scan in San Mateo: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in San Mateo: 3 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 3 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan San Mateo"
 ---
 
 # Saturday walk-in Live Scan in San Mateo
@@ -14,6 +15,11 @@ query: Saturday walk-in Live Scan San Mateo
 **Query this page answers:** "Saturday walk-in Live Scan San Mateo"
 
 **Canonical:** https://saturdaylivescan.com/san-mateo-saturday-walk-in-live-scan/
+
+
+## Open Saturday in San Mateo
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 

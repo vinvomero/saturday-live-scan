@@ -1,8 +1,8 @@
 ---
-title: Saturday walk-in Live Scan Oakland
-updated: "2026-09-09"
-query: Saturday walk-in Live Scan Oakland
-description: Saturday walk-in Live Scan Oakland — 7 shops open Saturday. Rolling fees $23–$50. Bring BCIA 8016 form and ID. Confirm hours before you go.
+title: "Live Scan in Oakland: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Oakland: 12 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 7 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Oakland"
 ---
 
 # Saturday walk-in Live Scan Oakland
@@ -15,6 +15,11 @@ description: Saturday walk-in Live Scan Oakland — 7 shops open Saturday. Rolli
 
 **Updated:** 2026-09-09  
 **Query this page answers:** “Saturday walk-in Live Scan Oakland”
+
+
+## Open Saturday in Oakland
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 

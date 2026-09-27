@@ -1,7 +1,8 @@
 ---
-title: Saturday walk-in Live Scan in Foster City
-updated: "2026-09-18"
-query: Saturday walk-in Live Scan Foster City
+title: "Live Scan in Foster City: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Foster City: 2 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 2 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Foster City"
 ---
 
 # Saturday walk-in Live Scan in Foster City
@@ -14,6 +15,11 @@ query: Saturday walk-in Live Scan Foster City
 **Query this page answers:** "Saturday walk-in Live Scan Foster City"
 
 **Canonical:** https://saturdaylivescan.com/foster-city-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Foster City
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 

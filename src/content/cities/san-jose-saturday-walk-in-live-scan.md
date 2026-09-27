@@ -1,8 +1,8 @@
 ---
-title: Saturday walk-in Live Scan in San Jose
-updated: "2026-09-03"
-query: Saturday walk-in Live Scan San Jose
-description: Saturday walk-in Live Scan in San Jose — 19 shops open Saturday. Rolling fees $20–$40. Bring BCIA 8016 form and ID. Confirm hours before you go.
+title: "Live Scan in San Jose: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in San Jose: 19 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 19 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan San Jose"
 ---
 
 # Saturday walk-in Live Scan in San Jose
@@ -15,6 +15,11 @@ description: Saturday walk-in Live Scan in San Jose — 19 shops open Saturday. 
 **Query this page answers:** "Saturday walk-in Live Scan San Jose"
 
 **Canonical:** https://saturdaylivescan.com/san-jose-saturday-walk-in-live-scan/
+
+
+## Open Saturday in San Jose
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 

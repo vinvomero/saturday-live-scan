@@ -1,19 +1,37 @@
 ---
-title: Saturday walk-in Live Scan in Campbell
-updated: "2026-09-26"
-query: Saturday walk-in Live Scan Campbell
+title: "Live Scan in Campbell: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Campbell: 4 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 2 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Campbell"
 ---
 
-# Saturday walk-in Live Scan in Campbell
+# Live Scan in Campbell
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** in the city of Campbell without an appointment.
-    
+Live Scan fingerprinting in Campbell: this page lists 4 DOJ-listed Live Scan sites with a Campbell street address, with walk-in vs appointment, rolling fees, and other-day hours where the DOJ lists them. 2 are open Saturday for walk-ins (see Open Saturday below). It is not every DOJ site in Campbell; the rest are on the [DOJ county list](https://oag.ca.gov/fingerprints/locations?county=Santa%20Clara).
+
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Campbell: on a weekday or a Saturday, with or without an appointment.
+
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in Cupertino, San Jose, Santa Clara, Sunnyvale, Los Gatos, Saratoga, Milpitas, Mountain View, Palo Alto, or elsewhere in Santa Clara County (those are other cities — San Jose, Santa Clara, Sunnyvale, Mountain View, Palo Alto, and Milpitas already have their own pages). Cupertino was checked on DOJ tonight with 0 Saturday walk-ins (Sheriff weekday appointment-only only). Los Altos has no Saturday walk-in page (blocked — do not invent). Mobile-only providers with no Campbell street address on DOJ.
 
-**Updated:** 2026-09-26  
-**Query this page answers:** "Saturday walk-in Live Scan Campbell"
+**Updated:** 2026-09-27  
+**Query this page answers:** "Live Scan Campbell"
 
-**Canonical (pending publish):** https://saturdaylivescan.com/campbell-saturday-walk-in-live-scan/
+**Canonical:** https://saturdaylivescan.com/campbell-saturday-walk-in-live-scan/
+
+## Open Saturday in Campbell
+
+**2 Saturday walk-in shops** on the DOJ list (accessed 2026-09-26). Earliest open: Verify Group, Inc. at 9:00 am. Cheapest rolling fee: Verify Group, Inc. $30.00. Verify Group, Inc. lists Cash on DOJ; WellnessMart, MD lists no Cash on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+
+## Live Scan in Campbell on other days
+
+| Shop | Address | Other-day hours (DOJ, accessed 2026-09-27) | Saturday | Rolling fee (DOJ) | Source |
+| --- | --- | --- | --- | --- | --- |
+| Verify Group, Inc. | 262 East Hamilton Avenue, Suite #A, Campbell, CA 95008 | — | Walk-ins & appointments (see Open Saturday) | $30.00 | [DOJ detail](https://oag.ca.gov/fingerprints/locations/verify-group-inc) |
+| WellnessMart, MD | 1645 South Bascom Avenue, Suite #7, Campbell, CA 95008 | — | Walk-ins & appointments (see Open Saturday) | $31.00 | [DOJ detail](https://oag.ca.gov/fingerprints/locations/wellnessmart-md-6) |
+| Bay Area Solutions | 2100 S. Bascom Avenue, Suite 1, Campbell, CA 95008 | Monday–Friday: Walk-ins & Appointments 9:00 am – 5:00 pm | No Saturday | $29.00 | [DOJ detail](https://oag.ca.gov/fingerprints/locations/bay-area-solutions) |
+| The UPS Store #1949 | 1608 W. Campbell Avenue, Campbell, CA 95008 | Monday–Friday: Walk-ins 9:00 am – 5:00 pm | Appt. only | $20.00 | [DOJ detail](https://oag.ca.gov/fingerprints/locations/ups-store-1949) |
+
+Other-day hours are copied from each shop's DOJ detail page. "—" means the DOJ page did not list them or could not be read that day; open the DOJ link. "Saturday only on DOJ" means DOJ lists no other day. Store hours are not fingerprint hours. Confirm with the shop before you go.
 
 ## How this was verified
 
@@ -76,6 +94,14 @@ Results go to the **requesting agency**, not to you (DOJ applicants page). Keep 
 ---
 
 ## FAQ
+
+### Where can I get Live Scan in Campbell?
+
+This page lists 4 DOJ-listed Live Scan sites with a Campbell street address. 2 take Saturday walk-ins: Verify Group, Inc. and WellnessMart, MD. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Campbell; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.
+
+### Do I need an appointment for Live Scan in Campbell?
+
+It depends on the shop and the day. On DOJ, Verify Group, Inc. and WellnessMart, MD take walk-ins on Saturday; Bay Area Solutions takes walk-ins Monday–Friday; The UPS Store #1949 is Saturday appointment-only. Appointments may still jump the line. Confirm before you go.
 
 ### Can I walk in Saturday in Campbell without an appointment?
 
