@@ -1,12 +1,15 @@
 ---
-title: Saturday walk-in Live Scan in Mountain View
-updated: "2026-09-22"
-query: Saturday walk-in Live Scan Mountain View
+title: "Live Scan in Mountain View: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Mountain View: 4 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 4 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Mountain View"
 ---
 
-# Saturday walk-in Live Scan in Mountain View
+# Live Scan in Mountain View
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** in the city of Mountain View without an appointment.
+Live Scan fingerprinting in Mountain View: this page lists 5 DOJ-listed Live Scan sites with a Mountain View street address, with walk-in vs appointment, rolling fees, and other-day hours where the DOJ lists them. 3 are open Saturday for walk-ins (see Open Saturday below). It is not every DOJ site in Mountain View; the rest are on the [DOJ county list](https://oag.ca.gov/fingerprints/locations?county=Santa%20Clara).
+
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Mountain View: on a weekday or a Saturday, with or without an appointment.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in Sunnyvale, Palo Alto, Los Altos, Cupertino, Santa Clara, San Jose, Milpitas, Campbell, Los Gatos, or elsewhere in Santa Clara County (those are other cities — Sunnyvale, Santa Clara, and San Jose already have their own pages).
 
@@ -14,6 +17,24 @@ query: Saturday walk-in Live Scan Mountain View
 **Query this page answers:** "Saturday walk-in Live Scan Mountain View"
 
 **Canonical:** https://saturdaylivescan.com/mountain-view-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Mountain View
+
+**3 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** all three at 10:00 am (three-way tie). Cheapest rolling fee: ** Mail All Center $17. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+
+## Live Scan in Mountain View on other days
+
+| Shop | Address | Other-day hours (DOJ, accessed 2026-09-27) | Saturday | Rolling fee (DOJ) | Source |
+| --- | --- | --- | --- | --- | --- |
+| Mail All Center | 809 Cuesta Drive, Suite B, Mountain View, CA 94040 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| WellnessMart, MD | 1901 Old Middlefield Way, Suite #1, Mountain View, CA 94043 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #1847 | 650 Castro Street Ste 120, Mountain View, CA 94041 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Mountain View Los Altos Adult School | — | — | No Saturday | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Mountain View Police Department | — | — | No Saturday | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+
+Other-day hours are copied from each shop's DOJ detail page. "—" means the DOJ page did not list them or could not be read that day; open the DOJ link. "Saturday only on DOJ" means DOJ lists no other day. Store hours are not fingerprint hours. Confirm with the shop before you go.
+
 
 ## How this was verified
 
@@ -75,6 +96,14 @@ Results go to the **requesting agency**, not to you (DOJ applicants page). Keep 
 ---
 
 ## FAQ
+
+### Where can I get Live Scan in Mountain View?
+
+This page lists 5 DOJ-listed Live Scan sites with a Mountain View street address. 3 take Saturday walk-ins: Mail All Center, WellnessMart, MD, The UPS Store #1847. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Mountain View; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.
+
+### Do I need an appointment for Live Scan in Mountain View?
+
+It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.
 
 ### Can I walk in Saturday in Mountain View without an appointment?
 

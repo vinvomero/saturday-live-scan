@@ -5,12 +5,12 @@ export type FaqItem = {
 
 export const homeFaq: FaqItem[] = [
   {
-    q: 'What is this site?',
-    a: 'California Live Scan shops that the DOJ list marks as Saturday walk-in, city by city. Confirm hours and fees with the shop before you go. Nobody listed here was called.',
+    q: 'Do I need an appointment for Live Scan in California?',
+    a: 'It depends on the shop and the day. Each city page shows the DOJ label for each shop: Walk-ins, Appt. only, or Walk-ins & Appointments. Appointments may still jump the line. Confirm hours before you go.',
   },
   {
-    q: 'Do I need an appointment for Saturday Live Scan in California?',
-    a: 'This site lists shops the DOJ list marks as Saturday walk-in, plus a Sunday Alameda County page. Appointments may still jump the line. Confirm hours before you go. For Oakland shops, see Saturday walk-in Live Scan in Oakland: https://saturdaylivescan.com/oakland-saturday-walk-in-live-scan/ For Oakland Saturday cash shops, see Saturday cash Live Scan in Oakland: https://saturdaylivescan.com/oakland-saturday-cash-live-scan/ For Oakland Saturday teacher credential, see Saturday Live Scan in Oakland for a teacher credential: https://saturdaylivescan.com/oakland-saturday-teacher-credential-live-scan/ For Berkeley shops, see Saturday walk-in Live Scan in Berkeley: https://saturdaylivescan.com/berkeley-saturday-walk-in-live-scan/ For San Francisco shops, see Saturday walk-in Live Scan in San Francisco: https://saturdaylivescan.com/san-francisco-saturday-walk-in-live-scan/ For Sunday in Alameda County, see Sunday Live Scan in Alameda County: https://saturdaylivescan.com/alameda-county-sunday-live-scan/',
+    q: 'What is this site?',
+    a: 'California Live Scan sites from the DOJ list, by city: hours, walk-in vs appointment, rolling fees, and Saturday options. Confirm hours and fees with the shop before you go. Nobody listed here was called.',
   },
   {
     q: 'What do I bring?',
@@ -31,6 +31,14 @@ export const homeFaq: FaqItem[] = [
 ];
 
 export const oaklandFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Oakland?',
+    a: 'This page lists 7 DOJ-listed Live Scan sites with a Oakland street address. 7 take Saturday walk-ins (see Open Saturday). Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Oakland; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Oakland?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
   {
     q: 'Can I walk in Saturday in Oakland without an appointment?',
     a: 'Yes for the 7 DOJ Saturday walk-in rows. "Walk-in & appt" means appointments may still jump the line. UPS #7098 is a public conflict — treat as appointment-until-proven. Confirm hours before you go. Nobody was called.',
@@ -62,6 +70,14 @@ export const oaklandFaq: FaqItem[] = [
 ];
 
 export const berkeleyFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Berkeley?',
+    a: 'This page lists 6 DOJ-listed Live Scan sites with a Berkeley street address. 5 take Saturday walk-ins: Omkar Enterprises LLC dba The UPS Store #6706, P.O. Pack, Mail Boxes Plus, The UPS Store #6089, A1 Photo Lab. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Berkeley; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Berkeley?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
   {
     q: 'Can I walk in Saturday in Berkeley without an appointment?',
     a: 'Yes for the 5 DOJ Saturday walk-in rows. "Walk-in & appt" means appointments may still jump the line. P.O. Pack and A1 are walk-in-only on Saturday (DOJ does not list appointments). A1 is a public conflict on hours/fee — use the DOJ column (10:15 am – 1:45 pm, $28). Confirm hours before you go. Nobody was called.',
@@ -98,6 +114,10 @@ export const berkeleyFaq: FaqItem[] = [
 
 export const alamedaSundayFaq: FaqItem[] = [
   {
+    q: 'Can I get Live Scan on other days in Alameda County?',
+    a: 'Yes. Sunday shops are a small subset of the DOJ Alameda County list. Saturday walk-in pages for Oakland, Berkeley, Fremont, Hayward, and Pleasanton have other-day tables. Weekday hours were not available from DOJ on 2026-09-27. Confirm with the shop or the full DOJ county list.',
+  },
+  {
     q: 'Can I walk in Sunday in Alameda County without an appointment?',
     a: 'Yes for the 13 DOJ Sunday walk-in rows. Four of those are walk-in-only on Sunday (UPS #0345 Pleasanton, #0953 Dublin, #5898 Alameda, #1411 Newark). The other nine list walk-ins and appointments — appointments may still jump the line. Sixteen more Sunday rows are appointment-only; do not walk in there. UPS #1640 Fremont is a common trap: Saturday is walk-in, Sunday is appt only. Confirm hours before you go. Nobody was called.',
   },
@@ -132,6 +152,14 @@ export const alamedaSundayFaq: FaqItem[] = [
 ];
 
 export const sanFranciscoFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in San Francisco?',
+    a: 'This page lists 13 DOJ-listed Live Scan sites with a San Francisco street address. 13 take Saturday walk-ins (see Open Saturday). Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in San Francisco; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in San Francisco?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
   {
     q: 'Can I walk in Saturday in San Francisco without an appointment?',
     a: 'Yes for the 13 DOJ Saturday walk-in rows. "Walk-in & appt" means appointments may still jump the line. Walk-in-only on Saturday (DOJ does not list appointments): Post Box Inc., UPS #0178, Post Point Hub Mission, UPS #5568, UPS #6260. Certifix/UPS #0361 is a public stale-listing risk (DOJ open vs UPS locator 404) — confirm before you go. Nobody was called.',
@@ -168,6 +196,10 @@ export const sanFranciscoFaq: FaqItem[] = [
 
 export const oaklandCashFaq: FaqItem[] = [
   {
+    q: 'When can I get cash Live Scan in Oakland on other days?',
+    a: 'All 7 shops in the Saturday walk-in table above list Cash on DOJ. Other-day hours were not available from DOJ on 2026-09-27. The main Oakland page has an other-days table with the same sites; confirm cash and hours before you go.',
+  },
+  {
     q: 'Which Oakland Saturday walk-in shops take cash?',
     a: 'All 7 Oakland Saturday walk-in rows on DOJ list Cash tonight: LPG Live Scan, Certifix @ UPS #3270, Allscan, Copy USA, UPS #1821, UPS #7098, and UPS #0243. Nobody was called. Confirm before you go.',
   },
@@ -202,6 +234,10 @@ export const oaklandCashFaq: FaqItem[] = [
 ];
 
 export const oaklandTeacherFaq: FaqItem[] = [
+  {
+    q: 'Can I get teacher credential Live Scan in Oakland on other days?',
+    a: 'Yes. Any DOJ Live Scan site works for CTC when Form 41-LS ORI fields are correct. Other-day hours were not available from DOJ on 2026-09-27. The main Oakland page has an other-days table with the same 7 sites; confirm hours before you go.',
+  },
   {
     q: 'Which form do I use for CTC / teacher credential Live Scan?',
     a: 'California residents use CTC Form 41-LS (Request for Live Scan Service), which includes BCIA 8016 privacy notices. Download the official PDF from CTC — Form 41-LS at https://docs.ctc.ca.gov/document/download/29865 — and follow 41-LS Instructions. Do not invent an ORI on a blank DIY BCIA 8016.',
@@ -238,6 +274,10 @@ export const oaklandTeacherFaq: FaqItem[] = [
 
 export const oaklandDowntownFruitvaleFaq: FaqItem[] = [
   {
+    q: 'Can I get downtown or Fruitvale Live Scan on other days?',
+    a: 'The 2 downtown shops and 1 Fruitvale Avenue shop are in the other-days table on the main Oakland page. Other-day hours were not available from DOJ on 2026-09-27. Confirm with the shop before you go.',
+  },
+  {
     q: 'How did you split downtown vs Fruitvale?',
     a: 'We did not draw a neighborhood line. Each shop keeps its DOJ street and ZIP. The U.S. Census geocoder returns a Census tract for that address. The City of Oakland Table A-1 name for that tract is the neighborhood label. Downtown = LPG in Downtown/Old Oakland plus Allscan in Chinatown (city: "an important part of Downtown Oakland"). The Fruitvale Avenue column is Copy USA because the DOJ street contains Fruitvale. Copy USA\'s city tract is Oakmore South. We do not call it the Fruitvale district.',
   },
@@ -272,6 +312,14 @@ export const oaklandDowntownFruitvaleFaq: FaqItem[] = [
 ];
 
 export const sanJoseFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in San Jose?',
+    a: 'This page lists 20 DOJ-listed Live Scan sites with a San Jose street address. 19 take Saturday walk-ins (see Open Saturday). Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in San Jose; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in San Jose?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
   {
     q: 'Can I walk in Saturday in San Jose without an appointment?',
     a: 'Yes for the 19 DOJ Saturday walk-in rows on this page. "Walk-ins & appointments" means appointments may still jump the line. Walk-in-only on Saturday (DOJ does not list appointments): Postal Annex 387, Certifix Mailbox & More, Certifix Postal Annex 3015, and Certifix UPS #5199. Nobody was called.',
@@ -308,6 +356,14 @@ export const sanJoseFaq: FaqItem[] = [
 
 export const fremontFaq: FaqItem[] = [
   {
+    q: 'Where can I get Live Scan in Fremont?',
+    a: 'This page lists 6 DOJ-listed Live Scan sites with a Fremont street address. 6 take Saturday walk-ins: Print N\' Parcel, The UPS Store #1640, Postal Annex #24011, The UPS Store #1805, Niche Business Cafe, Certifix Live Scan dbw Aria Printing and Shipping. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Fremont; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Fremont?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
     q: 'Can I walk in Saturday in Fremont without an appointment?',
     a: 'Yes for the 6 DOJ Saturday walk-in rows on this page. "Walk-ins & appointments" means appointments may still jump the line. Walk-in-only on Saturday (DOJ does not list appointments): Niche Business Cafe and Certifix Aria Printing and Shipping. Nobody was called.',
   },
@@ -342,6 +398,14 @@ export const fremontFaq: FaqItem[] = [
 ];
 
 export const concordFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Concord?',
+    a: 'This page lists 5 DOJ-listed Live Scan sites with a Concord street address. 5 take Saturday walk-ins: The UPS Store #0854, Certifix Live Scan dbw The UPS Store #0075, The UPS Store #7668, Postal Annex #164, A1 Photo Lab. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Concord; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Concord?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
   {
     q: 'Can I walk in Saturday in Concord without an appointment?',
     a: 'Yes for the 5 DOJ Saturday walk-in rows on this page. "Walk-ins & appointments" means appointments may still jump the line. Walk-in-only on Saturday (DOJ does not list appointments): A1 Photo Lab and Certifix Live Scan at The UPS Store #0075. Nobody was called.',
@@ -378,6 +442,14 @@ export const concordFaq: FaqItem[] = [
 
 export const haywardFaq: FaqItem[] = [
   {
+    q: 'Where can I get Live Scan in Hayward?',
+    a: 'This page lists 4 DOJ-listed Live Scan sites with a Hayward street address. 4 take Saturday walk-ins: WellnessMart, MD., The UPS Store #7559, Postal Annex #250, The UPS Store #5831. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Hayward; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Hayward?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
     q: 'Can I walk in Saturday in Hayward without an appointment?',
     a: 'Yes for the 4 DOJ Saturday walk-in rows on this page. "Walk-ins & appointments" means appointments may still jump the line. Nobody was called.',
   },
@@ -412,6 +484,14 @@ export const haywardFaq: FaqItem[] = [
 ];
 
 export const walnutCreekFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Walnut Creek?',
+    a: 'This page lists 5 DOJ-listed Live Scan sites with a Walnut Creek street address. 5 take Saturday walk-ins: The UPS Store #0099 (Fast Packaging & Shipping LLC), The UPS Store #2414, Vee\'s Tax Services LLC, Copymat Walnut Creek Inc., Certifix Live Scan dbw The UPS Store #6547. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Walnut Creek; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Walnut Creek?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
   {
     q: 'Can I walk in Saturday in Walnut Creek without an appointment?',
     a: 'Yes for the 5 DOJ Saturday walk-in rows on this page. "Walk-ins & appointments" means appointments may still jump the line. Copymat is walk-in-only on Saturday (DOJ does not list appointments). Nobody was called.',
@@ -448,6 +528,14 @@ export const walnutCreekFaq: FaqItem[] = [
 
 export const richmondFaq: FaqItem[] = [
   {
+    q: 'Where can I get Live Scan in Richmond?',
+    a: 'This page lists 3 DOJ-listed Live Scan sites with a Richmond street address. 3 take Saturday walk-ins: The UPS Store #7242, WellnessMart, MD. (Doctors Wellness Company, LLC.), The UPS Store #4612. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Richmond; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Richmond?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
     q: 'Can I walk in Saturday in Richmond without an appointment?',
     a: 'Yes for the 3 DOJ Saturday walk-in rows on this page. "Walk-ins & appointments" means appointments may still jump the line. UPS #7242 is walk-in-only on Saturday (DOJ does not list appointments). Nobody was called.',
   },
@@ -482,6 +570,14 @@ export const richmondFaq: FaqItem[] = [
 ];
 
 export const santaClaraFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Santa Clara?',
+    a: 'This page lists 6 DOJ-listed Live Scan sites with a Santa Clara street address. 6 take Saturday walk-ins: The UPS Store #2762, The UPS Store #6844, Certifix Live Scan dbw AD West Mail Center, Postal Annex #14024, The UPS Store #4636, The Connector Fashion Lane. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Santa Clara; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Santa Clara?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
   {
     q: 'Can I walk in Saturday in Santa Clara without an appointment?',
     a: 'Yes for the 6 DOJ Saturday walk-in rows on this page (city of Santa Clara only). "Walk-ins & appointments" means appointments may still jump the line. Certifix AD West Mail Center and The Connector Fashion Lane are walk-in-only on Saturday (DOJ does not list appointments). Nobody was called.',
@@ -518,6 +614,14 @@ export const santaClaraFaq: FaqItem[] = [
 
 export const sunnyvaleFaq: FaqItem[] = [
   {
+    q: 'Where can I get Live Scan in Sunnyvale?',
+    a: 'This page lists 3 DOJ-listed Live Scan sites with a Sunnyvale street address. 3 take Saturday walk-ins: KR Services, LLC dba Notary Livescan Post, All Service Center, The UPS Store #0067. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Sunnyvale; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Sunnyvale?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
     q: 'Can I walk in Saturday in Sunnyvale without an appointment?',
     a: 'Yes for the 3 DOJ Saturday walk-in rows on this page (city of Sunnyvale only). "Walk-ins & appointments" means appointments may still jump the line. KR Services and The UPS Store #0067 are walk-in-only on Saturday (DOJ does not list appointments). Nobody was called.',
   },
@@ -552,6 +656,14 @@ export const sunnyvaleFaq: FaqItem[] = [
 ];
 
 export const dalyCityFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Daly City?',
+    a: 'This page lists 6 DOJ-listed Live Scan sites with a Daly City street address. 4 take Saturday walk-ins: The UPS Store #6096, Ship Daly City, Certifix Live Scan dbw The UPS Store #0966, Post Point Hub. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Daly City; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Daly City?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
   {
     q: 'Can I walk in Saturday in Daly City without an appointment?',
     a: 'Yes for the 4 DOJ Saturday walk-in rows on this page (city of Daly City only). "Walk-ins & appointments" means appointments may still jump the line. Certifix UPS #0966 and Post Point Hub are walk-in-only on Saturday (DOJ does not list appointments). Nobody was called.',
@@ -588,6 +700,14 @@ export const dalyCityFaq: FaqItem[] = [
 
 export const southSanFranciscoFaq: FaqItem[] = [
   {
+    q: 'Where can I get Live Scan in South San Francisco?',
+    a: 'This page lists 1 DOJ-listed Live Scan sites with a South San Francisco street address. 1 take Saturday walk-ins: The UPS Store #1468. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in South San Francisco; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in South San Francisco?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
     q: 'Can I walk in Saturday in South San Francisco without an appointment?',
     a: 'Yes for the 1 DOJ Saturday walk-in row on this page (city of South San Francisco only): The UPS Store #1468 lists Walk-ins & Appointments Saturday 9:00 am – 5:00 pm. "Walk-ins & appointments" means appointments may still jump the line. Nobody was called.',
   },
@@ -622,6 +742,14 @@ export const southSanFranciscoFaq: FaqItem[] = [
 ];
 
 export const redwoodCityFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Redwood City?',
+    a: 'This page lists 5 DOJ-listed Live Scan sites with a Redwood City street address. 5 take Saturday walk-ins: Postal Annex Service Center #4018, Mishsharm dba The UPS Store #2766, The UPS Store #7463, Pack and Mail Express, Certifix Live Scan dbw The UPS Store #2766. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Redwood City; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Redwood City?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
   {
     q: 'Can I walk in Saturday in Redwood City without an appointment?',
     a: 'Yes for the 5 DOJ Saturday walk-in rows on this page (city of Redwood City only). "Walk-ins & appointments" means appointments may still jump the line. Pack and Mail Express and Certifix UPS #2766 are walk-in-only on Saturday (DOJ does not list appointments). Nobody was called.',
@@ -658,6 +786,14 @@ export const redwoodCityFaq: FaqItem[] = [
 
 export const burlingameFaq: FaqItem[] = [
   {
+    q: 'Where can I get Live Scan in Burlingame?',
+    a: 'This page lists 2 DOJ-listed Live Scan sites with a Burlingame street address. 2 take Saturday walk-ins: The UPS Store #0446, Certifix Live Scan dbw The UPS Store #2354. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Burlingame; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Burlingame?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
     q: 'Can I walk in Saturday in Burlingame without an appointment?',
     a: 'Yes for the 2 DOJ Saturday walk-in rows on this page (city of Burlingame only): The UPS Store #0446 and Certifix UPS #2354. Both are walk-in-only on Saturday (DOJ does not list appointments). Execushield is Saturday appointment-only — not a walk-in. Nobody was called.',
   },
@@ -692,6 +828,14 @@ export const burlingameFaq: FaqItem[] = [
 ];
 
 export const sanMateoFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in San Mateo?',
+    a: 'This page lists 1 DOJ-listed Live Scan sites with a San Mateo street address. 1 take Saturday walk-ins: The UPS Store #0294. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in San Mateo; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in San Mateo?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
   {
     q: 'Can I walk in Saturday in San Mateo without an appointment?',
     a: 'Yes for the 1 DOJ Saturday walk-in row on this page (city of San Mateo only): The UPS Store #0294. DOJ lists Walk-ins & Appointments on Saturday — appointments may still jump the line. A+ Mailboxes & More is Saturday appointment-only — not a walk-in. Nobody was called.',
@@ -728,6 +872,14 @@ export const sanMateoFaq: FaqItem[] = [
 
 export const belmontFaq: FaqItem[] = [
   {
+    q: 'Where can I get Live Scan in Belmont?',
+    a: 'This page lists 2 DOJ-listed Live Scan sites with a Belmont street address. 2 take Saturday walk-ins: UPS Store #0426, WellnessMart, MD. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Belmont; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Belmont?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
     q: 'Can I walk in Saturday in Belmont without an appointment?',
     a: 'Yes for the 2 DOJ Saturday walk-in rows on this page (city of Belmont only): UPS Store #0426 and WellnessMart, MD. DOJ lists Walk-ins & Appointments on Saturday — appointments may still jump the line. Certifix at The UPS Store #6084 is Saturday appointment-only — not a walk-in. Nobody was called.',
   },
@@ -762,6 +914,14 @@ export const belmontFaq: FaqItem[] = [
 ];
 
 export const fosterCityFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Foster City?',
+    a: 'This page lists 3 DOJ-listed Live Scan sites with a Foster City street address. 2 take Saturday walk-ins: The UPS Store #4153, Certifix Live Scan dbw The UPS Store #0244. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Foster City; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Foster City?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
   {
     q: 'Can I walk in Saturday in Foster City without an appointment?',
     a: 'Yes for the 2 DOJ Saturday walk-in rows on this page (city of Foster City only): The UPS Store #4153 and Certifix Live Scan dbw The UPS Store #0244. DOJ lists Walk-ins on Saturday (no appointments listed for that day). Nobody was called.',
@@ -798,6 +958,14 @@ export const fosterCityFaq: FaqItem[] = [
 
 export const millbraeFaq: FaqItem[] = [
   {
+    q: 'Where can I get Live Scan in Millbrae?',
+    a: 'This page lists 2 DOJ-listed Live Scan sites with a Millbrae street address. 1 take Saturday walk-ins: Certifix Live Scan dbw The UPS Store #1444. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Millbrae; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Millbrae?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
     q: 'Can I walk in Saturday in Millbrae without an appointment?',
     a: 'Yes for the 1 DOJ Saturday walk-in row on this page (city of Millbrae only): Certifix Live Scan dbw The UPS Store #1444 at 423 Broadway. DOJ lists Walk-ins on Saturday (no appointments listed for that day). Nobody was called.',
   },
@@ -832,6 +1000,14 @@ export const millbraeFaq: FaqItem[] = [
 ];
 
 export const mountainViewFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Mountain View?',
+    a: 'This page lists 5 DOJ-listed Live Scan sites with a Mountain View street address. 3 take Saturday walk-ins: Mail All Center, WellnessMart, MD, The UPS Store #1847. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Mountain View; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Mountain View?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
   {
     q: 'Can I walk in Saturday in Mountain View without an appointment?',
     a: 'Yes for the 3 DOJ Saturday walk-in rows on this page (city of Mountain View only). All three list Walk-ins & Appointments on Saturday — appointments may still jump the line. Nobody was called.',
@@ -868,6 +1044,14 @@ export const mountainViewFaq: FaqItem[] = [
 
 export const paloAltoFaq: FaqItem[] = [
   {
+    q: 'Where can I get Live Scan in Palo Alto?',
+    a: 'This page lists 3 DOJ-listed Live Scan sites with a Palo Alto street address. 2 take Saturday walk-ins: The UPS Store #6105, Certifix Live Scan dbw Green Mail. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Palo Alto; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Palo Alto?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
     q: 'Can I walk in Saturday in Palo Alto without an appointment?',
     a: 'Yes for the 2 DOJ Saturday walk-in rows on this page (city of Palo Alto only): The UPS Store #6105 and Certifix Live Scan dbw Green Mail. UPS #6105 lists Walk-ins & Appointments on Saturday (appointments may still jump the line). Certifix Green Mail lists Walk-ins only on Saturday (no appointments listed for that day). Nobody was called.',
   },
@@ -902,6 +1086,14 @@ export const paloAltoFaq: FaqItem[] = [
 ];
 
 export const milpitasFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Milpitas?',
+    a: 'This page lists 3 DOJ-listed Live Scan sites with a Milpitas street address. 2 take Saturday walk-ins: Calaveras Notary Services, Post N\' Parcel. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Milpitas; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Milpitas?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
   {
     q: 'Can I walk in Saturday in Milpitas without an appointment?',
     a: "Yes for the 2 DOJ Saturday walk-in rows on this page (city of Milpitas only): Calaveras Notary Services and Post N' Parcel. Both list Walk-ins & Appointments on Saturday, so appointments may still jump the line. Oclarit Insurance Agency is Saturday appointment-only on DOJ. Nobody was called.",
@@ -938,6 +1130,14 @@ export const milpitasFaq: FaqItem[] = [
 
 export const pleasantonFaq: FaqItem[] = [
   {
+    q: 'Where can I get Live Scan in Pleasanton?',
+    a: 'This page lists 5 DOJ-listed Live Scan sites with a Pleasanton street address. 2 take Saturday walk-ins: The UPS Store #6291, The UPS Store #0345. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Pleasanton; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Pleasanton?',
+    a: 'It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
     q: 'Can I walk in Saturday in Pleasanton without an appointment?',
     a: 'Yes for the 2 DOJ Saturday walk-in rows on this page (city of Pleasanton street addresses only): The UPS Store #6291 and The UPS Store #0345. #0345 lists Walk-ins only on Saturday. #6291 lists Walk-ins & Appointments on Saturday, so appointments may still jump the line. GM Defense is weekends appointment-only; Postal Annex Plesanton has no Saturday hours; AngelVetting has no street address on DOJ. Nobody was called.',
   },
@@ -972,6 +1172,14 @@ export const pleasantonFaq: FaqItem[] = [
 ];
 
 export const campbellFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Campbell?',
+    a: 'This page lists 4 DOJ-listed Live Scan sites with a Campbell street address. 2 take Saturday walk-ins: Verify Group, Inc. and WellnessMart, MD. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Campbell; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Campbell?',
+    a: 'It depends on the shop and the day. On DOJ, Verify Group, Inc. and WellnessMart, MD take walk-ins on Saturday; Bay Area Solutions takes walk-ins Monday–Friday; The UPS Store #1949 is Saturday appointment-only. Appointments may still jump the line. Confirm before you go.',
+  },
   {
     q: 'Can I walk in Saturday in Campbell without an appointment?',
     a: 'Yes for the 2 DOJ Saturday walk-in rows on this page (city of Campbell street addresses only): Verify Group, Inc. and WellnessMart, MD. Both list Walk-ins & Appointments on Saturday, so appointments may still jump the line. Bay Area Solutions has no Saturday hours; The UPS Store #1949 is Saturday appointment-only. Cupertino\'s only DOJ node (Sheriff) is weekday appointment-only. Nobody was called.',

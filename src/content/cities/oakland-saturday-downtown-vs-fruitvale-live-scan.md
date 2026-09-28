@@ -1,18 +1,24 @@
 ---
-title: 'Saturday walk-in Live Scan: downtown Oakland vs East Oakland / Fruitvale'
-updated: "2026-09-02"
-query: 'Saturday walk-in Live Scan downtown Oakland vs Fruitvale'
+title: "Downtown vs Fruitvale Live Scan in Oakland: hours, walk-ins, Saturday options"
+description: "Downtown vs Fruitvale Live Scan in Oakland: 7 shops. Hours, walk-in vs appointment, rolling fees, and Saturday options. Confirm before you go."
+updated: "2026-09-27"
+query: "Downtown vs Fruitvale Live Scan Oakland"
 ---
 
-# Saturday walk-in Live Scan: downtown Oakland vs East Oakland / Fruitvale
+# Downtown vs Fruitvale Live Scan in Oakland: Saturday and other days
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) and you need fingerprints **this Saturday** as a walk-in in Oakland. You are choosing **downtown** versus a shop **on Fruitvale Avenue**. You are not hunting a new city.
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) and you need fingerprints as a walk-in in Oakland. You are choosing **downtown** versus a shop **on Fruitvale Avenue**. This page covers Saturday walk-in and other-day access. You are not hunting a new city.
 
 **Not for:** Readers who want every Oakland Saturday walk-in in one list. Use [Saturday walk-in Live Scan in Oakland](https://saturdaylivescan.com/oakland-saturday-walk-in-live-scan/). TSA PreCheck / IdentoGO (different vendor). Anyone expecting a hand-drawn neighborhood map. This page does **not** invent a downtown–Fruitvale boundary.
 
 **Updated:** 2026-09-02  
 **Query this page answers:** "Saturday walk-in Live Scan downtown Oakland vs Fruitvale"  
 **Canonical:** https://saturdaylivescan.com/oakland-saturday-downtown-vs-fruitvale-live-scan/
+
+
+## Open Saturday in Oakland
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 
@@ -110,6 +116,39 @@ Results go to the **requesting agency**, not to you (DOJ applicants page). Keep 
 
 ## FAQ
 
+### Can I get downtown or Fruitvale Live Scan on other days?
+
+The 2 downtown shops and 1 Fruitvale Avenue shop are in the other-days table on the main Oakland page. Other-day hours were not available from DOJ on 2026-09-27. Confirm with the shop before you go.
+
+
+
+
+
+
+### Do I get the results?
+
+No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.
+### Are UPS store hours the fingerprint hours?
+
+No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. UPS "open 7 days" does not mean Sunday Live Scan. UPS #7098 is a PrintScan CONFLICT (appointment-until-proven).
+### Cheapest / earliest Saturday walk-in on Fruitvale Avenue?
+
+Only Copy USA is in that column: rolling $35.00, Saturday 10:00 am – 3:30 pm. There is no second Fruitvale Avenue Saturday walk-in on DOJ tonight.
+### Cheapest / earliest Saturday walk-in downtown?
+
+Cheapest downtown rolling: Allscan $23.00 (Saturday 10:00 am – 12:00 pm; 6th-floor Saturday access UNVERIFIED). Earliest downtown open: LPG 9:00 am, rolling $30.00.
+### What about Piedmont, Grand Lake, Montclair, and Redwood Road?
+
+They are Saturday walk-in on DOJ and they are listed under elsewhere in Oakland. City labels: Certifix @ UPS #3270 = Piedmont Ave Central; UPS #1821 = Adams Point East; UPS #0243 = Montclair North; UPS #7098 = Woodminster. None of those names are downtown or Fruitvale Avenue, so they are not in either comparison column.
+### Is there a Fruitvale Saturday walk-in?
+
+One shop on Fruitvale Avenue: Copy USA, 3423 Fruitvale Avenue, Saturday walk-in 10:00 am – 3:30 pm, rolling $35.00. That is a street name on the DOJ row, not a claim that the shop sits in the city's Fruitvale district (94601). Card surcharge $ is UNVERIFIED. DOJ says additional service fees may apply (no dollar).
+### Which Saturday walk-in shops are downtown?
+
+Two, accessed 2026-09-02: LPG Live Scan at 524 7th Street (city tract Downtown/Old Oakland) and Allscan at 409 13th Street, 6th Floor (Chinatown; city treats Chinatown as part of downtown). Piedmont Avenue, Grand Avenue, La Salle Avenue, and Redwood Road are not in this count.
+### How did you split downtown vs Fruitvale?
+
+We did not draw a neighborhood line. Each shop keeps its DOJ street and ZIP. The U.S. Census geocoder returns a Census tract for that address. The City of Oakland Table A-1 name for that tract is the neighborhood label. Downtown = LPG in Downtown/Old Oakland plus Allscan in Chinatown (city: "an important part of Downtown Oakland"). The Fruitvale Avenue column is Copy USA because the DOJ street contains Fruitvale. Copy USA's city tract is Oakmore South. We do not call it the Fruitvale district.
 ### How did you split downtown vs Fruitvale?
 
 We did not draw a neighborhood line. Each shop keeps its DOJ street and ZIP. The U.S. Census geocoder returns a Census tract for that address. The City of Oakland Table A-1 name for that tract is the neighborhood label. Downtown = LPG in **Downtown/Old Oakland** plus Allscan in **Chinatown** (city: "an important part of Downtown Oakland"). The Fruitvale Avenue column is Copy USA because the DOJ street contains **Fruitvale**. Copy USA's city tract is **Oakmore South**. We do not call it the Fruitvale district.

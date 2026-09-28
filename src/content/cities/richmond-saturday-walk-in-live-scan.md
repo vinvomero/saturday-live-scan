@@ -1,12 +1,15 @@
 ---
-title: Saturday walk-in Live Scan in Richmond
-updated: "2026-09-08"
-query: Saturday walk-in Live Scan Richmond
+title: "Live Scan in Richmond: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Richmond: 2 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 2 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Richmond"
 ---
 
-# Saturday walk-in Live Scan in Richmond
+# Live Scan in Richmond
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** in Richmond without an appointment.
+Live Scan fingerprinting in Richmond: this page lists 3 DOJ-listed Live Scan sites with a Richmond street address, with walk-in vs appointment, rolling fees, and other-day hours where the DOJ lists them. 3 are open Saturday for walk-ins (see Open Saturday below). It is not every DOJ site in Richmond; the rest are on the [DOJ county list](https://oag.ca.gov/fingerprints/locations?county=Contra%20Costa).
+
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Richmond: on a weekday or a Saturday, with or without an appointment.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in Concord, Walnut Creek, El Cerrito, San Pablo, Pinole, or elsewhere in Contra Costa County (those are other cities).
 
@@ -14,6 +17,22 @@ query: Saturday walk-in Live Scan Richmond
 **Query this page answers:** "Saturday walk-in Live Scan Richmond"
 
 **Canonical:** https://saturdaylivescan.com/richmond-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Richmond
+
+**3 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** UPS #7242 at 9:15 am. Cheapest rolling fee: ** WellnessMart, MD. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+
+## Live Scan in Richmond on other days
+
+| Shop | Address | Other-day hours (DOJ, accessed 2026-09-27) | Saturday | Rolling fee (DOJ) | Source |
+| --- | --- | --- | --- | --- | --- |
+| The UPS Store #7242 | 2163 Meeker Avenue, Richmond, CA 94804-6410 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| WellnessMart, MD. (Doctors Wellness Company, LLC.) | 3288 Pierce Street, Suite #D118-A, Richmond, CA 94804 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #4612 | 15501 San Pablo Avenue, Suite G, Richmond, CA 94806 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+
+Other-day hours are copied from each shop's DOJ detail page. "—" means the DOJ page did not list them or could not be read that day; open the DOJ link. "Saturday only on DOJ" means DOJ lists no other day. Store hours are not fingerprint hours. Confirm with the shop before you go.
+
 
 ## How this was verified
 
@@ -75,6 +94,14 @@ Results go to the **requesting agency**, not to you (DOJ applicants page). Keep 
 Nearby: [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-live-scan/) — 7 shops, rolling fees $23–$50.
 
 ## FAQ
+
+### Where can I get Live Scan in Richmond?
+
+This page lists 3 DOJ-listed Live Scan sites with a Richmond street address. 3 take Saturday walk-ins: The UPS Store #7242, WellnessMart, MD. (Doctors Wellness Company, LLC.), The UPS Store #4612. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Richmond; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.
+
+### Do I need an appointment for Live Scan in Richmond?
+
+It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.
 
 ### Can I walk in Saturday in Richmond without an appointment?
 

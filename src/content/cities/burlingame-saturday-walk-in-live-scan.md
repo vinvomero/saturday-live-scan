@@ -1,12 +1,15 @@
 ---
-title: Saturday walk-in Live Scan in Burlingame
-updated: "2026-09-15"
-query: Saturday walk-in Live Scan Burlingame
+title: "Live Scan in Burlingame: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Burlingame: 4 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 4 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Burlingame"
 ---
 
-# Saturday walk-in Live Scan in Burlingame
+# Live Scan in Burlingame
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** in the city of Burlingame without an appointment.
+Live Scan fingerprinting in Burlingame: this page lists 2 DOJ-listed Live Scan sites with a Burlingame street address, with walk-in vs appointment, rolling fees, and other-day hours where the DOJ lists them. 2 are open Saturday for walk-ins (see Open Saturday below). It is not every DOJ site in Burlingame; the rest are on the [DOJ county list](https://oag.ca.gov/fingerprints/locations?county=San%20Mateo).
+
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Burlingame: on a weekday or a Saturday, with or without an appointment.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in Pacifica, San Bruno, South San Francisco, Daly City, Redwood City, San Mateo, Belmont, Foster City, Menlo Park, Millbrae, San Francisco, or elsewhere in San Mateo County (those are other cities — Daly City, South San Francisco, Redwood City, and San Francisco already have their own pages).
 
@@ -14,6 +17,21 @@ query: Saturday walk-in Live Scan Burlingame
 **Query this page answers:** "Saturday walk-in Live Scan Burlingame"
 
 **Canonical:** https://saturdaylivescan.com/burlingame-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Burlingame
+
+**2 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** The UPS Store #0446 at 10:00 am. Cheapest rolling fee: ** tie $40. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+
+## Live Scan in Burlingame on other days
+
+| Shop | Address | Other-day hours (DOJ, accessed 2026-09-27) | Saturday | Rolling fee (DOJ) | Source |
+| --- | --- | --- | --- | --- | --- |
+| The UPS Store #0446 | 1534 Plaza Lane, Burlingame, CA 94010 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Certifix Live Scan dbw The UPS Store #2354 | 1325 Howard Avenue, Burlingame, CA 94010 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+
+Other-day hours are copied from each shop's DOJ detail page. "—" means the DOJ page did not list them or could not be read that day; open the DOJ link. "Saturday only on DOJ" means DOJ lists no other day. Store hours are not fingerprint hours. Confirm with the shop before you go.
+
 
 ## How this was verified
 
@@ -73,6 +91,14 @@ Results go to the **requesting agency**, not to you (DOJ applicants page). Keep 
 ---
 
 ## FAQ
+
+### Where can I get Live Scan in Burlingame?
+
+This page lists 2 DOJ-listed Live Scan sites with a Burlingame street address. 2 take Saturday walk-ins: The UPS Store #0446, Certifix Live Scan dbw The UPS Store #2354. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Burlingame; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.
+
+### Do I need an appointment for Live Scan in Burlingame?
+
+It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.
 
 ### Can I walk in Saturday in Burlingame without an appointment?
 

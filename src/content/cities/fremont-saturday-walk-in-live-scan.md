@@ -1,13 +1,15 @@
 ---
-title: Saturday walk-in Live Scan in Fremont
-updated: "2026-09-04"
-query: Saturday walk-in Live Scan Fremont
-description: Saturday walk-in Live Scan in Fremont — 6 shops open Saturday. Rolling fees $20–$45. Bring BCIA 8016 form and ID. Confirm hours before you go.
+title: "Live Scan in Fremont: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Fremont: 6 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 6 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Fremont"
 ---
 
-# Saturday walk-in Live Scan in Fremont
+# Live Scan in Fremont
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** in Fremont without an appointment.
+Live Scan fingerprinting in Fremont: this page lists 6 DOJ-listed Live Scan sites with a Fremont street address, with walk-in vs appointment, rolling fees, and other-day hours where the DOJ lists them. 6 are open Saturday for walk-ins (see Open Saturday below). It is not every DOJ site in Fremont; the rest are on the [DOJ county list](https://oag.ca.gov/fingerprints/locations?county=Alameda).
+
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Fremont: on a weekday or a Saturday, with or without an appointment.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in Newark, Hayward, Union City, Dublin, Oakland, or elsewhere in Alameda County (those are other cities).
 
@@ -15,6 +17,25 @@ description: Saturday walk-in Live Scan in Fremont — 6 shops open Saturday. Ro
 **Query this page answers:** "Saturday walk-in Live Scan Fremont"
 
 **Canonical:** https://saturdaylivescan.com/fremont-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Fremont
+
+**6 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** Print N' Parcel at 9:00 am (also cheapest; closes 2:00 pm). Cheapest rolling fee: ** Print N' Parcel $20. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+
+## Live Scan in Fremont on other days
+
+| Shop | Address | Other-day hours (DOJ, accessed 2026-09-27) | Saturday | Rolling fee (DOJ) | Source |
+| --- | --- | --- | --- | --- | --- |
+| Print N' Parcel | 3654 Thornton Avenue, Fremont, CA 94536 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #1640 | 40087 Mission Blvd., Fremont, CA 94539 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Postal Annex #24011 | 46539 Mission Blvd., Fremont, CA 94539 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #1805 | 3984 Washington Blvd, Fremont, CA 94538 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Niche Business Cafe | 5178 Mowry Avenue, Fremont, CA 94538 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Certifix Live Scan dbw Aria Printing and Shipping | 43575 Mission Blvd, Fremont, CA 94539 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+
+Other-day hours are copied from each shop's DOJ detail page. "—" means the DOJ page did not list them or could not be read that day; open the DOJ link. "Saturday only on DOJ" means DOJ lists no other day. Store hours are not fingerprint hours. Confirm with the shop before you go.
+
 
 ## How this was verified
 
@@ -83,6 +104,14 @@ Alameda County: [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-l
 ---
 
 ## FAQ
+
+### Where can I get Live Scan in Fremont?
+
+This page lists 6 DOJ-listed Live Scan sites with a Fremont street address. 6 take Saturday walk-ins: Print N' Parcel, The UPS Store #1640, Postal Annex #24011, The UPS Store #1805, Niche Business Cafe, Certifix Live Scan dbw Aria Printing and Shipping. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Fremont; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.
+
+### Do I need an appointment for Live Scan in Fremont?
+
+It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.
 
 ### Can I walk in Saturday in Fremont without an appointment?
 

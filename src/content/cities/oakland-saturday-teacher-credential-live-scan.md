@@ -1,18 +1,24 @@
 ---
-title: Saturday Live Scan in Oakland for a teacher credential
-updated: "2026-09-01"
-query: Saturday Live Scan Oakland teacher credential
+title: "Teacher credential Live Scan in Oakland: Form 41-LS, Saturday options"
+description: "Teacher credential Live Scan in Oakland: Form 41-LS for CTC. 7 Saturday walk-in shops. Hours, walk-in vs appointment, fees. Confirm before you go."
+updated: "2026-09-27"
+query: "Teacher credential Live Scan Oakland"
 ---
 
-# Saturday Live Scan in Oakland for a teacher credential
+# Teacher credential Live Scan in Oakland (Form 41-LS): Saturday and other days
 
-**Who this is for:** You need fingerprints for a California teaching credential, Certificate of Clearance (COC), or other Commission on Teacher Credentialing (CTC) document, and you want a **Saturday walk-in** Live Scan in **Oakland** with the official CTC Form **41-LS**.
+**Who this is for:** You need fingerprints for a California teaching credential, Certificate of Clearance (COC), or other Commission on Teacher Credentialing (CTC) document, and you want a Live Scan in **Oakland** with the official CTC Form **41-LS**. This page covers Saturday walk-in and other-day access.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Readers inventing or looking up a CTC ORI on a blank BCIA 8016. Anyone who only needs a cash-focused list — use [Saturday cash Live Scan in Oakland](https://saturdaylivescan.com/oakland-saturday-cash-live-scan/). Anyone who needs every Oakland Saturday walk-in without the teacher/CTC angle — use [Saturday walk-in Live Scan in Oakland](https://saturdaylivescan.com/oakland-saturday-walk-in-live-scan/).
 
 **Updated:** 2026-09-01  
 **Query this page answers:** “Saturday Live Scan Oakland teacher credential”  
 **Canonical:** https://saturdaylivescan.com/oakland-saturday-teacher-credential-live-scan/
+
+
+## Open Saturday in Oakland
+
+Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## How this was verified
 
@@ -78,6 +84,39 @@ Keep the **ATI** number from the Live Scan session. Results go to **CTC via DOJ*
 
 ## FAQ
 
+### Can I get teacher credential Live Scan in Oakland on other days?
+
+Yes. Any DOJ Live Scan site works for CTC when Form 41-LS ORI fields are correct. Other-day hours were not available from DOJ on 2026-09-27. The main Oakland page has an other-days table with the same 7 sites; confirm hours before you go.
+
+
+
+
+
+
+### Cheapest / earliest Saturday walk-in in Oakland?
+
+Cheapest rolling: Allscan at $23.00 (Sat 10:00 am – 12:00 pm; 6th-floor Saturday access UNVERIFIED). Earliest open: LPG and Certifix @ UPS #3270 both 9:00 am — LPG $30; Certifix is walk-in-only Saturday and $45 cash / $47 card on the Certifix operator page. UPS #7098 remains a PrintScan CONFLICT (appointment-until-proven).
+### Where do results go / how do I check status?
+
+Results go to CTC via DOJ, not to you. Keep your ATI. Check status with ATI + date of birth at https://applicantstatus.doj.ca.gov/. Official ranges: 3–7 days (DOJ) on CTC's fees table; CL-900 usually within 10 working days. Also check CTC Online for Commission receipt.
+### Do I email my Live Scan form to CTC?
+
+No. CTC: do not email your form to the Commission — scans are sent directly to CTC electronically. Print three copies of 41-LS, take them to the Live Scan site, and retain a copy for your records (CL-900; Fees and Fingerprinting).
+### Does a Certificate of Clearance let me teach?
+
+No. CL-900: the COC is not the same as a clear teaching or services credential and does not authorize instruction or services in schools. Its purpose is verification that you completed a professional fitness review.
+### Which Oakland shops take Saturday walk-ins for a teaching credential?
+
+All 7 Oakland Saturday walk-in shops on DOJ tonight (accessed 2026-09-01): LPG Live Scan, Certifix @ UPS #3270, Allscan, Copy USA, UPS #7098, UPS #1821, and UPS #0243. Any DOJ Live Scan site works when Form 41-LS ORI is correct — this page does not invent CTC-certified shop badges. Nobody was called. Confirm before you go.
+### How much does CTC Live Scan cost?
+
+There is no honest single Live Scan government-fee total. CTC's fees table for California Resident / Live Scan is "Varies - pay LS Operator." Rolling fees are the shop table on this page. DOJ/FBI processing: check the requesting agency — do not invent a package dollar. Separately, the CTC COC online application fee is $50.00 + $2.65 = $52.65 — that is a CTC application fee, not a Live Scan fee (CL-900).
+### Can I invent or look up the CTC ORI myself?
+
+No. CTC's 41-LS instructions say the ORI is the "CTC number included - do not change." Pre-filled agency fields must stay as shown. Incorrect ORI/mail code can delay or misroute results. Never publish or guess a CTC ORI — use the official form only.
+### Which form do I use for CTC / teacher credential Live Scan?
+
+California residents use CTC Form 41-LS (Request for Live Scan Service), which includes BCIA 8016 privacy notices. Download the official PDF from CTC — Form 41-LS at https://docs.ctc.ca.gov/document/download/29865 — and follow 41-LS Instructions. Do not invent an ORI on a blank DIY BCIA 8016.
 ### Which form do I use for CTC / teacher credential Live Scan?
 
 California residents use CTC **Form 41-LS** (Request for Live Scan Service), which includes BCIA 8016 privacy notices. Download the official PDF from CTC — [Form 41-LS](https://docs.ctc.ca.gov/document/download/29865) — and follow [41-LS Instructions](https://www.ctc.ca.gov/credentials/leaflets/41-ls-instructions/). Do not invent an ORI on a blank DIY BCIA 8016.

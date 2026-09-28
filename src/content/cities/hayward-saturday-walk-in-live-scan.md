@@ -1,12 +1,15 @@
 ---
-title: Saturday walk-in Live Scan in Hayward
-updated: "2026-09-06"
-query: Saturday walk-in Live Scan Hayward
+title: "Live Scan in Hayward: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Hayward: 3 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 3 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Hayward"
 ---
 
-# Saturday walk-in Live Scan in Hayward
+# Live Scan in Hayward
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** in Hayward without an appointment.
+Live Scan fingerprinting in Hayward: this page lists 4 DOJ-listed Live Scan sites with a Hayward street address, with walk-in vs appointment, rolling fees, and other-day hours where the DOJ lists them. 4 are open Saturday for walk-ins (see Open Saturday below). It is not every DOJ site in Hayward; the rest are on the [DOJ county list](https://oag.ca.gov/fingerprints/locations?county=Alameda).
+
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Hayward: on a weekday or a Saturday, with or without an appointment.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in Oakland, Fremont, San Leandro, Union City, or elsewhere in Alameda County (those are other cities).
 
@@ -14,6 +17,23 @@ query: Saturday walk-in Live Scan Hayward
 **Query this page answers:** "Saturday walk-in Live Scan Hayward"
 
 **Canonical:** https://saturdaylivescan.com/hayward-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Hayward
+
+**4 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** four-way tie at 10:00 am. Cheapest rolling fee: ** WellnessMart, MD. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+
+## Live Scan in Hayward on other days
+
+| Shop | Address | Other-day hours (DOJ, accessed 2026-09-27) | Saturday | Rolling fee (DOJ) | Source |
+| --- | --- | --- | --- | --- | --- |
+| WellnessMart, MD. | 22314 Foothill Blvd, Hayward, CA 94541 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #7559 | 2472-2 Whipple Road, Hayward, CA 94544 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Postal Annex #250 | 249 W. Jackson Street, Hayward, CA 94544 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #5831 | 1179 West A Street, Hayward, CA 94541 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+
+Other-day hours are copied from each shop's DOJ detail page. "—" means the DOJ page did not list them or could not be read that day; open the DOJ link. "Saturday only on DOJ" means DOJ lists no other day. Store hours are not fingerprint hours. Confirm with the shop before you go.
+
 
 ## How this was verified
 
@@ -80,6 +100,18 @@ Nearby: [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-live-scan
 
 ## FAQ
 
+### Where can I get Live Scan in Hayward?
+
+This page lists 4 DOJ-listed Live Scan sites with a Hayward street address. 4 take Saturday walk-ins: WellnessMart, MD., The UPS Store #7559, Postal Annex #250, The UPS Store #5831. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Hayward; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.
+
+### Do I need an appointment for Live Scan in Hayward?
+
+It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.
+
+
+### Are UPS store hours the fingerprint hours?
+
+No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. UPS #7559 lists Weekends Walk-ins & Appointments on DOJ (10:00 am – 3:00 pm). UPS #5831 lists Saturday Walk-ins & Appointments on DOJ (10:00 am – 5:00 pm). That is fingerprint hours from DOJ, not a promise that every UPS service is open.
 ### Can I walk in Saturday in Hayward without an appointment?
 
 Yes for the 4 DOJ Saturday walk-in rows on this page. "Walk-ins & appointments" means appointments may still jump the line. Nobody was called.

@@ -1,13 +1,15 @@
 ---
-title: Saturday walk-in Live Scan in San Jose
-updated: "2026-09-03"
-query: Saturday walk-in Live Scan San Jose
-description: Saturday walk-in Live Scan in San Jose — 19 shops open Saturday. Rolling fees $20–$40. Bring BCIA 8016 form and ID. Confirm hours before you go.
+title: "Live Scan in San Jose: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in San Jose: 19 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 19 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan San Jose"
 ---
 
-# Saturday walk-in Live Scan in San Jose
+# Live Scan in San Jose
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** in San Jose without an appointment.
+Live Scan fingerprinting in San Jose: this page lists 20 DOJ-listed Live Scan sites with a San Jose street address, with walk-in vs appointment, rolling fees, and other-day hours where the DOJ lists them. 19 are open Saturday for walk-ins (see Open Saturday below). It is not every DOJ site in San Jose; the rest are on the [DOJ county list](https://oag.ca.gov/fingerprints/locations?county=Santa%20Clara).
+
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of San Jose: on a weekday or a Saturday, with or without an appointment.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in Campbell, Milpitas, Santa Clara city, Sunnyvale, or elsewhere in Santa Clara County (those are other cities).
 
@@ -15,6 +17,39 @@ description: Saturday walk-in Live Scan in San Jose — 19 shops open Saturday. 
 **Query this page answers:** "Saturday walk-in Live Scan San Jose"
 
 **Canonical:** https://saturdaylivescan.com/san-jose-saturday-walk-in-live-scan/
+
+
+## Open Saturday in San Jose
+
+**19 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: 00 am):** Insightful Notary, Long Luc, UPS #1330, UPS #6497, UPS #0134. Cheapest rolling fee: ** UPS #0793 $20. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+
+## Live Scan in San Jose on other days
+
+| Shop | Address | Other-day hours (DOJ, accessed 2026-09-27) | Saturday | Rolling fee (DOJ) | Source |
+| --- | --- | --- | --- | --- | --- |
+| Insightful Notary Signing Services | 115 N. 4th Street Suite #117, San Jose, CA 95112 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Long Luc Insurance Agency | 2322 Senter Road, San Jose, CA 95112 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #1330 | 2059 Camden Avenue, San Jose, CA 95124 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #6497 | 3141 Stevens Creek Boulevard, San Jose, CA 95117 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #0134 | 2530 Berryessa Avenue, San Jose, CA 95132 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #0793 | 1512 S. De Anza Boulevard, San Jose, CA 95129 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Ashtex Pro dba Liberty Tax Service LTS 18555 | 730 Story Road Suite 6, San Jose, CA 95122 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Certifix Live Scan dbw Mailbox & More | 7052 Santa Teresa Blvd, San Jose, CA 95139 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Certifix Live Scan dbw Postal Annex 3015 | 123 E. San Carlos Street, San Jose, CA 95113 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Certifix Live Scan dbw The UPS Store #5199 | 88 S. 3rd Street, San Jose, CA 95113 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Postal Annex #12011 | 3277 South White Road, San Jose, CA 95148 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #0102 | 4750 Alamaden Express Way Suite #124, San Jose, CA 95118 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #6399 | 1150 S. King Road Suite #40, San Jose, CA 95122 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| T&T Patel Inc. dba The UPS Store | 5542 Monterey Road, San Jose, CA 95138 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Bay Area Logistics and Services Inc. dba Postal Annex 387 | 171 Branham Lane Suite #10, San Jose, CA 95136 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Mailbox Plus | 3477 McKee Road, San Jose, CA 95127 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| H&E Insurance and Multiservices | 2135 Tully Road Suite A, San Jose, CA 95122 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Quick Tag Express Vehicle Registration Service | 158 S. King Road Suite 10, San Jose, CA 95116 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #6582 | 181 E. Tasman Drive Suite 20, San Jose, CA 95134 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Other weekday-only San Jose DOJ rows | — | — | No Saturday | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+
+Other-day hours are copied from each shop's DOJ detail page. "—" means the DOJ page did not list them or could not be read that day; open the DOJ link. "Saturday only on DOJ" means DOJ lists no other day. Store hours are not fingerprint hours. Confirm with the shop before you go.
+
 
 ## How this was verified
 
@@ -101,6 +136,26 @@ Bay Area: [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-live-sc
 
 ## FAQ
 
+### Where can I get Live Scan in San Jose?
+
+This page lists 20 DOJ-listed Live Scan sites with a San Jose street address. 19 take Saturday walk-ins (see Open Saturday). Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in San Jose; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.
+
+### Do I need an appointment for Live Scan in San Jose?
+
+It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.
+
+
+
+
+### What's the cheapest / earliest Saturday walk-in in San Jose?
+
+Cheapest rolling fee in this table: The UPS Store #0793 at $20.00 (1512 S. De Anza Blvd; additional service fees may apply; opens 10:00 am). Earliest Saturday open is a five-way tie at 9:00 am: Insightful Notary ($30), Long Luc ($25, cash only, closes 2:00 pm), UPS #1330 ($25), UPS #6497 ($27.50), and UPS #0134 ($40). Next-cheapest after #0793 is Liberty Tax at $24.00 (no credit cards on DOJ).
+### Why isn't UPS #0122 / FingerScan / Quick Scan / Veracity on this list?
+
+UPS #0122 (Snell Ave), FingerScan Digital, Fortress Business Services, SK Salunkhe, Certifix UPS #6381, Postal Annex +4U, and Veracity are Saturday (or Weekends) appointment only on DOJ. Quick Scan is Weekends appointment only. Certifix UPS #0240 is weekday-only. This page is Saturday walk-in only (accessed 2026-09-03).
+### Cash or card?
+
+Most shops in this table list cash plus card options on DOJ. Cash only: Certifix at Mailbox & More, and Long Luc Insurance Agency. No Credit Cards on DOJ: Liberty Tax LTS 18555 (it still lists debit and other methods). Certifix UPS #5199 lists cash and credit but not debit or billing accounts. DOJ says to check for payment restrictions. Confirm with the shop before you go.
 ### Can I walk in Saturday in San Jose without an appointment?
 
 Yes for the 19 DOJ Saturday walk-in rows on this page. "Walk-ins & appointments" means appointments may still jump the line. Walk-in-only on Saturday (DOJ does not list appointments): Postal Annex 387, Certifix Mailbox & More, Certifix Postal Annex 3015, and Certifix UPS #5199. Nobody was called.

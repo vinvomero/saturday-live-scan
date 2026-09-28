@@ -1,12 +1,15 @@
 ---
-title: Saturday walk-in Live Scan in Milpitas
-updated: "2026-09-24"
-query: Saturday walk-in Live Scan Milpitas
+title: "Live Scan in Milpitas: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Milpitas: 3 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 3 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Milpitas"
 ---
 
-# Saturday walk-in Live Scan in Milpitas
+# Live Scan in Milpitas
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** in the city of Milpitas without an appointment.
+Live Scan fingerprinting in Milpitas: this page lists 3 DOJ-listed Live Scan sites with a Milpitas street address, with walk-in vs appointment, rolling fees, and other-day hours where the DOJ lists them. 2 are open Saturday for walk-ins (see Open Saturday below). It is not every DOJ site in Milpitas; the rest are on the [DOJ county list](https://oag.ca.gov/fingerprints/locations?county=Santa%20Clara).
+
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Milpitas: on a weekday or a Saturday, with or without an appointment.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in San Jose, Fremont, Santa Clara, Sunnyvale, Newark, Union City, Cupertino, Campbell, or elsewhere in Santa Clara County (those are other cities — San Jose, Fremont, Santa Clara, and Sunnyvale already have their own pages).
 
@@ -14,6 +17,22 @@ query: Saturday walk-in Live Scan Milpitas
 **Query this page answers:** "Saturday walk-in Live Scan Milpitas"
 
 **Canonical:** https://saturdaylivescan.com/milpitas-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Milpitas
+
+**2 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** Calaveras Notary Services at 8:00 am. Cheapest rolling fee: ** Calaveras Notary Services $13. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+
+## Live Scan in Milpitas on other days
+
+| Shop | Address | Other-day hours (DOJ, accessed 2026-09-27) | Saturday | Rolling fee (DOJ) | Source |
+| --- | --- | --- | --- | --- | --- |
+| Calaveras Notary Services | 120 S. Gadsden Drive, Milpitas, CA 95035 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Post N' Parcel | 1765 Landess Avenue, Milpitas, CA 95035 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Oclarit Insurance Agency, Inc. | — | — | No Saturday | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+
+Other-day hours are copied from each shop's DOJ detail page. "—" means the DOJ page did not list them or could not be read that day; open the DOJ link. "Saturday only on DOJ" means DOJ lists no other day. Store hours are not fingerprint hours. Confirm with the shop before you go.
+
 
 ## How this was verified
 
@@ -74,6 +93,22 @@ Results go to the **requesting agency**, not to you (DOJ applicants page). Keep 
 
 ## FAQ
 
+### Where can I get Live Scan in Milpitas?
+
+This page lists 3 DOJ-listed Live Scan sites with a Milpitas street address. 2 take Saturday walk-ins: Calaveras Notary Services, Post N' Parcel. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Milpitas; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.
+
+### Do I need an appointment for Live Scan in Milpitas?
+
+It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.
+
+
+
+### What's the cheapest / earliest Saturday walk-in in Milpitas?
+
+Cheapest rolling fee among INCLUDE rows: $13.99 (Calaveras Notary Services at 120 S. Gadsden Drive; DOJ adds 'Additional service fees may apply'). Earliest Saturday open: Calaveras Notary Services at 8:00 am. Latest close: Calaveras Notary Services at 7:00 pm. Highest INCLUDE fee: $15.00 (Post N' Parcel at 1765 Landess Avenue).
+### How much does it cost?
+
+The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. INCLUDE rolling fees on DOJ: $13.99 (Calaveras Notary Services) and $15.00 (Post N' Parcel). Both also say 'Additional service fees may apply' on DOJ, so ask for the out-the-door price before they roll.
 ### Can I walk in Saturday in Milpitas without an appointment?
 
 Yes for the 2 DOJ Saturday walk-in rows on this page (city of Milpitas only): Calaveras Notary Services and Post N' Parcel. Both list Walk-ins & Appointments on Saturday, so appointments may still jump the line. Oclarit Insurance Agency is Saturday appointment-only on DOJ. Nobody was called.

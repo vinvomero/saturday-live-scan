@@ -1,12 +1,15 @@
 ---
-title: Saturday walk-in Live Scan in Daly City
-updated: "2026-09-11"
-query: Saturday walk-in Live Scan Daly City
+title: "Live Scan in Daly City: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Daly City: 4 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 4 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Daly City"
 ---
 
-# Saturday walk-in Live Scan in Daly City
+# Live Scan in Daly City
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** in the city of Daly City without an appointment.
+Live Scan fingerprinting in Daly City: this page lists 6 DOJ-listed Live Scan sites with a Daly City street address, with walk-in vs appointment, rolling fees, and other-day hours where the DOJ lists them. 4 are open Saturday for walk-ins (see Open Saturday below). It is not every DOJ site in Daly City; the rest are on the [DOJ county list](https://oag.ca.gov/fingerprints/locations?county=San%20Mateo).
+
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Daly City: on a weekday or a Saturday, with or without an appointment.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in San Francisco, South San Francisco, San Bruno, Pacifica, Burlingame, Millbrae, San Mateo, Redwood City, or elsewhere in San Mateo County (those are other cities — San Francisco already has its own page).
 
@@ -14,6 +17,25 @@ query: Saturday walk-in Live Scan Daly City
 **Query this page answers:** "Saturday walk-in Live Scan Daly City"
 
 **Canonical:** https://saturdaylivescan.com/daly-city-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Daly City
+
+**4 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** The UPS Store #6096 at 9:00 am. Cheapest rolling fee: ** The UPS Store #6096 $39. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+
+## Live Scan in Daly City on other days
+
+| Shop | Address | Other-day hours (DOJ, accessed 2026-09-27) | Saturday | Rolling fee (DOJ) | Source |
+| --- | --- | --- | --- | --- | --- |
+| The UPS Store #6096 | 6748 Mission Street, Daly City, CA 94014 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Ship Daly City | 100 Los Olivos Avenue, Daly City, CA 94014 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Certifix Live Scan dbw The UPS Store #0966 | 235 Westlake Center, Daly City, CA 94115 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Post Point Hub | 6844 Mission Street, Daly City, CA 94014 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Daly City Police Department | — | — | No Saturday | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Fund & Health Investment LLC dba Registry of Nurses | — | — | No Saturday | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+
+Other-day hours are copied from each shop's DOJ detail page. "—" means the DOJ page did not list them or could not be read that day; open the DOJ link. "Saturday only on DOJ" means DOJ lists no other day. Store hours are not fingerprint hours. Confirm with the shop before you go.
+
 
 ## How this was verified
 
@@ -79,6 +101,22 @@ Nearby: [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-live-scan
 
 ## FAQ
 
+### Where can I get Live Scan in Daly City?
+
+This page lists 6 DOJ-listed Live Scan sites with a Daly City street address. 4 take Saturday walk-ins: The UPS Store #6096, Ship Daly City, Certifix Live Scan dbw The UPS Store #0966, Post Point Hub. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Daly City; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.
+
+### Do I need an appointment for Live Scan in Daly City?
+
+It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.
+
+
+
+### What’s the cheapest / earliest Saturday walk-in in Daly City?
+
+Cheapest rolling fee: The UPS Store #6096 at $39.99 (6748 Mission Street; Walk-ins & Appointments Saturday; Mobile Services Available — mobile fee UNVERIFIED). Earliest Saturday open: The UPS Store #6096 at 9:00 am. Latest close: Certifix Live Scan dbw The UPS Store #0966 at 6:00 pm. Highest fee: Certifix UPS #0966 and Post Point Hub at $45.00 (tie).
+### Why isn’t San Francisco / South San Francisco on this list?
+
+This page is the city of Daly City only. San Francisco already has its own Saturday walk-in page. South San Francisco, San Bruno, Pacifica, Burlingame, Millbrae, San Mateo, Redwood City, and other San Mateo County cities are other cities (accessed 2026-09-11).
 ### Can I walk in Saturday in Daly City without an appointment?
 
 Yes for the 4 DOJ Saturday walk-in rows on this page (city of Daly City only). "Walk-ins & appointments" means appointments may still jump the line. Certifix UPS #0966 and Post Point Hub are walk-in-only on Saturday (DOJ does not list appointments). Nobody was called.

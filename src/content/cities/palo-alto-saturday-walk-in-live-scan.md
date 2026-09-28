@@ -1,12 +1,15 @@
 ---
-title: Saturday walk-in Live Scan in Palo Alto
-updated: "2026-09-23"
-query: Saturday walk-in Live Scan Palo Alto
+title: "Live Scan in Palo Alto: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Palo Alto: 3 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 3 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Palo Alto"
 ---
 
-# Saturday walk-in Live Scan in Palo Alto
+# Live Scan in Palo Alto
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** in the city of Palo Alto without an appointment.
+Live Scan fingerprinting in Palo Alto: this page lists 3 DOJ-listed Live Scan sites with a Palo Alto street address, with walk-in vs appointment, rolling fees, and other-day hours where the DOJ lists them. 2 are open Saturday for walk-ins (see Open Saturday below). It is not every DOJ site in Palo Alto; the rest are on the [DOJ county list](https://oag.ca.gov/fingerprints/locations?county=Santa%20Clara).
+
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Palo Alto: on a weekday or a Saturday, with or without an appointment.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in Mountain View, Sunnyvale, Los Altos, Los Altos Hills, Menlo Park, Redwood City, Santa Clara, San Jose, Cupertino, Milpitas, Campbell, or elsewhere in Santa Clara County (those are other cities — Mountain View, Sunnyvale, Santa Clara, and San Jose already have their own pages).
 
@@ -14,6 +17,22 @@ query: Saturday walk-in Live Scan Palo Alto
 **Query this page answers:** "Saturday walk-in Live Scan Palo Alto"
 
 **Canonical:** https://saturdaylivescan.com/palo-alto-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Palo Alto
+
+**2 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** two-way tie at 10:00 am (UPS #6105 + Certifix Green Mail). Cheapest rolling fee: ** The UPS Store #6105 $35. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+
+## Live Scan in Palo Alto on other days
+
+| Shop | Address | Other-day hours (DOJ, accessed 2026-09-27) | Saturday | Rolling fee (DOJ) | Source |
+| --- | --- | --- | --- | --- | --- |
+| The UPS Store #6105 | 855 El Camino Real, Suite 13A, Palo Alto, CA 94301 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Certifix Live Scan dbw Green Mail | 3790 El Camino Real, Palo Alto, CA 94306 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Palo Alto LiveScan | — | — | No Saturday | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+
+Other-day hours are copied from each shop's DOJ detail page. "—" means the DOJ page did not list them or could not be read that day; open the DOJ link. "Saturday only on DOJ" means DOJ lists no other day. Store hours are not fingerprint hours. Confirm with the shop before you go.
+
 
 ## How this was verified
 
@@ -72,6 +91,14 @@ Results go to the **requesting agency**, not to you (DOJ applicants page). Keep 
 ---
 
 ## FAQ
+
+### Where can I get Live Scan in Palo Alto?
+
+This page lists 3 DOJ-listed Live Scan sites with a Palo Alto street address. 2 take Saturday walk-ins: The UPS Store #6105, Certifix Live Scan dbw Green Mail. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Palo Alto; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.
+
+### Do I need an appointment for Live Scan in Palo Alto?
+
+It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.
 
 ### Can I walk in Saturday in Palo Alto without an appointment?
 

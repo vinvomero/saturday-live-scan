@@ -1,12 +1,15 @@
 ---
-title: Saturday walk-in Live Scan in Redwood City
-updated: "2026-09-14"
-query: Saturday walk-in Live Scan Redwood City
+title: "Live Scan in Redwood City: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Redwood City: 4 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 4 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Redwood City"
 ---
 
-# Saturday walk-in Live Scan in Redwood City
+# Live Scan in Redwood City
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** in the city of Redwood City without an appointment.
+Live Scan fingerprinting in Redwood City: this page lists 5 DOJ-listed Live Scan sites with a Redwood City street address, with walk-in vs appointment, rolling fees, and other-day hours where the DOJ lists them. 5 are open Saturday for walk-ins (see Open Saturday below). It is not every DOJ site in Redwood City; the rest are on the [DOJ county list](https://oag.ca.gov/fingerprints/locations?county=San%20Mateo).
+
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Redwood City: on a weekday or a Saturday, with or without an appointment.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in San Bruno, South San Francisco, Daly City, Pacifica, Burlingame, San Mateo, Belmont, Foster City, Menlo Park, Millbrae, San Francisco, or elsewhere in San Mateo County (those are other cities — Daly City, South San Francisco, and San Francisco already have their own pages).
 
@@ -14,6 +17,24 @@ query: Saturday walk-in Live Scan Redwood City
 **Query this page answers:** "Saturday walk-in Live Scan Redwood City"
 
 **Canonical:** https://saturdaylivescan.com/redwood-city-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Redwood City
+
+**5 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: 00 am):** Postal Annex #4018, Mishsharm UPS #2766, UPS #7463. Cheapest rolling fee: ** Pack and Mail Express $35. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+
+## Live Scan in Redwood City on other days
+
+| Shop | Address | Other-day hours (DOJ, accessed 2026-09-27) | Saturday | Rolling fee (DOJ) | Source |
+| --- | --- | --- | --- | --- | --- |
+| Postal Annex Service Center #4018 | 274 Redwood Shores Pkwy, Redwood City, CA 94065 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Mishsharm dba The UPS Store #2766 | 570 El Camino Real, #150, Redwood City, CA 94063 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #7463 | 995 Marsh Road, Suite 102, Redwood City, CA 94063 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Pack and Mail Express | 1017 El Camino Real, Sequoia Station, Redwood City, CA 94063 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Certifix Live Scan dbw The UPS Store #2766 | 570 El Camino Real, Suite 150, Redwood City, CA 94063 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+
+Other-day hours are copied from each shop's DOJ detail page. "—" means the DOJ page did not list them or could not be read that day; open the DOJ link. "Saturday only on DOJ" means DOJ lists no other day. Store hours are not fingerprint hours. Confirm with the shop before you go.
+
 
 ## How this was verified
 
@@ -75,6 +96,14 @@ Results go to the **requesting agency**, not to you (DOJ applicants page). Keep 
 ---
 
 ## FAQ
+
+### Where can I get Live Scan in Redwood City?
+
+This page lists 5 DOJ-listed Live Scan sites with a Redwood City street address. 5 take Saturday walk-ins: Postal Annex Service Center #4018, Mishsharm dba The UPS Store #2766, The UPS Store #7463, Pack and Mail Express, Certifix Live Scan dbw The UPS Store #2766. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Redwood City; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.
+
+### Do I need an appointment for Live Scan in Redwood City?
+
+It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.
 
 ### Can I walk in Saturday in Redwood City without an appointment?
 

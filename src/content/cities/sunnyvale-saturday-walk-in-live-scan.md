@@ -1,12 +1,15 @@
 ---
-title: Saturday walk-in Live Scan in Sunnyvale
-updated: "2026-09-10"
-query: Saturday walk-in Live Scan Sunnyvale
+title: "Live Scan in Sunnyvale: hours, walk-ins, Saturday options"
+description: "Live Scan fingerprinting in Sunnyvale: 3 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 3 open Saturday for walk-ins. Confirm before you go."
+updated: "2026-09-27"
+query: "Live Scan Sunnyvale"
 ---
 
-# Saturday walk-in Live Scan in Sunnyvale
+# Live Scan in Sunnyvale
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** in the city of Sunnyvale without an appointment.
+Live Scan fingerprinting in Sunnyvale: this page lists 3 DOJ-listed Live Scan sites with a Sunnyvale street address, with walk-in vs appointment, rolling fees, and other-day hours where the DOJ lists them. 3 are open Saturday for walk-ins (see Open Saturday below). It is not every DOJ site in Sunnyvale; the rest are on the [DOJ county list](https://oag.ca.gov/fingerprints/locations?county=Santa%20Clara).
+
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Sunnyvale: on a weekday or a Saturday, with or without an appointment.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in San Jose, Santa Clara, Cupertino, Mountain View, Palo Alto, Milpitas, Campbell, Los Gatos, or elsewhere in Santa Clara County (those are other cities — San Jose and Santa Clara already have their own pages).
 
@@ -14,6 +17,22 @@ query: Saturday walk-in Live Scan Sunnyvale
 **Query this page answers:** "Saturday walk-in Live Scan Sunnyvale"
 
 **Canonical:** https://saturdaylivescan.com/sunnyvale-saturday-walk-in-live-scan/
+
+
+## Open Saturday in Sunnyvale
+
+**3 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** all three at 10:00 am (three-way tie). Cheapest rolling fee: ** KR Services, LLC dba Notary Livescan Post $25. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+
+## Live Scan in Sunnyvale on other days
+
+| Shop | Address | Other-day hours (DOJ, accessed 2026-09-27) | Saturday | Rolling fee (DOJ) | Source |
+| --- | --- | --- | --- | --- | --- |
+| KR Services, LLC dba Notary Livescan Post | 1208 E. Arques Avenue, Suite #101, Sunnyvale, CA 94085 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| All Service Center | 530 Lawrence Expressway, Sunnyvale, CA 94085 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #0067 | 1111 W. El Camino Real, #133, Sunnyvale, CA 94087 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+
+Other-day hours are copied from each shop's DOJ detail page. "—" means the DOJ page did not list them or could not be read that day; open the DOJ link. "Saturday only on DOJ" means DOJ lists no other day. Store hours are not fingerprint hours. Confirm with the shop before you go.
+
 
 ## How this was verified
 
@@ -72,6 +91,18 @@ Nearby: [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-live-scan
 
 ## FAQ
 
+### Where can I get Live Scan in Sunnyvale?
+
+This page lists 3 DOJ-listed Live Scan sites with a Sunnyvale street address. 3 take Saturday walk-ins: KR Services, LLC dba Notary Livescan Post, All Service Center, The UPS Store #0067. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Sunnyvale; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.
+
+### Do I need an appointment for Live Scan in Sunnyvale?
+
+It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.
+
+
+### Why isn't San Jose / Santa Clara on this list?
+
+This page is the city of Sunnyvale only. San Jose and Santa Clara already have their own Saturday walk-in pages. Cupertino, Mountain View, Palo Alto, Milpitas, Campbell, Los Gatos, and other Santa Clara County cities are other cities (accessed 2026-09-10).
 ### Can I walk in Saturday in Sunnyvale without an appointment?
 
 Yes for the 3 DOJ Saturday walk-in rows on this page (city of Sunnyvale only). "Walk-ins & appointments" means appointments may still jump the line. KR Services and The UPS Store #0067 are walk-in-only on Saturday (DOJ does not list appointments). Nobody was called.

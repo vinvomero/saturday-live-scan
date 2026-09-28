@@ -12,17 +12,17 @@ const updated =
   cities.map((c) => String(c.data.updated)).sort().at(-1) ?? '2026-08-29';
 ---
 <Base
-  title="Find Saturday Walk-in Live Scan in California"
-  description="California Live Scan shops that the DOJ list marks as Saturday walk-in, city by city. Confirm hours before you go — nobody listed here was called."
+  title="California Live Scan locations: hours, walk-ins, Saturday options"
+  description="California Live Scan sites from the DOJ list: hours, walk-in vs appointment, rolling fees, and Saturday options by city. Confirm before you go."
   faq={homeFaq}
   website={true}
 >
   <div class="hero">
     <div class="hero-left">
-      <p class="eyebrow">California · Saturday walk-in filter</p>
-      <h1>Find a Saturday walk-in Live Scan without digging the DOJ list.</h1>
+      <p class="eyebrow">California · DOJ-listed Live Scan sites</p>
+      <h1>California Live Scan locations: hours, walk-ins, Saturday options</h1>
       <p class="lede">
-        California Live Scan shops that the DOJ list marks as Saturday walk-in, city by city. Confirm hours before you go — nobody listed here was called.
+        California Live Scan sites from the DOJ list: hours, walk-in vs appointment, rolling fees, and Saturday options by city. Confirm before you go.
       </p>
       <div class="hero-ctas">
         <a href="#cities" class="btn btn-primary">Browse cities</a>
@@ -91,7 +91,7 @@ const updated =
       <div class="how-step">
         <div class="step-number">1</div>
         <div class="step-content">
-          <p>Pick your city from the table below. Each page lists which shops the DOJ marks as Saturday walk-in.</p>
+          <p>Pick your city from the table below. Each page shows DOJ-listed shops with hours, walk-in vs appointment, and rolling fees.</p>
         </div>
       </div>
       <div class="how-step">
@@ -103,21 +103,21 @@ const updated =
       <div class="how-step">
         <div class="step-number">3</div>
         <div class="step-content">
-          <p>Walk in on Saturday. Confirm hours with the shop first — the DOJ list can be stale.</p>
+          <p>Go on any day the shop is open for Live Scan. Confirm hours with the shop first — the DOJ list can be stale.</p>
         </div>
       </div>
     </div>
     <p style="margin-top: 2rem; color: var(--ink-soft);">
-      <strong>Oakland filters:</strong> <a href={`${base}oakland-saturday-cash-live-scan/`}>Saturday cash Live Scan in Oakland</a> — all 7 rows accept cash. <a href={`${base}oakland-saturday-teacher-credential-live-scan/`}>Saturday Live Scan in Oakland for a teacher credential</a> — Form 41-LS for CTC.
+      <strong>Oakland filters:</strong> <a href={`${base}oakland-saturday-cash-live-scan/`}>Cash Live Scan in Oakland</a> — all 7 rows accept cash. <a href={`${base}oakland-saturday-teacher-credential-live-scan/`}>Teacher credential Live Scan in Oakland</a> — Form 41-LS for CTC.
     </p>
   </section>
   <section id="cities">
-    <h2>Saturday walk-in by city</h2>
+    <h2>Live Scan by city</h2>
     <ul class="city-list">
       {cities.map((city) => {
         const id = city.id;
-        let shortName = city.data.title;
-        let descriptor = 'Saturday walk-in';
+        let shortName = city.data.title.split(':')[0]?.trim().replace('Live Scan in ', '') ?? city.data.title;
+        let descriptor = 'Hours, walk-ins, Saturday';
         let badge = null;
         let isFeatured = false;
         
@@ -131,38 +131,17 @@ const updated =
           badge = 'New';
           descriptor = '3 shops';
         } else if (id === 'oakland-saturday-cash-live-scan') {
-          shortName = 'Oakland (cash)';
+          shortName = 'Cash Live Scan in Oakland';
           descriptor = 'Cash accepted shops';
         } else if (id === 'oakland-saturday-teacher-credential-live-scan') {
-          shortName = 'Oakland (teacher)';
+          shortName = 'Teacher credential Live Scan in Oakland (Form 41-LS)';
           descriptor = 'Teacher credential';
         } else if (id === 'oakland-saturday-downtown-vs-fruitvale-live-scan') {
-          shortName = 'Oakland (downtown)';
+          shortName = 'Downtown vs Fruitvale Live Scan in Oakland';
           descriptor = 'Downtown vs Fruitvale';
         } else if (id === 'alameda-county-sunday-live-scan') {
-          shortName = 'Alameda County';
+          shortName = 'Sunday Live Scan in Alameda County';
           descriptor = 'Sunday walk-in';
-        } else if (id === 'berkeley-saturday-walk-in-live-scan') {
-          shortName = 'Berkeley';
-        } else if (id === 'concord-saturday-walk-in-live-scan') {
-          shortName = 'Concord';
-        } else if (id === 'fremont-saturday-walk-in-live-scan') {
-          shortName = 'Fremont';
-        } else if (id === 'hayward-saturday-walk-in-live-scan') {
-          shortName = 'Hayward';
-        } else if (id === 'richmond-saturday-walk-in-live-scan') {
-          shortName = 'Richmond';
-        } else if (id === 'san-francisco-saturday-walk-in-live-scan') {
-          shortName = 'San Francisco';
-        } else if (id === 'san-jose-saturday-walk-in-live-scan') {
-          shortName = 'San Jose';
-        } else if (id === 'santa-clara-saturday-walk-in-live-scan') {
-          shortName = 'Santa Clara';
-        } else if (id === 'walnut-creek-saturday-walk-in-live-scan') {
-          shortName = 'Walnut Creek';
-        } else if (id === 'daly-city-saturday-walk-in-live-scan') {
-          shortName = 'Daly City';
-          descriptor = 'Saturday walk-in, 4 shops';
         }
         
         return (
