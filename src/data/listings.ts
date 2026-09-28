@@ -106,6 +106,16 @@ export const listingsBySlug: Record<string, ShopListing[]> = {
       address: '2268 Westborough Blvd, Suite #302, South San Francisco, CA 94080',
     },
   ],
+  'dublin-saturday-walk-in-live-scan': [
+    {
+      name: 'Suraj Notary and Live Scan',
+      address: '2883 East Castle Pines Terrace, Dublin, CA 94568',
+    },
+    {
+      name: 'The UPS Store #0953',
+      address: '7172 Regional Street, Dublin, CA 94568',
+    },
+  ],
 };
 
 export function itemListJsonLd(listings: ShopListing[]): Record<string, unknown> {

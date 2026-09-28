@@ -1005,3 +1005,46 @@ export const campbellFaq: FaqItem[] = [
     a: 'Cheapest rolling fee among INCLUDE rows: $30.00 (Verify Group, Inc. at 262 East Hamilton Avenue, Suite #A). Earliest Saturday open: Verify Group, Inc. at 9:00 am. Latest close: WellnessMart, MD at 4:00 pm (1645 South Bascom Avenue, Suite #7). Highest INCLUDE fee: $31.00 (WellnessMart, MD).',
   },
 ];
+
+export const dublinFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Dublin?',
+    a: 'This page lists 3 DOJ-listed Live Scan sites with a Dublin street address. 2 take Saturday walk-ins: Suraj Notary and Live Scan and The UPS Store #0953. Other-day hours come from each shop\'s DOJ page where shown. This is not every DOJ site in Dublin; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Dublin?',
+    a: 'It depends on the shop and the day. On DOJ, Suraj Notary and Live Scan takes walk-ins and appointments on weekdays, Saturday, and Sunday; The UPS Store #0953 takes walk-ins on weekdays, Saturday, and Sunday; The UPS Store #6449 is appointment-only on weekdays and Saturday. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
+    q: 'Can I walk in Saturday in Dublin without an appointment?',
+    a: 'Yes for the 2 DOJ Saturday walk-in rows on this page (city of Dublin street addresses only): Suraj Notary and Live Scan and The UPS Store #0953. Suraj lists Walk-ins and Appointments on Saturday, so appointments may still jump the line. The UPS Store #0953 lists Walk-ins only on Saturday. The UPS Store #6449 is Saturday appointment-only. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. INCLUDE rolling fees on DOJ: $30.00 (The UPS Store #0953) and $38.00 (Suraj Notary and Live Scan).',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'All three Dublin DOJ rows on this page list cash plus card options. Suraj Notary and Live Scan: cash, cashier\'s check, company checks, credit, debit, money order. The UPS Store #0953: billing, cash, cashier\'s check, checks, company checks, corporate, credit, debit. The UPS Store #6449 (appointment-only Saturday): cash, checks, credit, debit. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are store hours the fingerprint hours?',
+    a: 'No. Shipping / retail hours on a shop\'s own page are not Live Scan hours. Live Scan Saturday hours are the DOJ column. Example: Suraj Notary and Live Scan lists Saturday Walk-ins and Appointments 8:00 am – 9:00 pm on DOJ. The UPS Store #0953 lists Saturday Walk-ins 9:00 am – 5:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t Pleasanton / Livermore / Fremont / Hayward on this list?',
+    a: 'This page is the city of Dublin only. Pleasanton, Fremont, Hayward, Oakland, and Berkeley already have their own Live Scan pages. Livermore, San Ramon, Castro Valley, and other nearby cities are other cities (accessed 2026-09-27).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Dublin?',
+    a: 'Cheapest rolling fee among INCLUDE rows: $30.00 (The UPS Store #0953 at 7172 Regional Street). Earliest Saturday open: Suraj Notary and Live Scan at 8:00 am (2883 East Castle Pines Terrace). Latest close: Suraj Notary and Live Scan at 9:00 pm. Highest INCLUDE fee: $38.00 (Suraj Notary and Live Scan).',
+  },
+];
