@@ -5,9 +5,11 @@ updated: "2026-09-27"
 query: "Live Scan Pleasanton"
 ---
 
-# Saturday walk-in Live Scan in Pleasanton
+# Live Scan in Pleasanton
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** in the city of Pleasanton without an appointment.
+Live Scan fingerprinting in Pleasanton: this page lists 5 DOJ-listed Live Scan sites with a Pleasanton street address, with walk-in vs appointment, rolling fees, and other-day hours where the DOJ lists them. 2 are open Saturday for walk-ins (see Open Saturday below). It is not every DOJ site in Pleasanton; the rest are on the [DOJ county list](https://oag.ca.gov/fingerprints/locations?county=Alameda).
+
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Pleasanton: on a weekday or a Saturday, with or without an appointment.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in Dublin, Livermore, San Ramon, Fremont, Hayward, Castro Valley, or elsewhere in Alameda County (those are other cities — Fremont, Hayward, Oakland, and Berkeley already have their own pages). Mobile-only providers with no Pleasanton street address on DOJ.
 
@@ -19,7 +21,20 @@ query: "Live Scan Pleasanton"
 
 ## Open Saturday in Pleasanton
 
-Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**2 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** The UPS Store #6291 at 9:00 am. Cheapest rolling fee: ** The UPS Store #0345 $30. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+
+## Live Scan in Pleasanton on other days
+
+| Shop | Address | Other-day hours (DOJ, accessed 2026-09-27) | Saturday | Rolling fee (DOJ) | Source |
+| --- | --- | --- | --- | --- | --- |
+| The UPS Store #6291 | 6754 Bernal Ave, Suite 740, Pleasanton, CA 94566 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #0345 | 1807 Santa Rita Road, Unit H, Pleasanton, CA 94566 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| AngelVetting (The Live Scan Guy) | — | — | No Saturday | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| GM Defense LLC | — | — | No Saturday | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Postal Annex Plesanton | — | — | No Saturday | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+
+Other-day hours are copied from each shop's DOJ detail page. "—" means the DOJ page did not list them or could not be read that day; open the DOJ link. "Saturday only on DOJ" means DOJ lists no other day. Store hours are not fingerprint hours. Confirm with the shop before you go.
+
 
 ## How this was verified
 
@@ -80,6 +95,14 @@ Results go to the **requesting agency**, not to you (DOJ applicants page). Keep 
 ---
 
 ## FAQ
+
+### Where can I get Live Scan in Pleasanton?
+
+This page lists 5 DOJ-listed Live Scan sites with a Pleasanton street address. 2 take Saturday walk-ins: The UPS Store #6291, The UPS Store #0345. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Pleasanton; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.
+
+### Do I need an appointment for Live Scan in Pleasanton?
+
+It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.
 
 ### Can I walk in Saturday in Pleasanton without an appointment?
 

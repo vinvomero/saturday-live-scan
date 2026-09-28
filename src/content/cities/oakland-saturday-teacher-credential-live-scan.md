@@ -5,9 +5,9 @@ updated: "2026-09-27"
 query: "Teacher credential Live Scan Oakland"
 ---
 
-# Teacher credential Live Scan in Oakland (Form 41-LS)
+# Teacher credential Live Scan in Oakland (Form 41-LS): Saturday and other days
 
-**Who this is for:** You need fingerprints for a California teaching credential, Certificate of Clearance (COC), or other Commission on Teacher Credentialing (CTC) document, and you want a **Saturday walk-in** Live Scan in **Oakland** with the official CTC Form **41-LS**.
+**Who this is for:** You need fingerprints for a California teaching credential, Certificate of Clearance (COC), or other Commission on Teacher Credentialing (CTC) document, and you want a Live Scan in **Oakland** with the official CTC Form **41-LS**. This page covers Saturday walk-in and other-day access.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Readers inventing or looking up a CTC ORI on a blank BCIA 8016. Anyone who only needs a cash-focused list — use [Saturday cash Live Scan in Oakland](https://saturdaylivescan.com/oakland-saturday-cash-live-scan/). Anyone who needs every Oakland Saturday walk-in without the teacher/CTC angle — use [Saturday walk-in Live Scan in Oakland](https://saturdaylivescan.com/oakland-saturday-walk-in-live-scan/).
 
@@ -84,8 +84,9 @@ Keep the **ATI** number from the Live Scan session. Results go to **CTC via DOJ*
 
 ## FAQ
 
+### Can I get teacher credential Live Scan in Oakland on other days?
 
-
+Yes. Any DOJ Live Scan site works for CTC when Form 41-LS ORI fields are correct. Other-day hours were not available from DOJ on 2026-09-27. The main Oakland page has an other-days table with the same 7 sites; confirm hours before you go.
 
 
 

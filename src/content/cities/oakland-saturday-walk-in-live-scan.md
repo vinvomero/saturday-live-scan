@@ -5,9 +5,11 @@ updated: "2026-09-27"
 query: "Live Scan Oakland"
 ---
 
-# Saturday walk-in Live Scan Oakland
+# Live Scan in Oakland
 
-**Saturday walk-in Live Scan Oakland:** 7 shops marked Saturday walk-in on the DOJ list. Rolling fees range from $23 (Allscan, 10am–12pm) to $50. Bring your California Request for Live Scan Service form (BCIA 8016) and unexpired photo ID. Confirm hours before you go — nobody was called.
+Live Scan fingerprinting in Oakland: this page lists 7 DOJ-listed Live Scan sites with a Oakland street address, with walk-in vs appointment, rolling fees, and other-day hours where the DOJ lists them. 7 are open Saturday for walk-ins (see Open Saturday below). It is not every DOJ site in Oakland; the rest are on the [DOJ county list](https://oag.ca.gov/fingerprints/locations?county=Alameda).
+
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Oakland: on a weekday or a Saturday, with or without an appointment.
 
 **Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** without an appointment.
 
@@ -19,7 +21,22 @@ query: "Live Scan Oakland"
 
 ## Open Saturday in Oakland
 
-Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**7 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+
+## Live Scan in Oakland on other days
+
+| Shop | Address | Other-day hours (DOJ, accessed 2026-09-27) | Saturday | Rolling fee (DOJ) | Source |
+| --- | --- | --- | --- | --- | --- |
+| LPG Live Scan (The Loss Prevention Group, Inc.) | 524 7th Street, Oakland, CA 94607 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Certifix @ The UPS Store #3270 | 4096 Piedmont Ave, Oakland, CA 94611 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Allscan Live Scan Fingerprinting Service | 409 13th Street, 6th Floor, Oakland, CA 94612 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Copy USA | 3423 Fruitvale Ave, Oakland, CA 94602 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #1821 | 360 Grand Ave, Oakland, CA 94610 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #7098 | 4100 Redwood Road #20A, Oakland, CA 94619 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #0243 | 6114 La Salle Ave, Oakland, CA 94611 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+
+Other-day hours are copied from each shop's DOJ detail page. "—" means the DOJ page did not list them or could not be read that day; open the DOJ link. "Saturday only on DOJ" means DOJ lists no other day. Store hours are not fingerprint hours. Confirm with the shop before you go.
+
 
 ## How this was verified
 
@@ -94,6 +111,14 @@ Results go to the **requesting agency**, not to you (DOJ applicants page). Keep 
 **Bay Area:** [Saturday walk-in Live Scan in Berkeley](/berkeley-saturday-walk-in-live-scan/) — 5 shops. [Saturday walk-in Live Scan in San Francisco](/san-francisco-saturday-walk-in-live-scan/) — 13 shops. [Sunday Live Scan in Alameda County](/alameda-county-sunday-live-scan/) — 13 Sunday walk-in rows.
 
 ## FAQ
+
+### Where can I get Live Scan in Oakland?
+
+This page lists 7 DOJ-listed Live Scan sites with a Oakland street address. 7 take Saturday walk-ins (see Open Saturday). Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Oakland; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.
+
+### Do I need an appointment for Live Scan in Oakland?
+
+It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.
 
 ### Can I walk in Saturday in Oakland without an appointment?
 

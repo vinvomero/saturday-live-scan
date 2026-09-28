@@ -233,9 +233,23 @@ function checkPage(
     if (!faq) fail(`${rel}: missing FAQPage`);
     else {
       const entities = (faq.mainEntity as { name: string; acceptedAnswer: { text: string } }[]) ?? [];
+      const htmlNoScripts = html.replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '');
+      const decodeSimple = (s: string) => s
+        .replace(/&quot;/g, '"')
+        .replace(/&amp;/g, '&')
+        .replace(/&apos;/g, "'")
+        .replace(/[\u2018\u2019]/g, "'")
+        .replace(/[\u201C\u201D]/g, '"')
+        .replace(/\s+/g, ' ')
+        .trim();
+      const decodedHtml = decodeSimple(htmlNoScripts);
       for (const item of entities) {
-        if (!html.includes(item.name)) fail(`${rel}: FAQPage question not visible: ${item.name}`);
-        if (!html.includes(item.acceptedAnswer.text.slice(0, 40))) {
+        const decodedQ = decodeSimple(item.name);
+        const decodedAnswerStart = decodeSimple(item.acceptedAnswer.text.slice(0, 40));
+        if (!decodedHtml.includes(decodedQ)) {
+          fail(`${rel}: FAQPage question not visible: ${item.name}`);
+        }
+        if (!decodedHtml.includes(decodedAnswerStart)) {
           fail(`${rel}: FAQPage answer not visible: ${item.name}`);
         }
       }
@@ -602,8 +616,15 @@ for (const slug of cityFiles) {
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
     .replace(/&#39;/g, "'")
-    .replace(/[\u2018\u2019]/g, "'")
-    .replace(/[\u201C\u201D]/g, '"')
+    .replace(/&apos;/g, "'")
+    .replace(/&rsquo;/g, "'")
+    .replace(/&lsquo;/g, "'")
+    .replace(/&rdquo;/g, '"')
+    .replace(/&ldquo;/g, '"')
+    .replace(/[\u2018\u2019\u02BC\u2032]/g, "'") // All single quote variants
+    .replace(/[\u201C\u201D\u2033]/g, '"') // All double quote variants
+    .replace(/[""]/g, '"') // Catch any remaining smart quotes
+    .replace(/['']/g, "'") // Catch any remaining smart single quotes
     .replace(/<[^>]+>/g, '') // Strip HTML tags
     .replace(/\*\*/g, '') // Strip markdown bold
     .replace(/\s+/g, ' ')

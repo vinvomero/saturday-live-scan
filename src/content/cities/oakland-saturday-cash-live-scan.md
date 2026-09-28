@@ -5,9 +5,9 @@ updated: "2026-09-27"
 query: "Cash Live Scan Oakland"
 ---
 
-# Cash Live Scan in Oakland
+# Cash Live Scan in Oakland: Saturday walk-in and other-day shops
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** as a **walk-in**, and you want to **pay cash** (or know which shops list cash on DOJ and where a card costs more).
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints as a **walk-in**, and you want to **pay cash** (or know which shops list cash on DOJ and where a card costs more). This page covers Saturday walk-in and other-day access.
 
 **Not for:** Card-only shoppers who do not care about cash. TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop’s own page says they roll FD-258. I-9s or notary work. Readers who want every Saturday walk-in regardless of payment — use the [full Oakland Saturday walk-in page](https://saturdaylivescan.com/oakland-saturday-walk-in-live-scan/).
 
@@ -87,8 +87,9 @@ Results go to the **requesting agency**, not to you (DOJ applicants page). Keep 
 
 ## FAQ
 
+### When can I get cash Live Scan in Oakland on other days?
 
-
+All 7 shops in the Saturday walk-in table above list Cash on DOJ. Other-day hours were not available from DOJ on 2026-09-27. The main Oakland page has an other-days table with the same sites; confirm cash and hours before you go.
 
 
 

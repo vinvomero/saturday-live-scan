@@ -5,9 +5,11 @@ updated: "2026-09-27"
 query: "Live Scan Millbrae"
 ---
 
-# Saturday walk-in Live Scan in Millbrae
+# Live Scan in Millbrae
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** in the city of Millbrae without an appointment.
+Live Scan fingerprinting in Millbrae: this page lists 2 DOJ-listed Live Scan sites with a Millbrae street address, with walk-in vs appointment, rolling fees, and other-day hours where the DOJ lists them. 1 are open Saturday for walk-ins (see Open Saturday below). It is not every DOJ site in Millbrae; the rest are on the [DOJ county list](https://oag.ca.gov/fingerprints/locations?county=San%20Mateo).
+
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Millbrae: on a weekday or a Saturday, with or without an appointment.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in Menlo Park, Foster City, Belmont, San Mateo, Burlingame, Pacifica, San Bruno, South San Francisco, Daly City, Redwood City, San Francisco, or elsewhere in San Mateo County (those are other cities — Foster City, Belmont, Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own pages).
 
@@ -19,7 +21,17 @@ query: "Live Scan Millbrae"
 
 ## Open Saturday in Millbrae
 
-Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**1 Saturday walk-in shop** on the DOJ list (accessed 2026-08-29). Earliest open: ** Certifix #1444 at 9:00 am. Cheapest rolling fee: ** $40. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+
+## Live Scan in Millbrae on other days
+
+| Shop | Address | Other-day hours (DOJ, accessed 2026-09-27) | Saturday | Rolling fee (DOJ) | Source |
+| --- | --- | --- | --- | --- | --- |
+| Certifix Live Scan dbw The UPS Store #1444 | 423 Broadway, Millbrae, CA 94030 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Advance Livescan Fingerprinting | — | — | No Saturday | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+
+Other-day hours are copied from each shop's DOJ detail page. "—" means the DOJ page did not list them or could not be read that day; open the DOJ link. "Saturday only on DOJ" means DOJ lists no other day. Store hours are not fingerprint hours. Confirm with the shop before you go.
+
 
 ## How this was verified
 
@@ -77,6 +89,14 @@ Results go to the **requesting agency**, not to you (DOJ applicants page). Keep 
 ---
 
 ## FAQ
+
+### Where can I get Live Scan in Millbrae?
+
+This page lists 2 DOJ-listed Live Scan sites with a Millbrae street address. 1 take Saturday walk-ins: Certifix Live Scan dbw The UPS Store #1444. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Millbrae; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.
+
+### Do I need an appointment for Live Scan in Millbrae?
+
+It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.
 
 ### Can I walk in Saturday in Millbrae without an appointment?
 

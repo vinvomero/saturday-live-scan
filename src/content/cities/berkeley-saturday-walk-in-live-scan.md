@@ -5,9 +5,11 @@ updated: "2026-09-27"
 query: "Live Scan Berkeley"
 ---
 
-# Saturday walk-in Live Scan in Berkeley
+# Live Scan in Berkeley
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** without an appointment.
+Live Scan fingerprinting in Berkeley: this page lists 6 DOJ-listed Live Scan sites with a Berkeley street address, with walk-in vs appointment, rolling fees, and other-day hours where the DOJ lists them. 5 are open Saturday for walk-ins (see Open Saturday below). It is not every DOJ site in Berkeley; the rest are on the [DOJ county list](https://oag.ca.gov/fingerprints/locations?county=Alameda).
+
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Berkeley: on a weekday or a Saturday, with or without an appointment.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop’s own page says they roll FD-258. I-9s or notary work.
 
@@ -17,7 +19,21 @@ query: "Live Scan Berkeley"
 
 ## Open Saturday in Berkeley
 
-Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**5 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+
+## Live Scan in Berkeley on other days
+
+| Shop | Address | Other-day hours (DOJ, accessed 2026-09-27) | Saturday | Rolling fee (DOJ) | Source |
+| --- | --- | --- | --- | --- | --- |
+| Omkar Enterprises LLC dba The UPS Store #6706 | 1400 Shattuck Avenue Ste. #12, Berkeley, CA 94708 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| P.O. Pack | 1700 Shattuck Avenue, Berkeley, CA 94709 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Mail Boxes Plus | 2930 Domingo Avenue, Berkeley, CA 94705 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #6089 | 2512 Telegraph Avenue, Berkeley, CA 94704 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| A1 Photo Lab | 1629 University Avenue, Berkeley, CA 94710 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Berkeley Live Scan (no street address on DOJ) | — | — | No Saturday | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+
+Other-day hours are copied from each shop's DOJ detail page. "—" means the DOJ page did not list them or could not be read that day; open the DOJ link. "Saturday only on DOJ" means DOJ lists no other day. Store hours are not fingerprint hours. Confirm with the shop before you go.
+
 
 ## How this was verified
 
@@ -85,6 +101,14 @@ Results go to the **requesting agency**, not to you (DOJ applicants page). Keep 
 Nearby: [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-live-scan/) — 7 shops, rolling fees $23–$50.
 
 ## FAQ
+
+### Where can I get Live Scan in Berkeley?
+
+This page lists 6 DOJ-listed Live Scan sites with a Berkeley street address. 5 take Saturday walk-ins: Omkar Enterprises LLC dba The UPS Store #6706, P.O. Pack, Mail Boxes Plus, The UPS Store #6089, A1 Photo Lab. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Berkeley; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.
+
+### Do I need an appointment for Live Scan in Berkeley?
+
+It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.
 
 
 

@@ -5,9 +5,11 @@ updated: "2026-09-27"
 query: "Live Scan San Francisco"
 ---
 
-# Saturday walk-in Live Scan in San Francisco
+# Live Scan in San Francisco
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** without an appointment.
+Live Scan fingerprinting in San Francisco: this page lists 13 DOJ-listed Live Scan sites with a San Francisco street address, with walk-in vs appointment, rolling fees, and other-day hours where the DOJ lists them. 13 are open Saturday for walk-ins (see Open Saturday below). It is not every DOJ site in San Francisco; the rest are on the [DOJ county list](https://oag.ca.gov/fingerprints/locations?county=San%20Francisco).
+
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of San Francisco: on a weekday or a Saturday, with or without an appointment.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work.
 
@@ -17,7 +19,28 @@ query: "Live Scan San Francisco"
 
 ## Open Saturday in San Francisco
 
-Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**13 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+
+## Live Scan in San Francisco on other days
+
+| Shop | Address | Other-day hours (DOJ, accessed 2026-09-27) | Saturday | Rolling fee (DOJ) | Source |
+| --- | --- | --- | --- | --- | --- |
+| Post Box Inc. | 1592 Union Street, San Francisco, CA 94123 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Certifix Live Scan dbw The UPS Store #0361 | 601 Van Ness Avenue #E, Opera Plaza, San Francisco, CA 94102 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #0178 | 3145 Geary Blvd, San Francisco, CA 94118 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #5037 | 1728 Ocean Avenue, San Francisco, CA 94112 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #5402 | 5758 Geary Blvd., San Francisco, CA 94121 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Maxrox LLC dba Post Point Hub | 3041 Mission Street, San Francisco, CA 94110 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Post & Ellis Services LLC dba The UPS Store #0431 | 1032 Irving Street, San Francisco, CA 94122 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Postal Annex | 350 Bay Street Suite 100, San Francisco, CA 94133 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #5568 | 1770 Post Street, San Francisco, CA 94115 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| AAA Live Scan SF, UnionPost SF | 5432 Geary Blvd., San Francisco, CA 94121 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Maxrox LLC dba Post Point Hub | 325 Mason Street Suite 9, San Francisco, CA 94102 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #6260 | 77 Van Ness Avenue Suite 101, San Francisco, CA 94102 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Fillmore Postal | 1015 Fillmore Street, San Francisco, CA 94115 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+
+Other-day hours are copied from each shop's DOJ detail page. "—" means the DOJ page did not list them or could not be read that day; open the DOJ link. "Saturday only on DOJ" means DOJ lists no other day. Store hours are not fingerprint hours. Confirm with the shop before you go.
+
 
 ## How this was verified
 
@@ -98,6 +121,14 @@ Nearby: [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-live-scan
 ---
 
 ## FAQ
+
+### Where can I get Live Scan in San Francisco?
+
+This page lists 13 DOJ-listed Live Scan sites with a San Francisco street address. 13 take Saturday walk-ins (see Open Saturday). Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in San Francisco; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.
+
+### Do I need an appointment for Live Scan in San Francisco?
+
+It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.
 
 ### Can I walk in Saturday in San Francisco without an appointment?
 

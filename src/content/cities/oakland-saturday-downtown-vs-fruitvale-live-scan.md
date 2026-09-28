@@ -5,9 +5,9 @@ updated: "2026-09-27"
 query: "Downtown vs Fruitvale Live Scan Oakland"
 ---
 
-# Downtown vs Fruitvale Live Scan in Oakland
+# Downtown vs Fruitvale Live Scan in Oakland: Saturday and other days
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) and you need fingerprints **this Saturday** as a walk-in in Oakland. You are choosing **downtown** versus a shop **on Fruitvale Avenue**. You are not hunting a new city.
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) and you need fingerprints as a walk-in in Oakland. You are choosing **downtown** versus a shop **on Fruitvale Avenue**. This page covers Saturday walk-in and other-day access. You are not hunting a new city.
 
 **Not for:** Readers who want every Oakland Saturday walk-in in one list. Use [Saturday walk-in Live Scan in Oakland](https://saturdaylivescan.com/oakland-saturday-walk-in-live-scan/). TSA PreCheck / IdentoGO (different vendor). Anyone expecting a hand-drawn neighborhood map. This page does **not** invent a downtown–Fruitvale boundary.
 
@@ -116,8 +116,9 @@ Results go to the **requesting agency**, not to you (DOJ applicants page). Keep 
 
 ## FAQ
 
+### Can I get downtown or Fruitvale Live Scan on other days?
 
-
+The 2 downtown shops and 1 Fruitvale Avenue shop are in the other-days table on the main Oakland page. Other-day hours were not available from DOJ on 2026-09-27. Confirm with the shop before you go.
 
 
 

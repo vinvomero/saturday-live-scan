@@ -5,9 +5,11 @@ updated: "2026-09-27"
 query: "Live Scan Santa Clara"
 ---
 
-# Saturday walk-in Live Scan in Santa Clara
+# Live Scan in Santa Clara
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** in the city of Santa Clara without an appointment.
+Live Scan fingerprinting in Santa Clara: this page lists 6 DOJ-listed Live Scan sites with a Santa Clara street address, with walk-in vs appointment, rolling fees, and other-day hours where the DOJ lists them. 6 are open Saturday for walk-ins (see Open Saturday below). It is not every DOJ site in Santa Clara; the rest are on the [DOJ county list](https://oag.ca.gov/fingerprints/locations?county=Santa%20Clara).
+
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Santa Clara: on a weekday or a Saturday, with or without an appointment.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in San Jose, Sunnyvale, Cupertino, Mountain View, Palo Alto, Milpitas, Campbell, Los Gatos, or elsewhere in Santa Clara County (those are other cities — San Jose already has its own page).
 
@@ -19,7 +21,21 @@ query: "Live Scan Santa Clara"
 
 ## Open Saturday in Santa Clara
 
-Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**6 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** UPS #2762 and UPS #6844 at 9:00 am (two-way tie). Cheapest rolling fee: ** Certifix Live Scan dbw AD West Mail Center $18. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+
+## Live Scan in Santa Clara on other days
+
+| Shop | Address | Other-day hours (DOJ, accessed 2026-09-27) | Saturday | Rolling fee (DOJ) | Source |
+| --- | --- | --- | --- | --- | --- |
+| The UPS Store #2762 | 5255 Stevens Creek Blvd., Santa Clara, CA 95051 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #6844 | 1231 Franklin Mall, Santa Clara, CA 95050 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Certifix Live Scan dbw AD West Mail Center | 59 Washington Street, Santa Clara, CA 95050 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Postal Annex #14024 | 2010 El Camino Real, Santa Clara, CA 95050 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #4636 | 2784 Homestead Road, Santa Clara, CA 95051 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The Connector Fashion Lane | 2907 El Camino Real, Santa Clara, CA 95051 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+
+Other-day hours are copied from each shop's DOJ detail page. "—" means the DOJ page did not list them or could not be read that day; open the DOJ link. "Saturday only on DOJ" means DOJ lists no other day. Store hours are not fingerprint hours. Confirm with the shop before you go.
+
 
 ## How this was verified
 
@@ -79,6 +95,14 @@ Results go to the **requesting agency**, not to you (DOJ applicants page). Keep 
 Nearby: [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-live-scan/) — 7 shops, rolling fees $23–$50.
 
 ## FAQ
+
+### Where can I get Live Scan in Santa Clara?
+
+This page lists 6 DOJ-listed Live Scan sites with a Santa Clara street address. 6 take Saturday walk-ins: The UPS Store #2762, The UPS Store #6844, Certifix Live Scan dbw AD West Mail Center, Postal Annex #14024, The UPS Store #4636, The Connector Fashion Lane. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Santa Clara; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.
+
+### Do I need an appointment for Live Scan in Santa Clara?
+
+It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.
 
 
 ### Why isn't San Jose / Sunnyvale on this list?

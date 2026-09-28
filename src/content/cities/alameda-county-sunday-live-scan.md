@@ -4,9 +4,9 @@ updated: "2026-08-31"
 query: Sunday Live Scan Alameda County
 ---
 
-# Sunday Live Scan in Alameda County
+# Sunday Live Scan in Alameda County: walk-ins and other-day access
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Sunday** in Alameda County (Oakland, Berkeley, Alameda, Hayward, Fremont, San Leandro, Union City, Dublin, Livermore, Pleasanton, Newark, or anywhere else on the county dump).
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in Alameda County (Oakland, Berkeley, Alameda, Hayward, Fremont, San Leandro, Union City, Dublin, Livermore, Pleasanton, Newark, or anywhere else on the county dump). This page covers Sunday walk-in and other-day access.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop’s own page says they roll FD-258. I-9s or notary work. Saturday-only rollers (see the skip table). UPS *store* hours that say open Sunday.
 
@@ -121,8 +121,9 @@ Nearby: [Saturday walk-in Live Scan Oakland](/oakland-saturday-walk-in-live-scan
 
 ## FAQ
 
+### Can I get Live Scan on other days in Alameda County?
 
-
+Yes. Sunday shops are a small subset of the DOJ Alameda County list. Saturday walk-in pages for Oakland, Berkeley, Fremont, Hayward, and Pleasanton have other-day tables. Weekday hours were not available from DOJ on 2026-09-27. Confirm with the shop or the full DOJ county list.
 
 
 

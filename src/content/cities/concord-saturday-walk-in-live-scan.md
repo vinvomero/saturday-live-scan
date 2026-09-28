@@ -5,9 +5,11 @@ updated: "2026-09-27"
 query: "Live Scan Concord"
 ---
 
-# Saturday walk-in Live Scan in Concord
+# Live Scan in Concord
 
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** in Concord without an appointment.
+Live Scan fingerprinting in Concord: this page lists 5 DOJ-listed Live Scan sites with a Concord street address, with walk-in vs appointment, rolling fees, and other-day hours where the DOJ lists them. 5 are open Saturday for walk-ins (see Open Saturday below). It is not every DOJ site in Concord; the rest are on the [DOJ county list](https://oag.ca.gov/fingerprints/locations?county=Contra%20Costa).
+
+**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Concord: on a weekday or a Saturday, with or without an appointment.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in Walnut Creek, Pleasant Hill, Martinez, Antioch, Richmond, or elsewhere in Contra Costa County (those are other cities).
 
@@ -19,7 +21,20 @@ query: "Live Scan Concord"
 
 ## Open Saturday in Concord
 
-Saturday walk-in shops listed on the DOJ list. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**5 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** UPS #0854 at 8:30 am. Cheapest rolling fee: ** A1 Photo Lab; Postal Annex #164. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+
+## Live Scan in Concord on other days
+
+| Shop | Address | Other-day hours (DOJ, accessed 2026-09-27) | Saturday | Rolling fee (DOJ) | Source |
+| --- | --- | --- | --- | --- | --- |
+| The UPS Store #0854 | 4425-C Treat Blvd., Concord, CA 94521 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Certifix Live Scan dbw The UPS Store #0075 | 1647 Willow Pass Road, Concord, CA 94520 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| The UPS Store #7668 | 1853 Monument Blvd, Suite 6D, Concord, CA 94520 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Postal Annex #164 | 785 Oak Grove Road, Suite E2, Concord, CA 94518 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| A1 Photo Lab | 785 Oak Grove Road, Suite N, Concord, CA 94518 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+
+Other-day hours are copied from each shop's DOJ detail page. "—" means the DOJ page did not list them or could not be read that day; open the DOJ link. "Saturday only on DOJ" means DOJ lists no other day. Store hours are not fingerprint hours. Confirm with the shop before you go.
+
 
 ## How this was verified
 
@@ -83,6 +98,14 @@ Results go to the **requesting agency**, not to you (DOJ applicants page). Keep 
 ---
 
 ## FAQ
+
+### Where can I get Live Scan in Concord?
+
+This page lists 5 DOJ-listed Live Scan sites with a Concord street address. 5 take Saturday walk-ins: The UPS Store #0854, Certifix Live Scan dbw The UPS Store #0075, The UPS Store #7668, Postal Annex #164, A1 Photo Lab. Other-day hours were not available from DOJ on 2026-09-27. This is not every DOJ site in Concord; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.
+
+### Do I need an appointment for Live Scan in Concord?
+
+It depends on the shop and the day. This page shows Saturday walk-in and skip labels from DOJ. Other-day hours were not available from DOJ on 2026-09-27. Appointments may still jump the line. Confirm before you go.
 
 ### Can I walk in Saturday in Concord without an appointment?
 
