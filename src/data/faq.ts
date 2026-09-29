@@ -1256,3 +1256,46 @@ export const dublinFaq: FaqItem[] = [
     a: 'Cheapest rolling fee among INCLUDE rows: $30.00 (The UPS Store #0953 at 7172 Regional Street). Earliest Saturday open: Suraj Notary and Live Scan at 8:00 am (2883 East Castle Pines Terrace). Latest close: Suraj Notary and Live Scan at 9:00 pm. Highest INCLUDE fee: $38.00 (Suraj Notary and Live Scan).',
   },
 ];
+
+export const livermoreFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Livermore?',
+    a: 'This page lists 8 DOJ-listed Live Scan sites with a Livermore street address. 3 take Saturday walk-ins: The UPS Store #1931, The UPS Store #0476, and The UPS Store #4722. Other-day hours come from each shop\'s DOJ page where shown. This is not every DOJ site in Livermore; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Livermore?',
+    a: 'It depends on the shop and the day. On DOJ, 6 of 8 take weekday walk-ins; 2 are appointment-only on weekdays. 3 take Saturday walk-ins; 5 are Saturday appointment-only. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
+    q: 'Can I walk in Saturday in Livermore without an appointment?',
+    a: 'Yes for the 3 DOJ Saturday walk-in rows on this page (city of Livermore street addresses only): The UPS Store #1931, The UPS Store #0476, and The UPS Store #4722. The UPS Store #1931 and The UPS Store #0476 list Walk-ins and Appointments on Saturday, so appointments may still jump the line. The UPS Store #4722 lists Walk-ins only on Saturday. Five other Livermore DOJ rows are Saturday appointment-only. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. INCLUDE rolling fees on DOJ: $40.00 (The UPS Store #1931) and $45.00 (The UPS Store #0476 and The UPS Store #4722).',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'All eight Livermore DOJ rows on this page list cash plus card options. The UPS Store #1931: cash, cashier\'s check, company checks, corporate, credit, debit. The UPS Store #0476: cash, cashier\'s check, credit, debit. The UPS Store #4722: billing, cash, corporate, credit, debit. SKIP rows (Saturday appointment-only) also list cash on DOJ. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are store hours the fingerprint hours?',
+    a: 'No. Shipping / retail hours on a shop\'s own page are not Live Scan hours. Live Scan Saturday hours are the DOJ column. Example: The UPS Store #1931 lists Saturday Walk-ins and Appointments 9:00 am – 5:00 pm on DOJ. The UPS Store #4722 lists Saturday Walk-ins 9:00 am – 4:30 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t Pleasanton / Dublin / Fremont / Hayward on this list?',
+    a: 'This page is the city of Livermore only. Pleasanton, Dublin, Fremont, Hayward, Oakland, and Berkeley already have their own Live Scan pages. Castro Valley, San Leandro, and other nearby cities are other cities (accessed 2026-09-28).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Livermore?',
+    a: 'Cheapest rolling fee among INCLUDE rows: $40.00 (The UPS Store #1931 at 4435 First Street). Earliest Saturday open: The UPS Store #1931 at 9:00 am (all three INCLUDE rows open at 9:00 am). Latest close: The UPS Store #1931 and The UPS Store #0476 at 5:00 pm. Highest INCLUDE fee: $45.00 (The UPS Store #0476 and The UPS Store #4722).',
+  },
+];
