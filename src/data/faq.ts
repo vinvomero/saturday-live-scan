@@ -1299,3 +1299,46 @@ export const livermoreFaq: FaqItem[] = [
     a: 'Cheapest rolling fee among INCLUDE rows: $40.00 (The UPS Store #1931 at 4435 First Street). Earliest Saturday open: The UPS Store #1931 at 9:00 am (all three INCLUDE rows open at 9:00 am). Latest close: The UPS Store #1931 and The UPS Store #0476 at 5:00 pm. Highest INCLUDE fee: $45.00 (The UPS Store #0476 and The UPS Store #4722).',
   },
 ];
+
+export const sanLeandroFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in San Leandro?',
+    a: 'This page lists 3 DOJ-listed Live Scan sites with a San Leandro street address. 1 takes Saturday walk-ins: The UPS Store #6088. Other-day hours come from each shop\'s DOJ page where shown. This is not every DOJ site in San Leandro; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in San Leandro?',
+    a: 'It depends on the shop and the day. On DOJ, The UPS Store #6088 takes walk-ins on weekdays and Saturday; Certifix Live Scan dbw Diem Phuong Travel and Contemporary Services Corporation are weekday appointment-only with no Saturday hours on DOJ. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
+    q: 'Can I walk in Saturday in San Leandro without an appointment?',
+    a: 'Yes for the 1 DOJ Saturday walk-in row on this page (city of San Leandro street addresses only): The UPS Store #6088. That shop lists Walk-ins only on Saturday. Two other San Leandro DOJ rows have no Saturday hours on DOJ. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. INCLUDE rolling fee on DOJ: $50.00 (The UPS Store #6088). That shop also lists Additional service fees may apply on DOJ (amount UNVERIFIED).',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'All three San Leandro DOJ rows on this page list cash plus card options. The UPS Store #6088: billing, cash, cashier\'s check, corporate, credit, debit, money order. SKIP rows (no Saturday on DOJ) also list cash on DOJ. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are store hours the fingerprint hours?',
+    a: 'No. Shipping / retail hours on a shop\'s own page are not Live Scan hours. Live Scan Saturday hours are the DOJ column. Example: The UPS Store #6088 lists Saturday Walk-ins 9:00 am – 5:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t Oakland / Hayward / Castro Valley on this list?',
+    a: 'This page is the city of San Leandro only. Oakland, Hayward, Fremont, Berkeley, Pleasanton, Dublin, and Livermore already have their own Live Scan pages. Castro Valley, San Lorenzo, Alameda, and other nearby cities are other cities (accessed 2026-09-29).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in San Leandro?',
+    a: 'Cheapest rolling fee among INCLUDE rows: $50.00 (The UPS Store #6088 at 1228 Fairmont Drive). Earliest Saturday open: The UPS Store #6088 at 9:00 am. Latest close: The UPS Store #6088 at 5:00 pm. Highest INCLUDE fee: $50.00 (same shop).',
+  },
+];
