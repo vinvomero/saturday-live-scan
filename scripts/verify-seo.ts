@@ -149,6 +149,7 @@ for (const loc of [
   `${origin}redwood-city-saturday-walk-in-live-scan/`,
   `${origin}burlingame-saturday-walk-in-live-scan/`,
   `${origin}san-leandro-saturday-walk-in-live-scan/`,
+  `${origin}union-city-saturday-walk-in-live-scan/`,
   `${origin}faq/`,
 ]) {
   if (!sitemap.includes(`<loc>${loc}</loc>`)) fail(`sitemap missing ${loc}`);
@@ -180,6 +181,7 @@ for (const loc of [
   `${origin}redwood-city-saturday-walk-in-live-scan/`,
   `${origin}burlingame-saturday-walk-in-live-scan/`,
   `${origin}san-leandro-saturday-walk-in-live-scan/`,
+  `${origin}union-city-saturday-walk-in-live-scan/`,
   `${origin}faq/`,
 ]) {
   if (!llms.includes(loc)) fail(`llms.txt missing ${loc}`);
@@ -285,6 +287,7 @@ function checkPage(
     `${base}redwood-city-saturday-walk-in-live-scan/`,
     `${base}burlingame-saturday-walk-in-live-scan/`,
     `${base}san-leandro-saturday-walk-in-live-scan/`,
+    `${base}union-city-saturday-walk-in-live-scan/`,
     `${base}faq/`,
   ]) {
     if (!html.includes(`href="${href}"`)) fail(`${rel}: missing internal link ${href}`);
@@ -562,9 +565,9 @@ const cityFiles = [
   'san-jose-saturday-walk-in-live-scan', 'san-leandro-saturday-walk-in-live-scan',
   'san-mateo-saturday-walk-in-live-scan', 'santa-clara-saturday-walk-in-live-scan',
   'south-san-francisco-saturday-walk-in-live-scan', 'sunnyvale-saturday-walk-in-live-scan',
-  'walnut-creek-saturday-walk-in-live-scan', 'oakland-saturday-cash-live-scan',
-  'oakland-saturday-teacher-credential-live-scan', 'oakland-saturday-downtown-vs-fruitvale-live-scan',
-  'alameda-county-sunday-live-scan',
+  'union-city-saturday-walk-in-live-scan', 'walnut-creek-saturday-walk-in-live-scan',
+  'oakland-saturday-cash-live-scan', 'oakland-saturday-teacher-credential-live-scan',
+  'oakland-saturday-downtown-vs-fruitvale-live-scan', 'alameda-county-sunday-live-scan',
 ];
 const cityTitles: string[] = [];
 const cityPrefixes: string[] = [];

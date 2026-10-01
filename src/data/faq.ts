@@ -1342,3 +1342,46 @@ export const sanLeandroFaq: FaqItem[] = [
     a: 'Cheapest rolling fee among INCLUDE rows: $50.00 (The UPS Store #6088 at 1228 Fairmont Drive). Earliest Saturday open: The UPS Store #6088 at 9:00 am. Latest close: The UPS Store #6088 at 5:00 pm. Highest INCLUDE fee: $50.00 (same shop).',
   },
 ];
+
+export const unionCityFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Union City?',
+    a: 'This page lists 4 DOJ-listed Live Scan sites with a Union City street address. 3 take Saturday walk-ins: Naka Tax & Insurance Services LLC, The UPS Store #3145, and VanLang Immigration & Tax LLC. Other-day hours come from each shop\'s DOJ page where shown. This is not every DOJ site in Union City; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Union City?',
+    a: 'It depends on the shop and the day. On DOJ, Naka Tax & Insurance Services LLC and The UPS Store #3145 take walk-ins and appointments on weekdays and Saturday; VanLang Immigration & Tax LLC takes walk-ins and appointments on weekdays and Saturday (Sunday is appointment-only on DOJ); Total Multi Services Inc takes weekday walk-ins but is Saturday appointment-only. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
+    q: 'Can I walk in Saturday in Union City without an appointment?',
+    a: 'Yes for the 3 DOJ Saturday walk-in rows on this page (city of Union City street addresses only): Naka Tax & Insurance Services LLC, The UPS Store #3145, and VanLang Immigration & Tax LLC. Those shops list Walk-ins & Appointments on Saturday. One other Union City DOJ row is Saturday Appt. only on DOJ. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. INCLUDE rolling fees on DOJ: $30.00 (Naka Tax & Insurance Services LLC; VanLang Immigration & Tax LLC) and $35.00 (The UPS Store #3145).',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'All four Union City DOJ rows on this page list cash. Naka Tax & Insurance Services LLC: billing, cash, checks. The UPS Store #3145: cash, corporate, credit, debit. VanLang Immigration & Tax LLC: cash, cashier\'s check, credit, debit. SKIP row (Saturday Appt. only) also lists cash on DOJ. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are store hours the fingerprint hours?',
+    a: 'No. Shipping / retail hours on a shop\'s own page are not Live Scan hours. Live Scan Saturday hours are the DOJ column. Example: Naka Tax & Insurance Services LLC lists Saturday Walk-ins & Appointments 9:00 am – 8:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t Fremont / Newark / Hayward on this list?',
+    a: 'This page is the city of Union City only. Fremont, Hayward, Oakland, Berkeley, Pleasanton, Dublin, Livermore, and San Leandro already have their own Live Scan pages. Newark and other nearby cities are other cities (accessed 2026-09-30).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Union City?',
+    a: 'Cheapest rolling fee among INCLUDE rows: $30.00 (Naka Tax & Insurance Services LLC at 31824 Alvarado Blvd; tied with VanLang Immigration & Tax LLC at 32611 Alvarado Blvd, Suite A). Earliest Saturday open: Naka Tax & Insurance Services LLC at 9:00 am (tied with The UPS Store #3145). Latest close: Naka Tax & Insurance Services LLC at 8:00 pm. Highest INCLUDE fee: $35.00 (The UPS Store #3145).',
+  },
+];
