@@ -1,6 +1,6 @@
 ---
-title: "Live Scan in San Jose: hours, walk-ins, Saturday options"
-description: "Live Scan fingerprinting in San Jose: 19 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 19 open Saturday for walk-ins. Confirm before you go."
+title: "Live Scan San Jose Open Saturday: 19 Walk-Ins From $20"
+description: "19 San Jose shops take Live Scan walk-ins on Saturday, per the CA DOJ list. UPS #0793 on De Anza is $20, open 10am to 6pm. Five open at 9am."
 updated: "2026-09-27"
 query: "Live Scan San Jose"
 ---
@@ -21,7 +21,7 @@ Live Scan fingerprinting in San Jose: this page lists 20 DOJ-listed Live Scan si
 
 ## Open Saturday in San Jose
 
-**19 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: 00 am):** Insightful Notary, Long Luc, UPS #1330, UPS #6497, UPS #0134. Cheapest rolling fee: ** UPS #0793 $20. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**19 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open (9:00 am): Insightful Notary, Long Luc, UPS #1330, UPS #6497, UPS #0134. Cheapest rolling fee: UPS #0793 $20. Cash only on DOJ: Long Luc Insurance Agency and Certifix at Mailbox & More. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## Live Scan in San Jose on other days
 

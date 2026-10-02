@@ -1,6 +1,6 @@
 ---
-title: "Live Scan in South San Francisco: hours, walk-ins, Saturday options"
-description: "Live Scan fingerprinting in South San Francisco: 1 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 1 open Saturday for walk-ins. Confirm before you go."
+title: "Live Scan South San Francisco: UPS #1468 Open Saturday"
+description: "One South San Francisco shop takes Live Scan walk-ins on Saturday, per the CA DOJ list: The UPS Store #1468, 9am to 5pm, $39.99. Cash and cards OK."
 updated: "2026-09-27"
 query: "Live Scan South San Francisco"
 ---
@@ -11,7 +11,7 @@ Live Scan fingerprinting in South San Francisco: this page lists 1 DOJ-listed Li
 
 **Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of South San Francisco: on a weekday or a Saturday, with or without an appointment.
 
-**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in Daly City, San Francisco, San Bruno, Pacifica, Burlingame, Millbrae, San Mateo, Redwood City, or elsewhere in San Mateo County (those are other cities — Daly City and San Francisco already have their own pages).
+**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in other San Mateo County cities (Daly City and San Francisco already have their own pages).
 
 **Updated:** 2026-09-12  
 **Query this page answers:** "Saturday walk-in Live Scan South San Francisco"
@@ -21,7 +21,7 @@ Live Scan fingerprinting in South San Francisco: this page lists 1 DOJ-listed Li
 
 ## Open Saturday in South San Francisco
 
-**1 Saturday walk-in shop** on the DOJ list (accessed 2026-08-29). Earliest open: ** The UPS Store #1468 at 9:00 am. Cheapest rolling fee: ** The UPS Store #1468 $39. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**1 Saturday walk-in shop** on the DOJ list (accessed 2026-08-29). Earliest open: The UPS Store #1468 at 9:00 am. Cheapest rolling fee: The UPS Store #1468 $39.99. Cash only on DOJ: none (lists cash and other methods). The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## Live Scan in South San Francisco on other days
 

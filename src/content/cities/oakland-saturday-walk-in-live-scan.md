@@ -1,6 +1,6 @@
 ---
-title: "Live Scan in Oakland: hours, walk-ins, Saturday options"
-description: "Live Scan fingerprinting in Oakland: 12 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 7 open Saturday for walk-ins. Confirm before you go."
+title: "Live Scan Oakland: 7 Saturday Walk-In Shops From $23"
+description: "7 Oakland shops take Live Scan walk-ins on Saturday, per the CA DOJ list, including Certifix on Piedmont and UPS on Redwood Rd. $23 to $50. All take cash."
 updated: "2026-09-27"
 query: "Live Scan Oakland"
 ---
@@ -10,8 +10,6 @@ query: "Live Scan Oakland"
 Live Scan fingerprinting in Oakland: this page lists 7 DOJ-listed Live Scan sites with a Oakland street address, with walk-in vs appointment, rolling fees, and other-day hours where the DOJ lists them. 7 are open Saturday for walk-ins (see Open Saturday below). It is not every DOJ site in Oakland; the rest are on the [DOJ county list](https://oag.ca.gov/fingerprints/locations?county=Alameda).
 
 **Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Oakland: on a weekday or a Saturday, with or without an appointment.
-
-**Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints **this Saturday** without an appointment.
 
 **Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop’s own page says they roll FD-258. I-9s or notary work.
 

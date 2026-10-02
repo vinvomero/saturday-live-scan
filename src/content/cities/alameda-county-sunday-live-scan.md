@@ -1,5 +1,6 @@
 ---
-title: Sunday Live Scan in Alameda County
+title: "Sunday Live Scan in Alameda County: 13 Walk-In Shops"
+description: "13 Alameda County shops take Live Scan walk-ins on Sunday, per the CA DOJ list. Fees from $30. Naka Tax in Union City and Suraj in Dublin open at 9am."
 updated: "2026-08-31"
 query: Sunday Live Scan Alameda County
 ---

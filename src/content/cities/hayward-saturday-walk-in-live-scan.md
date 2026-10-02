@@ -21,7 +21,7 @@ Live Scan fingerprinting in Hayward: this page lists 4 DOJ-listed Live Scan site
 
 ## Open Saturday in Hayward
 
-**4 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** four-way tie at 10:00 am. Cheapest rolling fee: ** WellnessMart, MD. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**4 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: four-way tie at 10:00 am. Cheapest rolling fee: WellnessMart, MD $31.00 (credit/debit only, no cash). Cash only on DOJ: none. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## Live Scan in Hayward on other days
 

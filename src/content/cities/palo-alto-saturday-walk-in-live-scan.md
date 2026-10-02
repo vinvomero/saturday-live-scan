@@ -1,6 +1,6 @@
 ---
-title: "Live Scan in Palo Alto: hours, walk-ins, Saturday options"
-description: "Live Scan fingerprinting in Palo Alto: 3 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 3 open Saturday for walk-ins. Confirm before you go."
+title: "Live Scan Palo Alto: 2 Saturday Walk-Ins, UPS From $35"
+description: "2 Palo Alto shops take Live Scan walk-ins on Saturday, per the CA DOJ list. The UPS Store #6105 is $35 and open 10am to 6pm. Certifix at Green Mail is $40."
 updated: "2026-09-27"
 query: "Live Scan Palo Alto"
 ---
@@ -11,7 +11,7 @@ Live Scan fingerprinting in Palo Alto: this page lists 3 DOJ-listed Live Scan si
 
 **Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Palo Alto: on a weekday or a Saturday, with or without an appointment.
 
-**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in Mountain View, Sunnyvale, Los Altos, Los Altos Hills, Menlo Park, Redwood City, Santa Clara, San Jose, Cupertino, Milpitas, Campbell, or elsewhere in Santa Clara County (those are other cities — Mountain View, Sunnyvale, Santa Clara, and San Jose already have their own pages).
+**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in other Santa Clara County cities (Mountain View, Sunnyvale, Santa Clara, and San Jose already have their own pages).
 
 **Updated:** 2026-09-23  
 **Query this page answers:** "Saturday walk-in Live Scan Palo Alto"
@@ -21,7 +21,7 @@ Live Scan fingerprinting in Palo Alto: this page lists 3 DOJ-listed Live Scan si
 
 ## Open Saturday in Palo Alto
 
-**2 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** two-way tie at 10:00 am (UPS #6105 + Certifix Green Mail). Cheapest rolling fee: ** The UPS Store #6105 $35. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**2 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: two-way tie at 10:00 am (UPS #6105 + Certifix Green Mail). Cheapest rolling fee: The UPS Store #6105 $35. Cash only on DOJ: none (both list cash and other methods). The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## Live Scan in Palo Alto on other days
 

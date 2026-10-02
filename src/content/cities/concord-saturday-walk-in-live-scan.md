@@ -21,7 +21,7 @@ Live Scan fingerprinting in Concord: this page lists 5 DOJ-listed Live Scan site
 
 ## Open Saturday in Concord
 
-**5 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** UPS #0854 at 8:30 am. Cheapest rolling fee: ** A1 Photo Lab; Postal Annex #164. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**5 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: UPS #0854 at 8:30 am. Cheapest rolling fee: A1 Photo Lab; Postal Annex #164. Cash only on DOJ: none (all list cash and other methods). The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## Live Scan in Concord on other days
 

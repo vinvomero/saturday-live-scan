@@ -1,6 +1,6 @@
 ---
-title: "Live Scan in Daly City: hours, walk-ins, Saturday options"
-description: "Live Scan fingerprinting in Daly City: 4 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 4 open Saturday for walk-ins. Confirm before you go."
+title: "Live Scan Daly City: 4 Saturday Walk-Ins, UPS From $39.99"
+description: "4 Daly City shops take Live Scan walk-ins on Saturday, per the CA DOJ list. UPS #6096 is $39.99, 9am to 5pm. Certifix at UPS #0966 is open until 6pm."
 updated: "2026-09-27"
 query: "Live Scan Daly City"
 ---
@@ -11,7 +11,7 @@ Live Scan fingerprinting in Daly City: this page lists 6 DOJ-listed Live Scan si
 
 **Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Daly City: on a weekday or a Saturday, with or without an appointment.
 
-**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in San Francisco, South San Francisco, San Bruno, Pacifica, Burlingame, Millbrae, San Mateo, Redwood City, or elsewhere in San Mateo County (those are other cities — San Francisco already has its own page).
+**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in other San Mateo County cities (San Francisco already has its own page).
 
 **Updated:** 2026-09-11  
 **Query this page answers:** "Saturday walk-in Live Scan Daly City"
@@ -21,7 +21,7 @@ Live Scan fingerprinting in Daly City: this page lists 6 DOJ-listed Live Scan si
 
 ## Open Saturday in Daly City
 
-**4 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** The UPS Store #6096 at 9:00 am. Cheapest rolling fee: ** The UPS Store #6096 $39. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**4 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: The UPS Store #6096 at 9:00 am. Cheapest rolling fee: The UPS Store #6096 $39.99. Cash only on DOJ: none (all list cash and other methods). The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## Live Scan in Daly City on other days
 

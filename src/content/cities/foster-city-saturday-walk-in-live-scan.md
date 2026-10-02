@@ -11,7 +11,7 @@ Live Scan fingerprinting in Foster City: this page lists 3 DOJ-listed Live Scan 
 
 **Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Foster City: on a weekday or a Saturday, with or without an appointment.
 
-**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in Belmont, San Mateo, Burlingame, Menlo Park, Millbrae, Pacifica, San Bruno, South San Francisco, Daly City, Redwood City, San Francisco, or elsewhere in San Mateo County (those are other cities — Belmont, Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own pages).
+**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in other San Mateo County cities (Belmont, Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own pages).
 
 **Updated:** 2026-09-18  
 **Query this page answers:** "Saturday walk-in Live Scan Foster City"
@@ -21,7 +21,7 @@ Live Scan fingerprinting in Foster City: this page lists 3 DOJ-listed Live Scan 
 
 ## Open Saturday in Foster City
 
-**2 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** The UPS Store #4153 at 10:00 am. Cheapest rolling fee: ** $40. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**2 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: The UPS Store #4153 at 10:00 am. Cheapest rolling fee: $40. Cash only on DOJ: none (both list cash and other methods). The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## Live Scan in Foster City on other days
 

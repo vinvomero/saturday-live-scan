@@ -11,7 +11,7 @@ Live Scan fingerprinting in San Mateo: this page lists 1 DOJ-listed Live Scan si
 
 **Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of San Mateo: on a weekday or a Saturday, with or without an appointment.
 
-**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in Burlingame, Belmont, Foster City, Menlo Park, Millbrae, Pacifica, San Bruno, South San Francisco, Daly City, Redwood City, San Francisco, or elsewhere in San Mateo County (those are other cities — Daly City, South San Francisco, Redwood City, Burlingame, and San Francisco already have their own pages).
+**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in other San Mateo County cities (Daly City, South San Francisco, Redwood City, Burlingame, and San Francisco already have their own pages).
 
 **Updated:** 2026-09-16  
 **Query this page answers:** "Saturday walk-in Live Scan San Mateo"
@@ -21,7 +21,7 @@ Live Scan fingerprinting in San Mateo: this page lists 1 DOJ-listed Live Scan si
 
 ## Open Saturday in San Mateo
 
-**1 Saturday walk-in shop** on the DOJ list (accessed 2026-08-29). Earliest open: ** The UPS Store #0294 at 11:00 am. Cheapest rolling fee: ** $45. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**1 Saturday walk-in shop** on the DOJ list (accessed 2026-08-29). Earliest open: The UPS Store #0294 at 11:00 am. Cheapest rolling fee: $45. Cash only on DOJ: none (lists cash and other methods). The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## Live Scan in San Mateo on other days
 

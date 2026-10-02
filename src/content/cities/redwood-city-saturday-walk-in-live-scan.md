@@ -11,7 +11,7 @@ Live Scan fingerprinting in Redwood City: this page lists 5 DOJ-listed Live Scan
 
 **Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Redwood City: on a weekday or a Saturday, with or without an appointment.
 
-**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in San Bruno, South San Francisco, Daly City, Pacifica, Burlingame, San Mateo, Belmont, Foster City, Menlo Park, Millbrae, San Francisco, or elsewhere in San Mateo County (those are other cities — Daly City, South San Francisco, and San Francisco already have their own pages).
+**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in other San Mateo County cities (Daly City, South San Francisco, and San Francisco already have their own pages).
 
 **Updated:** 2026-09-14  
 **Query this page answers:** "Saturday walk-in Live Scan Redwood City"
@@ -21,7 +21,7 @@ Live Scan fingerprinting in Redwood City: this page lists 5 DOJ-listed Live Scan
 
 ## Open Saturday in Redwood City
 
-**5 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: 00 am):** Postal Annex #4018, Mishsharm UPS #2766, UPS #7463. Cheapest rolling fee: ** Pack and Mail Express $35. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**5 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open (9:00 am): Postal Annex #4018, Mishsharm UPS #2766, UPS #7463. Cheapest rolling fee: Pack and Mail Express $35. Cash only on DOJ: none (all list cash and at least one other method). The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## Live Scan in Redwood City on other days
 

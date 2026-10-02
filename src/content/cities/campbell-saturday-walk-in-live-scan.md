@@ -11,7 +11,7 @@ Live Scan fingerprinting in Campbell: this page lists 4 DOJ-listed Live Scan sit
 
 **Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Campbell: on a weekday or a Saturday, with or without an appointment.
 
-**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in Cupertino, San Jose, Santa Clara, Sunnyvale, Los Gatos, Saratoga, Milpitas, Mountain View, Palo Alto, or elsewhere in Santa Clara County (those are other cities — San Jose, Santa Clara, Sunnyvale, Mountain View, Palo Alto, and Milpitas already have their own pages). Cupertino was checked on DOJ tonight with 0 Saturday walk-ins (Sheriff weekday appointment-only only). Los Altos has no Saturday walk-in page (blocked — do not invent). Mobile-only providers with no Campbell street address on DOJ.
+**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in other Santa Clara County cities (San Jose, Santa Clara, Sunnyvale, Mountain View, Palo Alto, and Milpitas already have their own pages). Mobile-only providers with no Campbell street address on DOJ.
 
 **Updated:** 2026-09-27  
 **Query this page answers:** "Live Scan Campbell"

@@ -21,7 +21,7 @@ Live Scan fingerprinting in Pleasanton: this page lists 5 DOJ-listed Live Scan s
 
 ## Open Saturday in Pleasanton
 
-**2 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** The UPS Store #6291 at 9:00 am. Cheapest rolling fee: ** The UPS Store #0345 $30. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**2 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: The UPS Store #6291 at 9:00 am. Cheapest rolling fee: The UPS Store #0345 $30. Cash only on DOJ: none (both list cash and other methods). The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## Live Scan in Pleasanton on other days
 
