@@ -327,7 +327,7 @@ if (alameda) {
   if (!alameda.includes('Sunday')) fail('alameda HTML missing Sunday');
 }
 const sanFrancisco = checkPage('san-francisco-saturday-walk-in-live-scan/index.html', {
-  title: 'Live Scan in San Francisco: hours, walk-ins, Saturday options',
+  title: 'Live Scan San Francisco: Saturday Walk-In Options',
   canonical: `${origin}san-francisco-saturday-walk-in-live-scan/`,
   types: ['WebPage', 'FAQPage', 'BreadcrumbList'],
   faq: true,
@@ -349,7 +349,7 @@ if (oaklandCash) {
 }
 
 const oaklandTeacher = checkPage('oakland-saturday-teacher-credential-live-scan/index.html', {
-  title: 'Teacher credential Live Scan in Oakland: Form 41-LS, Saturday options',
+  title: 'Teacher Credential Live Scan Oakland: Form 41-LS',
   canonical: `${origin}oakland-saturday-teacher-credential-live-scan/`,
   types: ['WebPage', 'FAQPage', 'BreadcrumbList'],
   faq: true,
@@ -360,7 +360,7 @@ if (oaklandTeacher) {
 }
 
 const oaklandDowntown = checkPage('oakland-saturday-downtown-vs-fruitvale-live-scan/index.html', {
-  title: 'Downtown vs Fruitvale Live Scan in Oakland: hours, walk-ins, Saturday options',
+  title: 'Oakland Live Scan: Downtown vs Fruitvale Saturday',
   canonical: `${origin}oakland-saturday-downtown-vs-fruitvale-live-scan/`,
   types: ['WebPage', 'FAQPage', 'BreadcrumbList'],
   faq: true,

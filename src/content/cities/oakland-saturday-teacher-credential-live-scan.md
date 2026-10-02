@@ -1,5 +1,5 @@
 ---
-title: "Teacher credential Live Scan in Oakland: Form 41-LS, Saturday options"
+title: "Teacher Credential Live Scan Oakland: Form 41-LS"
 description: "Teacher credential Live Scan in Oakland: Form 41-LS for CTC. 7 Saturday walk-in shops. Hours, walk-in vs appointment, fees. Confirm before you go."
 updated: "2026-09-27"
 query: "Teacher credential Live Scan Oakland"
