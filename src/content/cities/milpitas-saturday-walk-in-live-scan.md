@@ -79,7 +79,7 @@ Sorted by Saturday open time, then rolling fee. "Walk-ins" alone means DOJ lists
 | --- | --- | --- |
 | Oclarit Insurance Agency, Inc. | Saturday **appointment-only** 10:00 am–3:00 pm on DOJ (Weekdays Walk-ins & Appointments 9:00 am–5:00 pm). Fee $30.00; **no Cash** on DOJ (billing accounts, cashier's check, company checks, corporate accounts, credit, debit, money order); Mobile Yes; Additional service fees may apply; phone (408) 854-4274; 16 Corning Avenue, Suite #266, Milpitas, CA 95035. | [DOJ detail](https://oag.ca.gov/fingerprints/locations/oclarit-insurance-agency-inc) |
 
-Shops in San Jose, Fremont, Santa Clara, Sunnyvale, Newark, Union City, Cupertino, Campbell, and other Santa Clara County cities are **other cities** (not listed here). San Jose, Fremont, Santa Clara, and Sunnyvale already have their own Saturday walk-in pages.
+Shops in other Santa Clara County cities and nearby areas are **other cities** (not listed here). San Jose, Fremont, Santa Clara, and Sunnyvale already have their own Saturday walk-in pages.
 
 ## The official list still lies
 
@@ -131,7 +131,7 @@ No. Notary / shipping hours on a shop's own page are not Live Scan hours. Live S
 
 ### Why isn't San Jose / Fremont / Santa Clara / Sunnyvale on this list?
 
-This page is the **city of Milpitas** only. San Jose, Fremont, Santa Clara, and Sunnyvale already have their own Saturday walk-in pages. Newark, Union City, Cupertino, Campbell, and other nearby cities are other cities (accessed 2026-09-24).
+This page is the **city of Milpitas** only. San Jose, Fremont, Santa Clara, and Sunnyvale already have their own Saturday walk-in pages. Other nearby cities are separate cities (accessed 2026-09-24).
 
 ### Do I get the results?
 

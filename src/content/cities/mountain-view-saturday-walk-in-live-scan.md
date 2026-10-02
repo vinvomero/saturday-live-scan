@@ -30,7 +30,7 @@ Live Scan fingerprinting in Mountain View: this page lists 5 DOJ-listed Live Sca
 | Mail All Center | 809 Cuesta Drive, Suite B, Mountain View, CA 94040 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
 | WellnessMart, MD | 1901 Old Middlefield Way, Suite #1, Mountain View, CA 94043 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
 | The UPS Store #1847 | 650 Castro Street Ste 120, Mountain View, CA 94041 | — | Walk-ins (see Open Saturday) | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
-| Mountain View Los Altos Adult School | — | — | No Saturday | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
+| Mountain View Adult School | — | — | No Saturday | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
 | Mountain View Police Department | — | — | No Saturday | — | [DOJ county table](https://oag.ca.gov/fingerprints/locations) |
 
 Other-day hours are copied from each shop's DOJ detail page. "—" means the DOJ page did not list them or could not be read that day; open the DOJ link. "Saturday only on DOJ" means DOJ lists no other day. Store hours are not fingerprint hours. Confirm with the shop before you go.
@@ -80,10 +80,10 @@ Sorted by Saturday open time, then rolling fee. "Walk-ins & appointments" means 
 
 | Name | Why skipped | Source (accessed 2026-09-22) |
 | --- | --- | --- |
-| Mountain View Los Altos Adult School | Weekdays appointment-only (10:00 am–11:30 am; 1:30 pm–3:15 pm) on DOJ — **no Saturday**. Fee $23.00; Cash + Credit/Debit; phone (650) 940-1333; 333 Moffett Blvd, Mountain View, CA 94043. | [DOJ detail](https://oag.ca.gov/fingerprints/locations/mountain-view-los-altos-adult-school) |
+| Mountain View Adult School | Weekdays appointment-only (10:00 am–11:30 am; 1:30 pm–3:15 pm) on DOJ — **no Saturday**. Fee $23.00; Cash + Credit/Debit; phone (650) 940-1333; 333 Moffett Blvd, Mountain View, CA 94043. | [DOJ detail](https://oag.ca.gov/fingerprints/locations/mountain-view-los-altos-adult-school) |
 | Mountain View Police Department | Tuesday / Wednesday / Thursday appointment-only 10:00 am–3:00 pm on DOJ — **no Saturday**. Fee $20.00; Cash +; phone (650) 903-6344; 1000 Villa Street, Mountain View, CA 94041. | [DOJ detail](https://oag.ca.gov/fingerprints/locations/mountain-view-police-department) |
 
-Shops in Sunnyvale, Palo Alto, Los Altos, Cupertino, Santa Clara, San Jose, Milpitas, Campbell, Los Gatos, and other Santa Clara County cities are **other cities** (not listed here). Sunnyvale, Santa Clara, and San Jose already have their own Saturday walk-in pages.
+Shops in other Santa Clara County cities are **other cities** (not listed here). Sunnyvale, Santa Clara, and San Jose already have their own Saturday walk-in pages.
 
 ## The official list still lies
 
@@ -127,7 +127,7 @@ No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are th
 
 ### Why isn't Sunnyvale / Santa Clara / San Jose / Palo Alto on this list?
 
-This page is the **city of Mountain View** only. Sunnyvale, Santa Clara, and San Jose already have their own Saturday walk-in pages. Palo Alto, Los Altos, Cupertino, Milpitas, Campbell, Los Gatos, and other Santa Clara County cities are other cities (accessed 2026-09-22).
+This page is the **city of Mountain View** only. Sunnyvale, Santa Clara, and San Jose already have their own Saturday walk-in pages. Other nearby Santa Clara County cities are separate cities (accessed 2026-09-22).
 
 ### Do I get the results?
 

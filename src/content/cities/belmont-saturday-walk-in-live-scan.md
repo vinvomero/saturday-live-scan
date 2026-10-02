@@ -77,7 +77,7 @@ Sorted by Saturday open time, then rolling fee. "Walk-ins & appointments" means 
 | --- | --- | --- |
 | Certifix Live Scan dbw The UPS Store #6084 (1025 Alameda De La Pulgas, Belmont, CA 94002) | **Saturday appointment-only** 11:00 am – 3:00 pm on DOJ. Rolling $80.00 (highest fee in the city, but not walk-in). Phone 1 (650) 517-7587. Weekdays are Appt. only — not Saturday walk-in. Mobile Services Available on DOJ (mobile fee UNVERIFIED). | [DOJ detail](https://oag.ca.gov/fingerprints/locations/certifix-dbw-ups-store-20) |
 
-Shops in San Mateo, Burlingame, Foster City, Menlo Park, Millbrae, Pacifica, San Bruno, South San Francisco, Daly City, Redwood City, San Francisco, and other San Mateo County cities are **other cities** (not listed here). Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages.
+Shops in other San Mateo County cities are **other cities** (not listed here). Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages.
 
 ## The official list still lies
 
@@ -119,9 +119,9 @@ WellnessMart lists billing / corporate / credit on DOJ but no Cash (and no Debit
 
 No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Example: UPS Store #0426 lists Saturday Walk-ins & Appointments 9:00 am – 3:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.
 
-### Why isn't San Mateo / Burlingame / Daly City / Pacifica on this list?
+### Why isn't San Mateo / Burlingame / Daly City on this list?
 
-This page is the **city of Belmont** only. Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages. San Bruno and Pacifica were previously researched with zero Saturday walk-ins — no pages. Foster City, Menlo Park, Millbrae, and other San Mateo County cities are other cities (accessed 2026-09-17).
+This page is the **city of Belmont** only. Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages. Other nearby San Mateo County cities are separate cities (accessed 2026-09-17).
 
 ### Do I get the results?
 

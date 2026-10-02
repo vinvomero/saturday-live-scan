@@ -75,7 +75,7 @@ Sorted by Saturday open time, then rolling fee. "Walk-ins & appointments" means 
 | --- | --- | --- |
 | A+ Mailboxes & More (1614 South El Camino Real, San Mateo, CA 94402) | **Saturday appointment-only** 10:00 am – 5:00 pm on DOJ. Rolling $40.00 (cheapest fee in the city, but not walk-in). Phone (650) 557-2100. Weekdays are Walk-ins & Appointments — not Saturday walk-in. Mobile Services Available on DOJ (mobile fee UNVERIFIED). | [DOJ detail](https://oag.ca.gov/fingerprints/locations/mailboxes-more) |
 
-Shops in Burlingame, Belmont, Foster City, Menlo Park, Millbrae, Pacifica, San Bruno, South San Francisco, Daly City, Redwood City, San Francisco, and other San Mateo County cities are **other cities** (not listed here). Daly City, South San Francisco, Redwood City, Burlingame, and San Francisco already have their own Saturday walk-in pages.
+Shops in other San Mateo County cities are **other cities** (not listed here). Daly City, South San Francisco, Redwood City, Burlingame, and San Francisco already have their own Saturday walk-in pages.
 
 ## The official list still lies
 
@@ -117,9 +117,9 @@ The INCLUDE row lists Cash plus card options on DOJ (billing accounts, cash, cas
 
 No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Example: UPS #0294 lists Saturday Walk-ins & Appointments 11:00 am – 4:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.
 
-### Why isn't Daly City / South San Francisco / Redwood City / Burlingame / Pacifica on this list?
+### Why isn't Daly City / South San Francisco / Redwood City / Burlingame on this list?
 
-This page is the **city of San Mateo** only. Daly City, South San Francisco, Redwood City, Burlingame, and San Francisco already have their own Saturday walk-in pages. San Bruno and Pacifica were previously researched with zero Saturday walk-ins — no pages. Belmont, Foster City, Menlo Park, Millbrae, and other San Mateo County cities are other cities (accessed 2026-09-16).
+This page is the **city of San Mateo** only. Daly City, South San Francisco, Redwood City, Burlingame, and San Francisco already have their own Saturday walk-in pages. Other nearby San Mateo County cities are separate cities (accessed 2026-09-16).
 
 ### Do I get the results?
 

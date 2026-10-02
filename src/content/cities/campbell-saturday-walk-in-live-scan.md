@@ -40,7 +40,6 @@ Rows below are **only** shops whose **Campbell city street address** is on the C
 - Primary: [CA DOJ Live Scan locations, Santa Clara County](https://oag.ca.gov/fingerprints/locations?county=Santa%20Clara) (accessed 2026-09-26)
 - Per-location DOJ pages linked in each row (accessed 2026-09-26)
 - Operator pages were **not** used to create rows. Nobody was called.
-- Night-33 lock started on Cupertino (0 INCLUDE) → Campbell is the first qualifying fallback.
 
 **Nobody was called.** DOJ itself says to confirm hours and fees before you go. If a cell could not be verified, it is marked **UNVERIFIED**.
 
@@ -79,9 +78,8 @@ Sorted by Saturday open time, then rolling fee. "Walk-ins & appointments" means 
 | --- | --- | --- |
 | Bay Area Solutions | **No Saturday** hours on DOJ (Mon–Fri Walk-ins & Appointments only). Address 2100 S. Bascom Avenue, Suite 1, Campbell, CA 95008; fee $29.00; Cash+; phone (408) 377-7446; Mobile Yes; Additional service fees may apply. | [DOJ detail](https://oag.ca.gov/fingerprints/locations/bay-area-solutions) |
 | The UPS Store #1949 | Saturday **appointment-only** on DOJ (empty Saturday times). Address 1608 W. Campbell Avenue, Campbell, CA 95008; fee $20.00; Cash+; phone (408) 370-1608; Mobile Yes; Additional service fees may apply. Weekdays Walk-ins 9:00 am–5:00 pm on DOJ. | [DOJ detail](https://oag.ca.gov/fingerprints/locations/ups-store-1949) |
-| Santa Clara Co. Sheriff's Dept. (Cupertino) | Cupertino city node checked tonight — **no Saturday** (Weekdays Appt. only 8:30 am–4:30 pm). Address 1601 S. De Anza Blvd, Suite 148, Cupertino, CA 95014; fee $20.00; Cash, Checks; phone (408) 868-6614. Not a Campbell street row; listed because Cupertino was the Night-33 primary lock with 0 INCLUDE. | [DOJ detail](https://oag.ca.gov/fingerprints/locations/santa-clara-co-sheriffs-dept-1) |
 
-Shops in Cupertino, San Jose, Santa Clara, Sunnyvale, Los Gatos, Saratoga, Milpitas, Mountain View, Palo Alto, and other Santa Clara County cities are **other cities** (not listed here as Campbell INCLUDE rows). San Jose, Santa Clara, Sunnyvale, Mountain View, Palo Alto, and Milpitas already have their own Saturday walk-in pages. Los Altos remains blocked (no page).
+Shops in other Santa Clara County cities are **other cities** (not listed here as Campbell INCLUDE rows). San Jose, Santa Clara, Sunnyvale, Mountain View, Palo Alto, and Milpitas already have their own Saturday walk-in pages.
 
 ## The official list still lies
 
@@ -105,7 +103,7 @@ It depends on the shop and the day. On DOJ, Verify Group, Inc. and WellnessMart,
 
 ### Can I walk in Saturday in Campbell without an appointment?
 
-Yes for the 2 DOJ Saturday walk-in rows on this page (city of Campbell street addresses only): Verify Group, Inc. and WellnessMart, MD. Both list Walk-ins & Appointments on Saturday, so appointments may still jump the line. Bay Area Solutions has no Saturday hours; The UPS Store #1949 is Saturday appointment-only. Cupertino's only DOJ node (Sheriff) is weekday appointment-only. Nobody was called.
+Yes for the 2 DOJ Saturday walk-in rows on this page (city of Campbell street addresses only): Verify Group, Inc. and WellnessMart, MD. Both list Walk-ins & Appointments on Saturday, so appointments may still jump the line. Bay Area Solutions has no Saturday hours; The UPS Store #1949 is Saturday appointment-only. Nobody was called.
 
 ### What do I bring?
 
@@ -123,9 +121,9 @@ Verify Group, Inc. lists cash plus checks, billing, corporate, credit, and debit
 
 No. Shipping / retail hours on a shop's own page are not Live Scan hours. Live Scan Saturday hours are the DOJ column. Example: Verify Group, Inc. lists Saturday Walk-ins & Appointments 9:00 am – 12:00 pm on DOJ. WellnessMart lists two Saturday blocks with a lunch gap (10:00 am–12:15 pm and 1:00 pm–4:00 pm). Those are fingerprint hours from DOJ, not a promise that every retail service is open.
 
-### Why isn't Cupertino / San Jose / Sunnyvale / Milpitas on this list?
+### Why isn't San Jose / Santa Clara / Sunnyvale on this list?
 
-This page is the **city of Campbell** only. San Jose, Santa Clara, Sunnyvale, Mountain View, Palo Alto, and Milpitas already have their own Saturday walk-in pages. Cupertino was checked on DOJ tonight with 0 Saturday walk-ins (Sheriff weekday appointment-only). Los Gatos, Saratoga, and other nearby cities are other cities. Los Altos has no Saturday walk-in page (accessed 2026-09-26).
+This page is the **city of Campbell** only. San Jose, Santa Clara, Sunnyvale, Mountain View, Palo Alto, and Milpitas already have their own Saturday walk-in pages. Other nearby Santa Clara County cities are separate cities (accessed 2026-09-26).
 
 ### Do I get the results?
 

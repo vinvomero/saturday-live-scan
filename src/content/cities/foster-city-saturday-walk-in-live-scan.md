@@ -78,7 +78,7 @@ Sorted by Saturday open time, then rolling fee. "Walk-ins" alone means DOJ lists
 | --- | --- | --- |
 | *(none in Foster City city)* | Both Foster City DOJ nodes are Saturday Walk-ins — no in-city Sat appt-only or weekday-only skips this night. | County list + detail pages accessed 2026-09-18 |
 
-Shops in Belmont, San Mateo, Burlingame, Menlo Park, Millbrae, Pacifica, San Bruno, South San Francisco, Daly City, Redwood City, San Francisco, and other San Mateo County cities are **other cities** (not listed here). Belmont, Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages.
+Shops in other San Mateo County cities are **other cities** (not listed here). Belmont, Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages.
 
 ## The official list still lies
 
@@ -120,9 +120,9 @@ Both INCLUDE rows list cash plus card options on DOJ. UPS Store #4153: billing a
 
 No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Example: UPS Store #4153 lists Saturday Walk-ins 10:00 am – 4:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.
 
-### Why isn't Belmont / San Mateo / Burlingame / Pacifica on this list?
+### Why isn't Belmont / San Mateo / Burlingame on this list?
 
-This page is the **city of Foster City** only. Belmont, Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages. San Bruno and Pacifica were previously researched with zero Saturday walk-ins — no pages. Menlo Park, Millbrae, and other San Mateo County cities are other cities (accessed 2026-09-18).
+This page is the **city of Foster City** only. Belmont, Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages. Other nearby San Mateo County cities are separate cities (accessed 2026-09-18).
 
 ### Do I get the results?
 
