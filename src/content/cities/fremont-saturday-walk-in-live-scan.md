@@ -21,7 +21,7 @@ Live Scan fingerprinting in Fremont: this page lists 6 DOJ-listed Live Scan site
 
 ## Open Saturday in Fremont
 
-**6 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** Print N' Parcel at 9:00 am (also cheapest; closes 2:00 pm). Cheapest rolling fee: ** Print N' Parcel $20. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**6 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: Print N' Parcel at 9:00 am (closes 2:00 pm). Cheapest rolling fee: Print N' Parcel $20. Cash only on DOJ: none (all six list cash plus cards or accounts). The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## Live Scan in Fremont on other days
 

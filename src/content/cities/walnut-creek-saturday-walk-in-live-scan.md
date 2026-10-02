@@ -1,6 +1,6 @@
 ---
-title: "Live Scan in Walnut Creek: hours, walk-ins, Saturday options"
-description: "Live Scan fingerprinting in Walnut Creek: 4 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 4 open Saturday for walk-ins. Confirm before you go."
+title: "Live Scan Walnut Creek: 5 Saturday Walk-Ins From $35"
+description: "5 Walnut Creek shops take Live Scan walk-ins on Saturday, per the CA DOJ list. UPS #0099 is $35, open 9am to 5pm. Vee's Tax is $35 and open until 7pm."
 updated: "2026-09-27"
 query: "Live Scan Walnut Creek"
 ---
@@ -21,7 +21,7 @@ Live Scan fingerprinting in Walnut Creek: this page lists 5 DOJ-listed Live Scan
 
 ## Open Saturday in Walnut Creek
 
-**5 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: 00 am):** UPS #0099; UPS #2414. Cheapest rolling fee: ** UPS #0099; Vee's Tax Services LLC. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**5 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open (9:00 am): UPS #0099; UPS #2414. Cheapest rolling fee: UPS #0099; Vee's Tax Services LLC. Cash only on DOJ: none (all list cash and at least one other method). The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## Live Scan in Walnut Creek on other days
 

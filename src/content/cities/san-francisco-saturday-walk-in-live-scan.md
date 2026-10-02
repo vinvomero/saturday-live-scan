@@ -1,5 +1,5 @@
 ---
-title: "Live Scan in San Francisco: hours, walk-ins, Saturday options"
+title: "Live Scan San Francisco: Saturday Walk-In Options"
 description: "Live Scan fingerprinting in San Francisco: 13 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 13 open Saturday for walk-ins. Confirm before you go."
 updated: "2026-09-27"
 query: "Live Scan San Francisco"

@@ -11,7 +11,7 @@ Live Scan fingerprinting in Millbrae: this page lists 2 DOJ-listed Live Scan sit
 
 **Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Millbrae: on a weekday or a Saturday, with or without an appointment.
 
-**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in Menlo Park, Foster City, Belmont, San Mateo, Burlingame, Pacifica, San Bruno, South San Francisco, Daly City, Redwood City, San Francisco, or elsewhere in San Mateo County (those are other cities — Foster City, Belmont, Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own pages).
+**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in other San Mateo County cities (Foster City, Belmont, Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own pages).
 
 **Updated:** 2026-09-20  
 **Query this page answers:** "Saturday walk-in Live Scan Millbrae"
@@ -21,7 +21,7 @@ Live Scan fingerprinting in Millbrae: this page lists 2 DOJ-listed Live Scan sit
 
 ## Open Saturday in Millbrae
 
-**1 Saturday walk-in shop** on the DOJ list (accessed 2026-08-29). Earliest open: ** Certifix #1444 at 9:00 am. Cheapest rolling fee: ** $40. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**1 Saturday walk-in shop** on the DOJ list (accessed 2026-08-29). Earliest open: Certifix #1444 at 9:00 am. Cheapest rolling fee: $40. Cash only on DOJ: none (lists cash and other methods). The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## Live Scan in Millbrae on other days
 

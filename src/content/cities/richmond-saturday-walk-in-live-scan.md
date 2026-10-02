@@ -21,7 +21,7 @@ Live Scan fingerprinting in Richmond: this page lists 3 DOJ-listed Live Scan sit
 
 ## Open Saturday in Richmond
 
-**3 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** UPS #7242 at 9:15 am. Cheapest rolling fee: ** WellnessMart, MD. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**3 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: UPS #7242 at 9:15 am. Cheapest rolling fee: WellnessMart, MD $31.00 (credit/debit only, no cash). Cash only on DOJ: none. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## Live Scan in Richmond on other days
 

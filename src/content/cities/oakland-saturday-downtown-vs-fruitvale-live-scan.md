@@ -1,5 +1,5 @@
 ---
-title: "Downtown vs Fruitvale Live Scan in Oakland: hours, walk-ins, Saturday options"
+title: "Oakland Live Scan: Downtown vs Fruitvale Saturday"
 description: "Downtown vs Fruitvale Live Scan in Oakland: 7 shops. Hours, walk-in vs appointment, rolling fees, and Saturday options. Confirm before you go."
 updated: "2026-09-27"
 query: "Downtown vs Fruitvale Live Scan Oakland"

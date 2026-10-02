@@ -296,7 +296,7 @@ function checkPage(
 }
 
 const home = checkPage('index.html', {
-  title: 'California Live Scan locations: hours, walk-ins, Saturday options',
+  title: 'Live Scan Open Saturday: Bay Area Walk-In Shops by City',
   canonical: origin,
   types: ['WebPage', 'WebSite', 'FAQPage'],
   faq: true,
@@ -304,7 +304,7 @@ const home = checkPage('index.html', {
 if (home && !home.includes('id="faq"')) fail('home: missing id=faq');
 
 const oakland = checkPage('oakland-saturday-walk-in-live-scan/index.html', {
-  title: 'Live Scan in Oakland: hours, walk-ins, Saturday options',
+  title: 'Live Scan Oakland: 7 Saturday Walk-In Shops From $23',
   canonical: `${origin}oakland-saturday-walk-in-live-scan/`,
   types: ['WebPage', 'FAQPage', 'BreadcrumbList', 'ItemList'],
   faq: true,
@@ -316,7 +316,7 @@ const berkeley = checkPage('berkeley-saturday-walk-in-live-scan/index.html', {
   faq: true,
 });
 const alameda = checkPage('alameda-county-sunday-live-scan/index.html', {
-  title: 'Sunday Live Scan in Alameda County',
+  title: 'Sunday Live Scan in Alameda County: 13 Walk-In Shops',
   canonical: `${origin}alameda-county-sunday-live-scan/`,
   types: ['WebPage', 'FAQPage', 'BreadcrumbList'],
   faq: true,
@@ -327,7 +327,7 @@ if (alameda) {
   if (!alameda.includes('Sunday')) fail('alameda HTML missing Sunday');
 }
 const sanFrancisco = checkPage('san-francisco-saturday-walk-in-live-scan/index.html', {
-  title: 'Live Scan in San Francisco: hours, walk-ins, Saturday options',
+  title: 'Live Scan San Francisco: Saturday Walk-In Options',
   canonical: `${origin}san-francisco-saturday-walk-in-live-scan/`,
   types: ['WebPage', 'FAQPage', 'BreadcrumbList'],
   faq: true,
@@ -349,7 +349,7 @@ if (oaklandCash) {
 }
 
 const oaklandTeacher = checkPage('oakland-saturday-teacher-credential-live-scan/index.html', {
-  title: 'Teacher credential Live Scan in Oakland: Form 41-LS, Saturday options',
+  title: 'Teacher Credential Live Scan Oakland: Form 41-LS',
   canonical: `${origin}oakland-saturday-teacher-credential-live-scan/`,
   types: ['WebPage', 'FAQPage', 'BreadcrumbList'],
   faq: true,
@@ -360,14 +360,14 @@ if (oaklandTeacher) {
 }
 
 const oaklandDowntown = checkPage('oakland-saturday-downtown-vs-fruitvale-live-scan/index.html', {
-  title: 'Downtown vs Fruitvale Live Scan in Oakland: hours, walk-ins, Saturday options',
+  title: 'Oakland Live Scan: Downtown vs Fruitvale Saturday',
   canonical: `${origin}oakland-saturday-downtown-vs-fruitvale-live-scan/`,
   types: ['WebPage', 'FAQPage', 'BreadcrumbList'],
   faq: true,
 });
 
 const faqHub = checkPage('faq/index.html', {
-  title: 'California Live Scan FAQ: hours, walk-ins, Saturday options',
+  title: 'Live Scan FAQ: Walk-Ins, Saturday Hours and Fees',
   canonical: `${origin}faq/`,
   types: ['WebPage'],
 });
@@ -652,7 +652,7 @@ for (const slug of cityFiles) {
 }
 
 // Check (e): Excluded cities
-const excluded = ['San Bruno', 'Pacifica', 'Menlo Park', 'San Carlos', 'Los Altos', 'Cupertino'];
+const excluded = ['San Bruno', 'Pacifica', 'Menlo Park', 'San Carlos', 'Los Altos', 'Cupertino', 'Los Gatos'];
 for (const name of excluded) {
   if (sitemap.includes(name)) fail(`sitemap contains excluded city: ${name}`);
   if (llms.includes(name)) fail(`llms.txt contains excluded city: ${name}`);
@@ -670,6 +670,34 @@ for (const name of excluded) {
   }
   if (home && title(home)?.includes(name)) fail(`home title contains excluded city: ${name}`);
   if (home && attr(home, 'description')?.includes(name)) fail(`home description contains excluded city: ${name}`);
+}
+
+// Check (g): No broken "Open Saturday" formatting (00 am):**)
+for (const slug of cityFiles) {
+  const html = read(`${slug}/index.html`);
+  if (!html) continue;
+  if (html.includes('00 am):**')) {
+    fail(`${slug}: contains broken time format "00 am):**"`);
+  }
+}
+if (home?.includes('00 am):**')) fail('home: contains broken time format "00 am):**"');
+
+// Check (h): Title length ≤60 characters
+for (const slug of cityFiles) {
+  const html = read(`${slug}/index.html`);
+  if (!html) continue;
+  const t = title(html);
+  if (t && t.length > 60) {
+    fail(`${slug}: title is ${t.length} chars (max 60): ${t}`);
+  }
+}
+const homeTitle = title(home);
+if (homeTitle && homeTitle.length > 60) {
+  fail(`home: title is ${homeTitle.length} chars (max 60): ${homeTitle}`);
+}
+const faqTitle = title(read('faq/index.html'));
+if (faqTitle && faqTitle.length > 60) {
+  fail(`faq: title is ${faqTitle.length} chars (max 60): ${faqTitle}`);
 }
 
 // Check (f): No "Local draft"

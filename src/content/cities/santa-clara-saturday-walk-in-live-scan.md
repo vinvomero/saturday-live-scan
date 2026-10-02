@@ -11,7 +11,7 @@ Live Scan fingerprinting in Santa Clara: this page lists 6 DOJ-listed Live Scan 
 
 **Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Santa Clara: on a weekday or a Saturday, with or without an appointment.
 
-**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in San Jose, Sunnyvale, Cupertino, Mountain View, Palo Alto, Milpitas, Campbell, Los Gatos, or elsewhere in Santa Clara County (those are other cities — San Jose already has its own page).
+**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in other Santa Clara County cities (San Jose already has its own page).
 
 **Updated:** 2026-09-09  
 **Query this page answers:** "Saturday walk-in Live Scan Santa Clara"
@@ -21,7 +21,7 @@ Live Scan fingerprinting in Santa Clara: this page lists 6 DOJ-listed Live Scan 
 
 ## Open Saturday in Santa Clara
 
-**6 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** UPS #2762 and UPS #6844 at 9:00 am (two-way tie). Cheapest rolling fee: ** Certifix Live Scan dbw AD West Mail Center $18. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**6 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: UPS #2762 and UPS #6844 at 9:00 am (two-way tie). Cheapest rolling fee: Certifix Live Scan dbw AD West Mail Center $18. Cash only on DOJ: none (all list cash and other methods). The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## Live Scan in Santa Clara on other days
 

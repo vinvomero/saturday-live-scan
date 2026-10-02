@@ -11,7 +11,7 @@ Live Scan fingerprinting in Milpitas: this page lists 3 DOJ-listed Live Scan sit
 
 **Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Milpitas: on a weekday or a Saturday, with or without an appointment.
 
-**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in San Jose, Fremont, Santa Clara, Sunnyvale, Newark, Union City, Cupertino, Campbell, or elsewhere in Santa Clara County (those are other cities — San Jose, Fremont, Santa Clara, and Sunnyvale already have their own pages).
+**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in other Santa Clara County cities or in Newark/Union City (San Jose, Fremont, Santa Clara, and Sunnyvale already have their own pages).
 
 **Updated:** 2026-09-24  
 **Query this page answers:** "Saturday walk-in Live Scan Milpitas"
@@ -21,7 +21,7 @@ Live Scan fingerprinting in Milpitas: this page lists 3 DOJ-listed Live Scan sit
 
 ## Open Saturday in Milpitas
 
-**2 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** Calaveras Notary Services at 8:00 am. Cheapest rolling fee: ** Calaveras Notary Services $13. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**2 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: Calaveras Notary Services at 8:00 am. Cheapest rolling fee: Calaveras Notary Services $13.99. Cash only on DOJ: none (both list cash and other methods). The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## Live Scan in Milpitas on other days
 

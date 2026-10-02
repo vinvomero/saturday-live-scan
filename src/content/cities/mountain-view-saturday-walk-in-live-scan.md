@@ -1,6 +1,6 @@
 ---
-title: "Live Scan in Mountain View: hours, walk-ins, Saturday options"
-description: "Live Scan fingerprinting in Mountain View: 4 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 4 open Saturday for walk-ins. Confirm before you go."
+title: "Live Scan in Mountain View: Saturday Walk-Ins From $17"
+description: "IdentoGO is the TSA PreCheck vendor. For a California DOJ Live Scan, 3 Mountain View shops take Saturday walk-ins from 10am. Mail All Center is $17."
 updated: "2026-09-27"
 query: "Live Scan Mountain View"
 ---
@@ -11,7 +11,7 @@ Live Scan fingerprinting in Mountain View: this page lists 5 DOJ-listed Live Sca
 
 **Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Mountain View: on a weekday or a Saturday, with or without an appointment.
 
-**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in Sunnyvale, Palo Alto, Los Altos, Cupertino, Santa Clara, San Jose, Milpitas, Campbell, Los Gatos, or elsewhere in Santa Clara County (those are other cities — Sunnyvale, Santa Clara, and San Jose already have their own pages).
+**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in other Santa Clara County cities (San Jose, Santa Clara, and Sunnyvale already have their own pages).
 
 **Updated:** 2026-09-22  
 **Query this page answers:** "Saturday walk-in Live Scan Mountain View"
@@ -21,7 +21,7 @@ Live Scan fingerprinting in Mountain View: this page lists 5 DOJ-listed Live Sca
 
 ## Open Saturday in Mountain View
 
-**3 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** all three at 10:00 am (three-way tie). Cheapest rolling fee: ** Mail All Center $17. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**3 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: all three at 10:00 am (three-way tie). Cheapest rolling fee: Mail All Center $17. Cash only on DOJ: none. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## Live Scan in Mountain View on other days
 

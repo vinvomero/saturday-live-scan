@@ -1,6 +1,6 @@
 ---
-title: "Live Scan in Sunnyvale: hours, walk-ins, Saturday options"
-description: "Live Scan fingerprinting in Sunnyvale: 3 DOJ-listed sites with hours, walk-in vs appointment, and rolling fees. 3 open Saturday for walk-ins. Confirm before you go."
+title: "Live Scan Sunnyvale: 3 Saturday Walk-Ins From $25"
+description: "3 Sunnyvale shops take Live Scan walk-ins on Saturday, per the CA DOJ list. All open at 10am. KR Services (Notary Livescan Post) is $25, open until 5pm."
 updated: "2026-09-27"
 query: "Live Scan Sunnyvale"
 ---
@@ -11,7 +11,7 @@ Live Scan fingerprinting in Sunnyvale: this page lists 3 DOJ-listed Live Scan si
 
 **Who this is for:** You have a California *Request for Live Scan Service* form (BCIA 8016) from an employer, licensing board, school, or agency, and you need fingerprints in the city of Sunnyvale: on a weekday or a Saturday, with or without an appointment.
 
-**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in San Jose, Santa Clara, Cupertino, Mountain View, Palo Alto, Milpitas, Campbell, Los Gatos, or elsewhere in Santa Clara County (those are other cities — San Jose and Santa Clara already have their own pages).
+**Not for:** TSA PreCheck / IdentoGO (different vendor). Out-of-state ink cards unless the shop's own page says they roll FD-258. I-9s or notary work. Shops in other Santa Clara County cities (San Jose and Santa Clara already have their own pages).
 
 **Updated:** 2026-09-10  
 **Query this page answers:** "Saturday walk-in Live Scan Sunnyvale"
@@ -21,7 +21,7 @@ Live Scan fingerprinting in Sunnyvale: this page lists 3 DOJ-listed Live Scan si
 
 ## Open Saturday in Sunnyvale
 
-**3 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: ** all three at 10:00 am (three-way tie). Cheapest rolling fee: ** KR Services, LLC dba Notary Livescan Post $25. **Cash only on DOJ. The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
+**3 Saturday walk-in shops** on the DOJ list (accessed 2026-08-29). Earliest open: all three at 10:00 am (three-way tie). Cheapest rolling fee: KR Services, LLC dba Notary Livescan Post $25. Cash only on DOJ: none (all list cash and other methods). The full Saturday table, the skip list, and gotchas are further down this page. Nobody was called.
 
 ## Live Scan in Sunnyvale on other days
 
