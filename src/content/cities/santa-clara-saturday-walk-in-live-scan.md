@@ -78,7 +78,7 @@ Sorted by Saturday open time, then rolling fee. "Walk-ins & appointments" means 
 
 ## Do not go here for Saturday walk-in
 
-No Santa Clara **city** weekday-only or Saturday appointment-only rows appeared on the DOJ pull accessed 2026-09-09 — all six Santa Clara city listings qualify as Saturday walk-in. Shops in San Jose, Sunnyvale, Cupertino, Mountain View, Palo Alto, Milpitas, Campbell, Los Gatos, and other Santa Clara County cities are **other cities** (not listed here). San Jose already has its own Saturday walk-in page.
+No Santa Clara **city** weekday-only or Saturday appointment-only rows appeared on the DOJ pull accessed 2026-09-09 — all six Santa Clara city listings qualify as Saturday walk-in. Shops in other Santa Clara County cities are **other cities** (not listed here). San Jose already has its own Saturday walk-in page.
 
 ## The official list still lies
 
@@ -107,7 +107,7 @@ It depends on the shop and the day. This page shows Saturday walk-in and skip la
 
 ### Why isn't San Jose / Sunnyvale on this list?
 
-This page is the city of Santa Clara only. San Jose already has its own Saturday walk-in page. Sunnyvale, Cupertino, Mountain View, Palo Alto, Milpitas, Campbell, Los Gatos, and other Santa Clara County cities are other cities (accessed 2026-09-09).
+This page is the city of Santa Clara only. San Jose already has its own Saturday walk-in page. Other nearby Santa Clara County cities are separate cities (accessed 2026-09-09).
 ### Can I walk in Saturday in Santa Clara without an appointment?
 
 Yes for the 6 DOJ Saturday walk-in rows on this page (city of Santa Clara only). "Walk-ins & appointments" means appointments may still jump the line. Certifix AD West Mail Center and The Connector Fashion Lane are walk-in-only on Saturday (DOJ does not list appointments). Nobody was called.
@@ -130,7 +130,7 @@ No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are th
 
 ### Why isn't San Jose / Sunnyvale on this list?
 
-This page is the **city of Santa Clara** only. San Jose already has its own Saturday walk-in page. Sunnyvale, Cupertino, Mountain View, Palo Alto, Milpitas, Campbell, Los Gatos, and other Santa Clara County cities are other cities (accessed 2026-09-09).
+This page is the **city of Santa Clara** only. San Jose already has its own Saturday walk-in page. Other nearby Santa Clara County cities are separate cities (accessed 2026-09-09).
 
 ### Do I get the results?
 

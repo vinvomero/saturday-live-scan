@@ -72,7 +72,7 @@ Sorted by Saturday open time, then rolling fee. "Walk-ins & appointments" means 
 
 No South San Francisco city DOJ nodes were skipped tonight — the only locality match met Saturday + Walk-ins & Appointments.
 
-Shops in Daly City, San Francisco, San Bruno, Pacifica, Burlingame, Millbrae, San Mateo, Redwood City, Belmont, Foster City, Menlo Park, and other San Mateo County cities are **other cities** (not listed here). Daly City and San Francisco already have their own Saturday walk-in pages.
+Shops in other San Mateo County cities are **other cities** (not listed here). Daly City and San Francisco already have their own Saturday walk-in pages.
 
 ## The official list still lies
 
@@ -99,7 +99,7 @@ It depends on the shop and the day. This page shows Saturday walk-in and skip la
 
 ### Why isn't Daly City / San Francisco on this list?
 
-This page is the city of South San Francisco only. Daly City and San Francisco already have their own Saturday walk-in pages. San Bruno, Pacifica, Burlingame, Millbrae, San Mateo, Redwood City, and other San Mateo County cities are other cities (accessed 2026-09-12).
+This page is the city of South San Francisco only. Daly City and San Francisco already have their own Saturday walk-in pages. Other nearby San Mateo County cities are separate cities (accessed 2026-09-12).
 ### Can I walk in Saturday in South San Francisco without an appointment?
 
 Yes for the 1 DOJ Saturday walk-in row on this page (city of South San Francisco only): The UPS Store #1468 lists Walk-ins & Appointments Saturday 9:00 am – 5:00 pm. "Walk-ins & appointments" means appointments may still jump the line. Nobody was called.
@@ -122,7 +122,7 @@ No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are th
 
 ### Why isn't Daly City / San Francisco on this list?
 
-This page is the **city of South San Francisco** only. Daly City and San Francisco already have their own Saturday walk-in pages. San Bruno, Pacifica, Burlingame, Millbrae, San Mateo, Redwood City, and other San Mateo County cities are other cities (accessed 2026-09-12).
+This page is the **city of South San Francisco** only. Daly City and San Francisco already have their own Saturday walk-in pages. Other nearby San Mateo County cities are separate cities (accessed 2026-09-12).
 
 ### Do I get the results?
 

@@ -78,7 +78,7 @@ Sorted by Saturday open time, then rolling fee. "Walk-ins" alone means DOJ lists
 | --- | --- | --- |
 | Palo Alto LiveScan | Saturday **appointment-only** 10:00 am–2:00 pm on DOJ (also Sunday Appt. only 2:00 pm–6:00 pm). Fee $35.00; Cash + card/account options; Mobile Yes; Additional service fees may apply; phone (650) 999-3911; 999 Commercial Street, Suite #103, Palo Alto, CA 94303. | [DOJ detail](https://oag.ca.gov/fingerprints/locations/palo-alto-livescan) |
 
-Shops in Mountain View, Sunnyvale, Los Altos, Los Altos Hills, Menlo Park, Redwood City, Santa Clara, San Jose, Cupertino, Milpitas, Campbell, and other Santa Clara County cities are **other cities** (not listed here). Mountain View, Sunnyvale, Santa Clara, and San Jose already have their own Saturday walk-in pages. Menlo Park was previously researched with zero Saturday walk-ins — no page.
+Shops in other Santa Clara County cities are **other cities** (not listed here). Mountain View, Sunnyvale, Santa Clara, and San Jose already have their own Saturday walk-in pages.
 
 ## The official list still lies
 
@@ -122,7 +122,7 @@ No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are th
 
 ### Why isn't Mountain View / Sunnyvale / Santa Clara / San Jose on this list?
 
-This page is the **city of Palo Alto** only. Mountain View, Sunnyvale, Santa Clara, and San Jose already have their own Saturday walk-in pages. Los Altos, Los Altos Hills, Cupertino, Milpitas, Campbell, Los Gatos, and other Santa Clara County cities are other cities. Menlo Park was previously researched with zero Saturday walk-ins — no page (accessed 2026-09-23).
+This page is the **city of Palo Alto** only. Mountain View, Sunnyvale, Santa Clara, and San Jose already have their own Saturday walk-in pages. Other nearby Santa Clara County cities are separate cities (accessed 2026-09-23).
 
 ### Do I get the results?
 

@@ -83,7 +83,7 @@ Sorted by Saturday open time, then rolling fee. "Walk-ins & appointments" means 
 | --- | --- | --- |
 | Certifix Live Scan dbw The UPS Store #4133 (50 Woodside Plaza, Redwood City, CA 94061) | **Weekday-only** Walk-ins 10:00 am – 4:00 pm on DOJ. No Saturday. Rolling $40.00. Phone 1 (650) 701-0593. | [DOJ detail](https://oag.ca.gov/fingerprints/locations/certifix-live-scan-dbw-ups-store-4133) |
 
-Shops in San Bruno, South San Francisco, Daly City, Pacifica, Burlingame, San Mateo, Belmont, Foster City, Menlo Park, Millbrae, San Francisco, and other San Mateo County cities are **other cities** (not listed here). Daly City, South San Francisco, and San Francisco already have their own Saturday walk-in pages.
+Shops in other San Mateo County cities are **other cities** (not listed here). Daly City, South San Francisco, and San Francisco already have their own Saturday walk-in pages.
 
 ## The official list still lies
 
@@ -125,9 +125,9 @@ Every INCLUDE row lists Cash plus card options on DOJ. Pack and Mail Express and
 
 No. UPS and Certifix pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Example: Mishsharm UPS #2766 lists Saturday Walk-ins & Appointments on DOJ (9:00 am – 4:30 pm); Certifix at the same address lists Saturday Walk-ins 10:30 am – 1:00 pm. Those are fingerprint hours from DOJ, not a promise that every retail service is open.
 
-### Why isn't Daly City / South San Francisco / Pacifica on this list?
+### Why isn't Daly City / South San Francisco on this list?
 
-This page is the **city of Redwood City** only. Daly City and South San Francisco already have their own Saturday walk-in pages. San Bruno, Pacifica, Burlingame, San Mateo, Belmont, Foster City, Menlo Park, Millbrae, and other San Mateo County cities are other cities (accessed 2026-09-14).
+This page is the **city of Redwood City** only. Daly City and South San Francisco already have their own Saturday walk-in pages. Other nearby San Mateo County cities are separate cities (accessed 2026-09-14).
 
 ### Do I get the results?
 

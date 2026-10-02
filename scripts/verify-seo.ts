@@ -700,6 +700,40 @@ if (faqTitle && faqTitle.length > 60) {
   fail(`faq: title is ${faqTitle.length} chars (max 60): ${faqTitle}`);
 }
 
+// Check (i): No excluded city names as city references (allow "San Carlos St"/"San Carlos Street")
+const excludedCityNames = ['San Bruno', 'Pacifica', 'Menlo Park', 'Los Altos', 'Cupertino', 'Los Gatos'];
+for (const slug of cityFiles) {
+  const html = read(`${slug}/index.html`);
+  if (!html) continue;
+  // Remove script tags to focus on visible content
+  const htmlNoScripts = html.replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '');
+  
+  for (const cityName of excludedCityNames) {
+    // Check if the city name appears in the HTML
+    if (htmlNoScripts.includes(cityName)) {
+      fail(`${slug}: contains excluded city name "${cityName}" in visible content`);
+    }
+  }
+  
+  // Special check for "San Carlos" - only fail if it's NOT followed by "St" or "Street"
+  const sanCarlosPattern = /San Carlos(?!\s+(?:St(?:reet)?|Street))/gi;
+  if (sanCarlosPattern.test(htmlNoScripts)) {
+    fail(`${slug}: contains "San Carlos" as a city reference (not as street name)`);
+  }
+}
+if (home) {
+  const homeNoScripts = home.replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '');
+  for (const cityName of excludedCityNames) {
+    if (homeNoScripts.includes(cityName)) {
+      fail(`home: contains excluded city name "${cityName}"`);
+    }
+  }
+  const sanCarlosPattern = /San Carlos(?!\s+(?:St(?:reet)?|Street))/gi;
+  if (sanCarlosPattern.test(homeNoScripts)) {
+    fail(`home: contains "San Carlos" as a city reference (not as street name)`);
+  }
+}
+
 // Check (f): No "Local draft"
 for (const slug of cityFiles) {
   const html = read(`${slug}/index.html`);

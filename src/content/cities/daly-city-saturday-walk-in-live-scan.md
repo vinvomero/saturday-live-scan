@@ -83,7 +83,7 @@ Sorted by Saturday open time, then rolling fee. "Walk-ins & appointments" means 
 | Daly City Police Department | 333 90th Street, Daly City, CA 94015 | Weekdays **Appt. only** only; **no Saturday/Weekends** hours on DOJ. Cash-only. Rolling fee $30.00. | [DOJ detail](https://oag.ca.gov/fingerprints/locations/daly-city-police-department) |
 | Fund & Health Investment LLC dba Registry of Nurses | Daly City, CA 94015 (no street on DOJ) | Weekends **Appt. only** (no walk-in). Phone field on DOJ is `P2962` (**UNVERIFIED** as a dialable phone). Mobile Services Available. Rolling fee $40.00; additional service fees may apply. | [DOJ detail](https://oag.ca.gov/fingerprints/locations/fund-health-investment-llc-dba-registry-nurses) |
 
-Shops in San Francisco, South San Francisco, San Bruno, Pacifica, Burlingame, Millbrae, San Mateo, Redwood City, Belmont, Foster City, Menlo Park, and other San Mateo County cities are **other cities** (not listed here). San Francisco already has its own Saturday walk-in page.
+Shops in other San Mateo County cities are **other cities** (not listed here). San Francisco already has its own Saturday walk-in page.
 
 ## The official list still lies
 
@@ -116,7 +116,7 @@ It depends on the shop and the day. This page shows Saturday walk-in and skip la
 Cheapest rolling fee: The UPS Store #6096 at $39.99 (6748 Mission Street; Walk-ins & Appointments Saturday; Mobile Services Available — mobile fee UNVERIFIED). Earliest Saturday open: The UPS Store #6096 at 9:00 am. Latest close: Certifix Live Scan dbw The UPS Store #0966 at 6:00 pm. Highest fee: Certifix UPS #0966 and Post Point Hub at $45.00 (tie).
 ### Why isn’t San Francisco / South San Francisco on this list?
 
-This page is the city of Daly City only. San Francisco already has its own Saturday walk-in page. South San Francisco, San Bruno, Pacifica, Burlingame, Millbrae, San Mateo, Redwood City, and other San Mateo County cities are other cities (accessed 2026-09-11).
+This page is the city of Daly City only. San Francisco already has its own Saturday walk-in page. Other nearby San Mateo County cities are separate cities (accessed 2026-09-11).
 ### Can I walk in Saturday in Daly City without an appointment?
 
 Yes for the 4 DOJ Saturday walk-in rows on this page (city of Daly City only). "Walk-ins & appointments" means appointments may still jump the line. Certifix UPS #0966 and Post Point Hub are walk-in-only on Saturday (DOJ does not list appointments). Nobody was called.
@@ -139,7 +139,7 @@ No. UPS and Certifix pages advertise shipping / notary hours. Live Scan Saturday
 
 ### Why isn't San Francisco / South San Francisco on this list?
 
-This page is the **city of Daly City** only. San Francisco already has its own Saturday walk-in page. South San Francisco, San Bruno, Pacifica, Burlingame, Millbrae, San Mateo, Redwood City, and other San Mateo County cities are other cities (accessed 2026-09-11).
+This page is the **city of Daly City** only. San Francisco already has its own Saturday walk-in page. Other nearby San Mateo County cities are separate cities (accessed 2026-09-11).
 
 ### Do I get the results?
 

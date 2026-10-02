@@ -600,7 +600,7 @@ export const santaClaraFaq: FaqItem[] = [
   },
   {
     q: 'Why isn\'t San Jose / Sunnyvale on this list?',
-    a: 'This page is the city of Santa Clara only. San Jose already has its own Saturday walk-in page. Sunnyvale, Cupertino, Mountain View, Palo Alto, Milpitas, Campbell, Los Gatos, and other Santa Clara County cities are other cities (accessed 2026-09-09).',
+    a: 'This page is the city of Santa Clara only. San Jose already has its own Saturday walk-in page. Other nearby Santa Clara County cities are separate cities (accessed 2026-09-09).',
   },
   {
     q: 'Do I get the results?',
@@ -643,7 +643,7 @@ export const sunnyvaleFaq: FaqItem[] = [
   },
   {
     q: 'Why isn\'t San Jose / Santa Clara on this list?',
-    a: 'This page is the city of Sunnyvale only. San Jose and Santa Clara already have their own Saturday walk-in pages. Cupertino, Mountain View, Palo Alto, Milpitas, Campbell, Los Gatos, and other Santa Clara County cities are other cities (accessed 2026-09-10).',
+    a: 'This page is the city of Sunnyvale only. San Jose and Santa Clara already have their own Saturday walk-in pages. Other nearby Santa Clara County cities are separate cities (accessed 2026-09-10).',
   },
   {
     q: 'Do I get the results?',
@@ -686,7 +686,7 @@ export const dalyCityFaq: FaqItem[] = [
   },
   {
     q: 'Why isn\u2019t San Francisco / South San Francisco on this list?',
-    a: 'This page is the city of Daly City only. San Francisco already has its own Saturday walk-in page. South San Francisco, San Bruno, Pacifica, Burlingame, Millbrae, San Mateo, Redwood City, and other San Mateo County cities are other cities (accessed 2026-09-11).',
+    a: 'This page is the city of Daly City only. San Francisco already has its own Saturday walk-in page. Other nearby San Mateo County cities are separate cities (accessed 2026-09-11).',
   },
   {
     q: 'Do I get the results?',
@@ -729,7 +729,7 @@ export const southSanFranciscoFaq: FaqItem[] = [
   },
   {
     q: 'Why isn\'t Daly City / San Francisco on this list?',
-    a: 'This page is the city of South San Francisco only. Daly City and San Francisco already have their own Saturday walk-in pages. San Bruno, Pacifica, Burlingame, Millbrae, San Mateo, Redwood City, and other San Mateo County cities are other cities (accessed 2026-09-12).',
+    a: 'This page is the city of South San Francisco only. Daly City and San Francisco already have their own Saturday walk-in pages. Other nearby San Mateo County cities are separate cities (accessed 2026-09-12).',
   },
   {
     q: 'Do I get the results?',
@@ -771,8 +771,8 @@ export const redwoodCityFaq: FaqItem[] = [
     a: 'No. UPS and Certifix pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Example: Mishsharm UPS #2766 lists Saturday Walk-ins & Appointments on DOJ (9:00 am – 4:30 pm); Certifix at the same address lists Saturday Walk-ins 10:30 am – 1:00 pm. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
   },
   {
-    q: 'Why isn\'t Daly City / South San Francisco / Pacifica on this list?',
-    a: 'This page is the **city of Redwood City** only. Daly City and South San Francisco already have their own Saturday walk-in pages. San Bruno, Pacifica, Burlingame, San Mateo, Belmont, Foster City, Menlo Park, Millbrae, and other San Mateo County cities are other cities (accessed 2026-09-14).',
+    q: 'Why isn\'t Daly City / South San Francisco on this list?',
+    a: 'This page is the **city of Redwood City** only. Daly City and South San Francisco already have their own Saturday walk-in pages. Other nearby San Mateo County cities are separate cities (accessed 2026-09-14).',
   },
   {
     q: 'Do I get the results?',
@@ -814,8 +814,8 @@ export const burlingameFaq: FaqItem[] = [
     a: 'No. UPS and Certifix pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Example: UPS #0446 lists Saturday Walk-ins 10:00 am – 4:30 pm on DOJ; Certifix #2354 lists Saturday Walk-ins 10:30 am – 4:30 pm. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
   },
   {
-    q: 'Why isn\'t Daly City / South San Francisco / Redwood City / Pacifica on this list?',
-    a: 'This page is the **city of Burlingame** only. Daly City, South San Francisco, Redwood City, and San Francisco already have their own Saturday walk-in pages. San Bruno and Pacifica were previously researched with zero Saturday walk-ins — no pages. Belmont, Foster City, Menlo Park, Millbrae, San Mateo, and other San Mateo County cities are other cities (accessed 2026-09-15).',
+    q: 'Why isn\'t Daly City / South San Francisco / Redwood City on this list?',
+    a: 'This page is the **city of Burlingame** only. Daly City, South San Francisco, Redwood City, and San Francisco already have their own Saturday walk-in pages. Other nearby San Mateo County cities are separate cities (accessed 2026-09-15).',
   },
   {
     q: 'Do I get the results?',
@@ -857,8 +857,8 @@ export const sanMateoFaq: FaqItem[] = [
     a: 'No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Example: UPS #0294 lists Saturday Walk-ins & Appointments 11:00 am – 4:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
   },
   {
-    q: 'Why isn\'t Daly City / South San Francisco / Redwood City / Burlingame / Pacifica on this list?',
-    a: 'This page is the **city of San Mateo** only. Daly City, South San Francisco, Redwood City, Burlingame, and San Francisco already have their own Saturday walk-in pages. San Bruno and Pacifica were previously researched with zero Saturday walk-ins — no pages. Belmont, Foster City, Menlo Park, Millbrae, and other San Mateo County cities are other cities (accessed 2026-09-16).',
+    q: 'Why isn\'t Daly City / South San Francisco / Redwood City / Burlingame on this list?',
+    a: 'This page is the **city of San Mateo** only. Daly City, South San Francisco, Redwood City, Burlingame, and San Francisco already have their own Saturday walk-in pages. Other nearby San Mateo County cities are separate cities (accessed 2026-09-16).',
   },
   {
     q: 'Do I get the results?',
@@ -900,8 +900,8 @@ export const belmontFaq: FaqItem[] = [
     a: 'No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Example: UPS Store #0426 lists Saturday Walk-ins & Appointments 9:00 am – 3:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
   },
   {
-    q: 'Why isn\'t San Mateo / Burlingame / Daly City / Pacifica on this list?',
-    a: 'This page is the **city of Belmont** only. Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages. San Bruno and Pacifica were previously researched with zero Saturday walk-ins — no pages. Foster City, Menlo Park, Millbrae, and other San Mateo County cities are other cities (accessed 2026-09-17).',
+    q: 'Why isn\'t San Mateo / Burlingame / Daly City on this list?',
+    a: 'This page is the **city of Belmont** only. Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages. Other nearby San Mateo County cities are separate cities (accessed 2026-09-17).',
   },
   {
     q: 'Do I get the results?',
@@ -943,8 +943,8 @@ export const fosterCityFaq: FaqItem[] = [
     a: 'No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Example: UPS Store #4153 lists Saturday Walk-ins 10:00 am – 4:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
   },
   {
-    q: 'Why isn\'t Belmont / San Mateo / Burlingame / Pacifica on this list?',
-    a: 'This page is the **city of Foster City** only. Belmont, Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages. San Bruno and Pacifica were previously researched with zero Saturday walk-ins — no pages. Menlo Park, Millbrae, and other San Mateo County cities are other cities (accessed 2026-09-18).',
+    q: 'Why isn\'t Belmont / San Mateo / Burlingame on this list?',
+    a: 'This page is the **city of Foster City** only. Belmont, Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages. Other nearby San Mateo County cities are separate cities (accessed 2026-09-18).',
   },
   {
     q: 'Do I get the results?',
@@ -986,8 +986,8 @@ export const millbraeFaq: FaqItem[] = [
     a: 'No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Example: Certifix #1444 lists Saturday Walk-ins 9:00 am – 5:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
   },
   {
-    q: 'Why isn\'t Foster City / Belmont / San Mateo / Menlo Park on this list?',
-    a: 'This page is the **city of Millbrae** only. Foster City, Belmont, Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages. San Bruno, Pacifica, and Menlo Park were previously researched with zero Saturday walk-ins — no pages. Other San Mateo County cities are other cities (accessed 2026-09-20).',
+    q: 'Why isn\'t Foster City / Belmont / San Mateo on this list?',
+    a: 'This page is the **city of Millbrae** only. Foster City, Belmont, Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages. Other nearby San Mateo County cities are separate cities (accessed 2026-09-20).',
   },
   {
     q: 'Do I get the results?',
@@ -1030,7 +1030,7 @@ export const mountainViewFaq: FaqItem[] = [
   },
   {
     q: 'Why isn\'t Sunnyvale / Santa Clara / San Jose / Palo Alto on this list?',
-    a: 'This page is the **city of Mountain View** only. Sunnyvale, Santa Clara, and San Jose already have their own Saturday walk-in pages. Palo Alto, Los Altos, Cupertino, Milpitas, Campbell, Los Gatos, and other Santa Clara County cities are other cities (accessed 2026-09-22).',
+    a: 'This page is the **city of Mountain View** only. Sunnyvale, Santa Clara, and San Jose already have their own Saturday walk-in pages. Other nearby Santa Clara County cities are separate cities (accessed 2026-09-22).',
   },
   {
     q: 'Do I get the results?',
@@ -1073,7 +1073,7 @@ export const paloAltoFaq: FaqItem[] = [
   },
   {
     q: 'Why isn\'t Mountain View / Sunnyvale / Santa Clara / San Jose on this list?',
-    a: 'This page is the **city of Palo Alto** only. Mountain View, Sunnyvale, Santa Clara, and San Jose already have their own Saturday walk-in pages. Los Altos, Los Altos Hills, Cupertino, Milpitas, Campbell, Los Gatos, and other Santa Clara County cities are other cities. Menlo Park was previously researched with zero Saturday walk-ins — no page (accessed 2026-09-23).',
+    a: 'This page is the **city of Palo Alto** only. Mountain View, Sunnyvale, Santa Clara, and San Jose already have their own Saturday walk-in pages. Other nearby Santa Clara County cities are separate cities (accessed 2026-09-23).',
   },
   {
     q: 'Do I get the results?',
@@ -1116,7 +1116,7 @@ export const milpitasFaq: FaqItem[] = [
   },
   {
     q: 'Why isn\'t San Jose / Fremont / Santa Clara / Sunnyvale on this list?',
-    a: 'This page is the **city of Milpitas** only. San Jose, Fremont, Santa Clara, and Sunnyvale already have their own Saturday walk-in pages. Newark, Union City, Cupertino, Campbell, and other nearby cities are other cities (accessed 2026-09-24).',
+    a: 'This page is the **city of Milpitas** only. San Jose, Fremont, Santa Clara, and Sunnyvale already have their own Saturday walk-in pages. Other nearby cities are separate cities (accessed 2026-09-24).',
   },
   {
     q: 'Do I get the results?',
@@ -1182,7 +1182,7 @@ export const campbellFaq: FaqItem[] = [
   },
   {
     q: 'Can I walk in Saturday in Campbell without an appointment?',
-    a: 'Yes for the 2 DOJ Saturday walk-in rows on this page (city of Campbell street addresses only): Verify Group, Inc. and WellnessMart, MD. Both list Walk-ins & Appointments on Saturday, so appointments may still jump the line. Bay Area Solutions has no Saturday hours; The UPS Store #1949 is Saturday appointment-only. Cupertino\'s only DOJ node (Sheriff) is weekday appointment-only. Nobody was called.',
+    a: 'Yes for the 2 DOJ Saturday walk-in rows on this page (city of Campbell street addresses only): Verify Group, Inc. and WellnessMart, MD. Both list Walk-ins & Appointments on Saturday, so appointments may still jump the line. Bay Area Solutions has no Saturday hours; The UPS Store #1949 is Saturday appointment-only. Nobody was called.',
   },
   {
     q: 'What do I bring?',
@@ -1201,8 +1201,8 @@ export const campbellFaq: FaqItem[] = [
     a: 'No. Shipping / retail hours on a shop\'s own page are not Live Scan hours. Live Scan Saturday hours are the DOJ column. Example: Verify Group, Inc. lists Saturday Walk-ins & Appointments 9:00 am – 12:00 pm on DOJ. WellnessMart lists two Saturday blocks with a lunch gap (10:00 am–12:15 pm and 1:00 pm–4:00 pm). Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
   },
   {
-    q: 'Why isn\'t Cupertino / San Jose / Sunnyvale / Milpitas on this list?',
-    a: 'This page is the **city of Campbell** only. San Jose, Santa Clara, Sunnyvale, Mountain View, Palo Alto, and Milpitas already have their own Saturday walk-in pages. Cupertino was checked on DOJ tonight with 0 Saturday walk-ins (Sheriff weekday appointment-only). Los Gatos, Saratoga, and other nearby cities are other cities. Los Altos has no Saturday walk-in page (accessed 2026-09-26).',
+    q: 'Why isn\'t San Jose / Santa Clara / Sunnyvale on this list?',
+    a: 'This page is the **city of Campbell** only. San Jose, Santa Clara, Sunnyvale, Mountain View, Palo Alto, and Milpitas already have their own Saturday walk-in pages. Other nearby Santa Clara County cities are separate cities (accessed 2026-09-26).',
   },
   {
     q: 'Do I get the results?',

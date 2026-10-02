@@ -76,7 +76,7 @@ Sorted by Saturday open time, then rolling fee. "Walk-ins" alone means DOJ lists
 | --- | --- | --- |
 | Advance Livescan Fingerprinting | Weekdays appointment-only 9:00 am–2:00 pm on DOJ — **no Saturday**. Fee $35.00; Cash + Credit Cards; Mobile Yes; phone (650) 222-5329. Street address **UNVERIFIED** (DOJ shows Millbrae, CA 94030 locality only — no thoroughfare on county list or detail). | [DOJ detail](https://oag.ca.gov/fingerprints/locations/advance-livescan-fingerprinting) |
 
-Shops in Menlo Park, Foster City, Belmont, San Mateo, Burlingame, Pacifica, San Bruno, South San Francisco, Daly City, Redwood City, San Francisco, and other San Mateo County cities are **other cities** (not listed here). Foster City, Belmont, Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages.
+Shops in other San Mateo County cities are **other cities** (not listed here). Foster City, Belmont, Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages.
 
 ## The official list still lies
 
@@ -118,9 +118,9 @@ The INCLUDE row lists cash plus card / account options on DOJ. Certifix #1444: b
 
 No. UPS pages advertise shipping / notary hours. Live Scan Saturday hours are the DOJ column. Example: Certifix #1444 lists Saturday Walk-ins 9:00 am – 5:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.
 
-### Why isn't Foster City / Belmont / San Mateo / Menlo Park on this list?
+### Why isn't Foster City / Belmont / San Mateo on this list?
 
-This page is the **city of Millbrae** only. Foster City, Belmont, Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages. San Bruno, Pacifica, and Menlo Park were previously researched with zero Saturday walk-ins — no pages. Other San Mateo County cities are other cities (accessed 2026-09-20).
+This page is the **city of Millbrae** only. Foster City, Belmont, Daly City, South San Francisco, Redwood City, Burlingame, San Mateo, and San Francisco already have their own Saturday walk-in pages. Other nearby San Mateo County cities are separate cities (accessed 2026-09-20).
 
 ### Do I get the results?
 
