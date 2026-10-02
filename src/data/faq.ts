@@ -1385,3 +1385,46 @@ export const unionCityFaq: FaqItem[] = [
     a: 'Cheapest rolling fee among INCLUDE rows: $30.00 (Naka Tax & Insurance Services LLC at 31824 Alvarado Blvd; tied with VanLang Immigration & Tax LLC at 32611 Alvarado Blvd, Suite A). Earliest Saturday open: Naka Tax & Insurance Services LLC at 9:00 am (tied with The UPS Store #3145). Latest close: Naka Tax & Insurance Services LLC at 8:00 pm. Highest INCLUDE fee: $35.00 (The UPS Store #3145).',
   },
 ];
+
+export const sanRamonFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in San Ramon?',
+    a: 'This page lists 6 DOJ-listed Live Scan sites with a San Ramon street address. 5 take Saturday walk-ins: The UPS Store #0766, The UPS Store #6132, SKRL Solutions dba Postal Annex 21014, The UPS Store #3035, and The UPS Store 2930. Other-day hours come from each shop\'s DOJ page where shown. This is not every DOJ site in San Ramon; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in San Ramon?',
+    a: 'It depends on the shop and the day. On DOJ, The UPS Store #0766 takes walk-ins and appointments on weekdays, Saturday, and Sunday; The UPS Store #6132 takes walk-ins on weekdays, Saturday, and Sunday; SKRL Solutions dba Postal Annex 21014, The UPS Store #3035, and The UPS Store 2930 take walk-ins and appointments on weekdays and Saturday; San Ramon Police Department is weekday appointment-only with no Saturday on DOJ. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
+    q: 'Can I walk in Saturday in San Ramon without an appointment?',
+    a: 'Yes for the 5 DOJ Saturday walk-in rows on this page (city of San Ramon street addresses only): The UPS Store #0766, The UPS Store #6132, SKRL Solutions dba Postal Annex 21014, The UPS Store #3035, and The UPS Store 2930. Four of those shops list Walk-ins & Appointments on Saturday; The UPS Store #6132 lists Walk-ins. One other San Ramon DOJ row (San Ramon Police Department) has no Saturday on DOJ. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. INCLUDE rolling fees on DOJ: $40.00 (SKRL Solutions dba Postal Annex 21014), $45.00 (The UPS Store #3035; The UPS Store 2930), $48.00 (The UPS Store #0766), and $60.00 (The UPS Store #6132).',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'All six San Ramon DOJ rows on this page list cash. The UPS Store #0766: billing, cash, corporate, credit, debit. The UPS Store #6132: cash, company checks, credit, debit. SKRL Solutions dba Postal Annex 21014: cash, credit, debit. The UPS Store #3035 and The UPS Store 2930: billing, cash, cashier\'s check, checks, company checks, corporate, credit, debit, money order. SKIP row (San Ramon Police Department) lists cash and checks on DOJ. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are store hours the fingerprint hours?',
+    a: 'No. Shipping / retail hours on a shop\'s own page are not Live Scan hours. Live Scan Saturday hours are the DOJ column. Example: The UPS Store #0766 lists Saturday Walk-ins & Appointments 9:00 am – 4:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t Concord / Walnut Creek / Danville on this list?',
+    a: 'This page is the city of San Ramon only. Concord, Walnut Creek, and Richmond already have their own Live Scan pages. Pleasanton, Dublin, and Livermore (nearby Tri-Valley) also have their own pages. Danville and other nearby cities are other cities (accessed 2026-10-01).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in San Ramon?',
+    a: 'Cheapest rolling fee among INCLUDE rows: $40.00 (SKRL Solutions dba Postal Annex 21014 at 9110 Alcosta Blvd, Suite H). Earliest Saturday open: The UPS Store #0766 at 9:00 am (tied with The UPS Store #6132). Latest close: The UPS Store #3035 at 5:00 pm (tied with The UPS Store #6132 and The UPS Store 2930). Highest INCLUDE fee: $60.00 (The UPS Store #6132).',
+  },
+];

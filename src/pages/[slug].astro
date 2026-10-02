@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 import { getCollection, render } from 'astro:content';
 import type { FaqItem } from '../data/faq';
-import { oaklandFaq, berkeleyFaq, alamedaSundayFaq, sanFranciscoFaq, oaklandCashFaq, oaklandTeacherFaq, oaklandDowntownFruitvaleFaq, sanJoseFaq, fremontFaq, concordFaq, haywardFaq, walnutCreekFaq, richmondFaq, santaClaraFaq, sunnyvaleFaq, dalyCityFaq, southSanFranciscoFaq, redwoodCityFaq, burlingameFaq, sanMateoFaq, belmontFaq, fosterCityFaq, millbraeFaq, mountainViewFaq, paloAltoFaq, milpitasFaq, pleasantonFaq, campbellFaq, dublinFaq, livermoreFaq, sanLeandroFaq, unionCityFaq } from '../data/faq';
+import { oaklandFaq, berkeleyFaq, alamedaSundayFaq, sanFranciscoFaq, oaklandCashFaq, oaklandTeacherFaq, oaklandDowntownFruitvaleFaq, sanJoseFaq, fremontFaq, concordFaq, haywardFaq, walnutCreekFaq, richmondFaq, santaClaraFaq, sunnyvaleFaq, dalyCityFaq, southSanFranciscoFaq, redwoodCityFaq, burlingameFaq, sanMateoFaq, belmontFaq, fosterCityFaq, millbraeFaq, mountainViewFaq, paloAltoFaq, milpitasFaq, pleasantonFaq, campbellFaq, dublinFaq, livermoreFaq, sanLeandroFaq, unionCityFaq, sanRamonFaq } from '../data/faq';
 import { listingsBySlug, itemListJsonLd } from '../data/listings';
 
 export async function getStaticPaths() {
@@ -49,6 +49,7 @@ const faqById: Record<string, FaqItem[] | undefined> = {
   'livermore-saturday-walk-in-live-scan': livermoreFaq,
   'san-leandro-saturday-walk-in-live-scan': sanLeandroFaq,
   'union-city-saturday-walk-in-live-scan': unionCityFaq,
+  'san-ramon-saturday-walk-in-live-scan': sanRamonFaq,
 };
 const faq = faqById[entry.id];
 const site = Astro.site ?? new URL('https://saturdaylivescan.com');
