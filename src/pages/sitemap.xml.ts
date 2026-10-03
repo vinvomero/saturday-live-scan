@@ -26,6 +26,10 @@ export const GET: APIRoute = async ({ site }) => {
       .join('\n') +
     `\n</urlset>\n`;
   return new Response(body, {
-    headers: { 'Content-Type': 'application/xml; charset=utf-8' },
+    status: 200,
+    headers: {
+      'Content-Type': 'application/xml; charset=utf-8',
+      'Cache-Control': 'public, max-age=600',
+    },
   });
 };
