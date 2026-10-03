@@ -151,6 +151,7 @@ for (const loc of [
   `${origin}san-leandro-saturday-walk-in-live-scan/`,
   `${origin}union-city-saturday-walk-in-live-scan/`,
   `${origin}san-ramon-saturday-walk-in-live-scan/`,
+  `${origin}newark-saturday-walk-in-live-scan/`,
   `${origin}faq/`,
 ]) {
   if (!sitemap.includes(`<loc>${loc}</loc>`)) fail(`sitemap missing ${loc}`);
@@ -184,6 +185,7 @@ for (const loc of [
   `${origin}san-leandro-saturday-walk-in-live-scan/`,
   `${origin}union-city-saturday-walk-in-live-scan/`,
   `${origin}san-ramon-saturday-walk-in-live-scan/`,
+  `${origin}newark-saturday-walk-in-live-scan/`,
   `${origin}faq/`,
 ]) {
   if (!llms.includes(loc)) fail(`llms.txt missing ${loc}`);
@@ -291,6 +293,7 @@ function checkPage(
     `${base}san-leandro-saturday-walk-in-live-scan/`,
     `${base}union-city-saturday-walk-in-live-scan/`,
     `${base}san-ramon-saturday-walk-in-live-scan/`,
+    `${base}newark-saturday-walk-in-live-scan/`,
     `${base}faq/`,
   ]) {
     if (!html.includes(`href="${href}"`)) fail(`${rel}: missing internal link ${href}`);
@@ -562,7 +565,8 @@ const cityFiles = [
   'fremont-saturday-walk-in-live-scan', 'hayward-saturday-walk-in-live-scan',
   'livermore-saturday-walk-in-live-scan', 'millbrae-saturday-walk-in-live-scan',
   'milpitas-saturday-walk-in-live-scan', 'mountain-view-saturday-walk-in-live-scan',
-  'oakland-saturday-walk-in-live-scan', 'palo-alto-saturday-walk-in-live-scan',
+  'newark-saturday-walk-in-live-scan', 'oakland-saturday-walk-in-live-scan',
+  'palo-alto-saturday-walk-in-live-scan',
   'pleasanton-saturday-walk-in-live-scan', 'redwood-city-saturday-walk-in-live-scan',
   'richmond-saturday-walk-in-live-scan', 'san-francisco-saturday-walk-in-live-scan',
   'san-jose-saturday-walk-in-live-scan', 'san-leandro-saturday-walk-in-live-scan',

@@ -1428,3 +1428,46 @@ export const sanRamonFaq: FaqItem[] = [
     a: 'Cheapest rolling fee among INCLUDE rows: $40.00 (SKRL Solutions dba Postal Annex 21014 at 9110 Alcosta Blvd, Suite H). Earliest Saturday open: The UPS Store #0766 at 9:00 am (tied with The UPS Store #6132). Latest close: The UPS Store #3035 at 5:00 pm (tied with The UPS Store #6132 and The UPS Store 2930). Highest INCLUDE fee: $60.00 (The UPS Store #6132).',
   },
 ];
+
+export const newarkFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Newark?',
+    a: 'This page lists 4 DOJ-listed Live Scan sites with a Newark street address. 4 take Saturday walk-ins: The UPS Store #1411, Postal Annex #452, Mail N Services & World Wireless, and shipNmailbox. Other-day hours come from each shop\'s DOJ page where shown. This is not every DOJ site in Newark; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Newark?',
+    a: 'It depends on the shop and the day. On DOJ, The UPS Store #1411 takes walk-ins on weekdays, Saturday, and Sunday; Postal Annex #452 takes walk-ins on weekdays and Saturday; Mail N Services & World Wireless and shipNmailbox take walk-ins and appointments on weekdays and Saturday. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
+    q: 'Can I walk in Saturday in Newark without an appointment?',
+    a: 'Yes for the 4 DOJ Saturday walk-in rows on this page (city of Newark street addresses only): The UPS Store #1411, Postal Annex #452, Mail N Services & World Wireless, and shipNmailbox. Two of those shops list Walk-ins on Saturday; Mail N Services & World Wireless and shipNmailbox list Walk-ins & Appointments. No other Newark DOJ street row is Saturday Appt. only or weekday-only tonight. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. INCLUDE rolling fees on DOJ: $20.00 (Mail N Services & World Wireless), $25.00 (Postal Annex #452), $30.00 (shipNmailbox), and $40.00 (The UPS Store #1411).',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'All four Newark DOJ rows on this page list cash. The UPS Store #1411: billing, cash, cashier\'s check, checks, company checks, credit, debit. Postal Annex #452: billing, cash, checks, company checks, credit. Mail N Services & World Wireless: billing, cash, credit, debit. shipNmailbox: billing, cash, corporate, credit, debit, money order. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are store hours the fingerprint hours?',
+    a: 'No. Shipping / retail hours on a shop\'s own page are not Live Scan hours. Live Scan Saturday hours are the DOJ column. Example: The UPS Store #1411 lists Saturday Walk-ins 9:00 am – 5:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t Fremont / Union City / Hayward on this list?',
+    a: 'This page is the city of Newark only. Fremont, Union City, Hayward, Oakland, Berkeley, Pleasanton, Dublin, Livermore, and San Leandro already have their own Live Scan pages. Other nearby cities are other cities (accessed 2026-10-02).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Newark?',
+    a: 'Cheapest rolling fee among INCLUDE rows: $20.00 (Mail N Services & World Wireless at 35111-F Newark Blvd). Earliest Saturday open: The UPS Store #1411 at 9:00 am. Latest close: Postal Annex #452 at 5:30 pm. Highest INCLUDE fee: $40.00 (The UPS Store #1411).',
+  },
+];
