@@ -1,6 +1,8 @@
 import type { APIRoute } from 'astro';
 import { cityEntries, latestUpdated, pageUrl } from '../lib/site-urls';
 
+export const prerender = true;
+
 export const GET: APIRoute = async ({ site }) => {
   const cities = await cityEntries();
   const latest = latestUpdated(cities);
