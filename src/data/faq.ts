@@ -1471,3 +1471,46 @@ export const newarkFaq: FaqItem[] = [
     a: 'Cheapest rolling fee among INCLUDE rows: $20.00 (Mail N Services & World Wireless at 35111-F Newark Blvd). Earliest Saturday open: The UPS Store #1411 at 9:00 am. Latest close: Postal Annex #452 at 5:30 pm. Highest INCLUDE fee: $40.00 (The UPS Store #1411).',
   },
 ];
+
+export const antiochFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Antioch?',
+    a: 'This page lists 11 DOJ-listed Live Scan sites with an Antioch street address. 4 take Saturday walk-ins: The UPS Store #0281, The UPS Store #7094, ADETRONICS, and Postal Annex #144. Other-day hours come from each shop\'s DOJ page where shown. This is not every DOJ site in Antioch; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Antioch?',
+    a: 'It depends on the shop and the day. On DOJ, 7 of 11 take weekday walk-ins; 4 are appointment-only on weekdays. 4 take Saturday walk-ins; 4 are Saturday appointment-only; 3 list no Saturday. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
+    q: 'Can I walk in Saturday in Antioch without an appointment?',
+    a: 'Yes for the 4 DOJ Saturday walk-in rows on this page (city of Antioch street addresses only): The UPS Store #0281, The UPS Store #7094, ADETRONICS, and Postal Annex #144. The UPS Store #0281 and Postal Annex #144 list Walk-ins on Saturday; ADETRONICS and The UPS Store #7094 list Walk-ins & Appointments. Seven other Antioch street rows are Saturday appointment-only or have no Saturday on DOJ. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. INCLUDE rolling fees on DOJ: $25.00 (ADETRONICS), $38.00 (Postal Annex #144), and $40.00 (The UPS Store #0281 and The UPS Store #7094).',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'All four Antioch Saturday walk-in INCLUDE rows on this page list cash. The UPS Store #0281: cash, credit, debit. The UPS Store #7094: billing, cash, cashier\'s check, checks, company checks, corporate, credit, debit. ADETRONICS: billing, cash, cashier\'s check, company checks, corporate, credit, debit, money order. Postal Annex #144: cash, company checks, corporate, credit, debit. The UPS Store #0281 and Postal Annex #144 list no Billing Accounts on DOJ. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are store hours the fingerprint hours?',
+    a: 'No. Shipping / retail hours on a shop\'s own page are not Live Scan hours. Live Scan Saturday hours are the DOJ column. Example: The UPS Store #0281 lists Saturday Walk-ins 9:00 am – 5:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t Concord / Richmond / Walnut Creek on this list?',
+    a: 'This page is the city of Antioch only. Concord, Richmond, Walnut Creek, and San Ramon already have their own Live Scan pages. Other nearby cities are other cities (accessed 2026-10-03).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Antioch?',
+    a: 'Cheapest rolling fee among INCLUDE rows: $25.00 (ADETRONICS at 2006 A Street, Suite 208). Earliest Saturday open: The UPS Store #0281 at 9:00 am. Latest close: The UPS Store #0281 at 5:00 pm. Highest INCLUDE fee: $40.00 (The UPS Store #0281 and The UPS Store #7094).',
+  },
+];

@@ -152,6 +152,7 @@ for (const loc of [
   `${origin}union-city-saturday-walk-in-live-scan/`,
   `${origin}san-ramon-saturday-walk-in-live-scan/`,
   `${origin}newark-saturday-walk-in-live-scan/`,
+  `${origin}antioch-saturday-walk-in-live-scan/`,
   `${origin}faq/`,
 ]) {
   if (!sitemap.includes(`<loc>${loc}</loc>`)) fail(`sitemap missing ${loc}`);
@@ -186,6 +187,7 @@ for (const loc of [
   `${origin}union-city-saturday-walk-in-live-scan/`,
   `${origin}san-ramon-saturday-walk-in-live-scan/`,
   `${origin}newark-saturday-walk-in-live-scan/`,
+  `${origin}antioch-saturday-walk-in-live-scan/`,
   `${origin}faq/`,
 ]) {
   if (!llms.includes(loc)) fail(`llms.txt missing ${loc}`);
@@ -294,6 +296,7 @@ function checkPage(
     `${base}union-city-saturday-walk-in-live-scan/`,
     `${base}san-ramon-saturday-walk-in-live-scan/`,
     `${base}newark-saturday-walk-in-live-scan/`,
+    `${base}antioch-saturday-walk-in-live-scan/`,
     `${base}faq/`,
   ]) {
     if (!html.includes(`href="${href}"`)) fail(`${rel}: missing internal link ${href}`);
@@ -574,6 +577,7 @@ const cityFiles = [
   'santa-clara-saturday-walk-in-live-scan',
   'south-san-francisco-saturday-walk-in-live-scan', 'sunnyvale-saturday-walk-in-live-scan',
   'union-city-saturday-walk-in-live-scan', 'walnut-creek-saturday-walk-in-live-scan',
+  'antioch-saturday-walk-in-live-scan',
   'oakland-saturday-cash-live-scan', 'oakland-saturday-teacher-credential-live-scan',
   'oakland-saturday-downtown-vs-fruitvale-live-scan', 'alameda-county-sunday-live-scan',
 ];
