@@ -1514,3 +1514,46 @@ export const antiochFaq: FaqItem[] = [
     a: 'Cheapest rolling fee among INCLUDE rows: $25.00 (ADETRONICS at 2006 A Street, Suite 208). Earliest Saturday open: The UPS Store #0281 at 9:00 am. Latest close: The UPS Store #0281 at 5:00 pm. Highest INCLUDE fee: $40.00 (The UPS Store #0281 and The UPS Store #7094).',
   },
 ];
+
+export const vallejoFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Vallejo?',
+    a: 'This page lists 6 DOJ-listed Live Scan sites with a Vallejo street address. 3 take Saturday walk-ins: The UPS Store #1129, The UPS Store #1523, and Glen Cove Mailbox Center. Other-day hours come from each shop\'s DOJ page where shown. This is not every DOJ site in Vallejo; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Vallejo?',
+    a: 'It depends on the shop and the day. On DOJ, The UPS Store #1129 and The UPS Store #1523 list Walk-ins & Appointments on weekdays and Saturday. Glen Cove Mailbox Center lists Walk-ins & Appointments weekdays 9:00 am – 3:00 pm and Saturday, and Appt. only weekdays 3:00 pm – 6:00 pm. Wise Choice Special Services Inc lists Walk-ins & Appointments Monday, Tuesday, and Wednesday and is Saturday appointment-only. C-Dat LLC lists weekday Walk-ins and 1ST PLACE VEHICLE REGISTRATION & LIVESCAN lists weekday Walk-ins & Appointments; neither lists Saturday. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
+    q: 'Can I walk in Saturday in Vallejo without an appointment?',
+    a: 'Yes for the 3 DOJ Saturday walk-in rows on this page (city of Vallejo street addresses only): The UPS Store #1129, The UPS Store #1523, and Glen Cove Mailbox Center. All three list Walk-ins & Appointments on Saturday, so appointments may still jump the line. Three other Vallejo street rows are Saturday appointment-only or have no Saturday on DOJ. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. INCLUDE rolling fees on DOJ: $30.00 (The UPS Store #1129) and $35.00 (The UPS Store #1523 and Glen Cove Mailbox Center).',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'All three Vallejo Saturday walk-in INCLUDE rows on this page list cash. The UPS Store #1129: billing, cash, cashier\'s check, credit, debit, IIS escrow, money order. The UPS Store #1523: cash, credit, debit. Glen Cove Mailbox Center: billing, cash, cashier\'s check, checks, company checks, corporate, credit, debit, money order. The UPS Store #1523 lists no Billing Accounts on DOJ. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are store hours the fingerprint hours?',
+    a: 'No. Shipping / retail hours on a shop\'s own page are not Live Scan hours. Live Scan Saturday hours are the DOJ column. Example: The UPS Store #1523 lists Saturday Walk-ins & Appointments 9:00 am – 5:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t Benicia / Fairfield / Vacaville on this list?',
+    a: 'This page is the city of Vallejo only. Benicia, Fairfield, Vacaville, Suisun City, and other Solano County cities are other cities and are not listed here. Richmond, Concord, and Berkeley already have their own Live Scan pages. Other nearby cities are other cities (accessed 2026-10-04).',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Vallejo?',
+    a: 'Cheapest rolling fee among INCLUDE rows: $30.00 (The UPS Store #1129 at 3505 Sonoma Blvd, Suite 20). Earliest Saturday open: all three INCLUDE rows open at 9:00 am. Latest close: The UPS Store #1129 and The UPS Store #1523 at 5:00 pm. Highest INCLUDE fee: $35.00 (The UPS Store #1523 and Glen Cove Mailbox Center).',
+  },
+];

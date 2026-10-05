@@ -116,6 +116,20 @@ export const listingsBySlug: Record<string, ShopListing[]> = {
       address: '7172 Regional Street, Dublin, CA 94568',
     },
   ],
+  'vallejo-saturday-walk-in-live-scan': [
+    {
+      name: 'The UPS Store #1129',
+      address: '3505 Sonoma Blvd, Suite 20, Vallejo, CA 94591',
+    },
+    {
+      name: 'The UPS Store #1523',
+      address: '55 Springstowne Center, Vallejo, CA 94591',
+    },
+    {
+      name: 'Glen Cove Mailbox Center',
+      address: '164 Robles Way, Vallejo, CA 94591',
+    },
+  ],
 };
 
 export function itemListJsonLd(listings: ShopListing[]): Record<string, unknown> {
