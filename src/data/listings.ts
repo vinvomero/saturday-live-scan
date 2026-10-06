@@ -130,6 +130,20 @@ export const listingsBySlug: Record<string, ShopListing[]> = {
       address: '164 Robles Way, Vallejo, CA 94591',
     },
   ],
+  'fairfield-saturday-walk-in-live-scan': [
+    {
+      name: 'The UPS Store #2110',
+      address: '2401 Waterman Blvd, Suite A4, Fairfield, CA 94534',
+    },
+    {
+      name: 'The UPS Store #3954',
+      address: '5055 Business Center Drive, Suite 108, Fairfield, CA 94534',
+    },
+    {
+      name: 'Specialty Tax',
+      address: '737 Jefferson Street, Fairfield, CA 94533',
+    },
+  ],
 };
 
 export function itemListJsonLd(listings: ShopListing[]): Record<string, unknown> {
