@@ -144,6 +144,20 @@ export const listingsBySlug: Record<string, ShopListing[]> = {
       address: '737 Jefferson Street, Fairfield, CA 94533',
     },
   ],
+  'alameda-saturday-walk-in-live-scan': [
+    {
+      name: 'The UPS Store #0447',
+      address: '875 Island Drive, Suite A, Alameda, CA 94502',
+    },
+    {
+      name: 'Certifix Live Scan dbw The UPS Store #0578',
+      address: '909 Marina Village Pkwy, Alameda, CA 94501',
+    },
+    {
+      name: 'The UPS Store #5898',
+      address: '2601 Blanding Ave, Suite C, Alameda, CA 94501',
+    },
+  ],
 };
 
 export function itemListJsonLd(listings: ShopListing[]): Record<string, unknown> {
