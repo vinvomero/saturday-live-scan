@@ -158,6 +158,20 @@ export const listingsBySlug: Record<string, ShopListing[]> = {
       address: '2601 Blanding Ave, Suite C, Alameda, CA 94501',
     },
   ],
+  'pittsburg-saturday-walk-in-live-scan': [
+    {
+      name: 'The UPS Store #7269',
+      address: '4322 Century Blvd, Pittsburg, CA 94565',
+    },
+    {
+      name: 'SKSS Enterprises, Inc. dba The UPS Store # 5984',
+      address: '2120 Railroad Avenue, Suite #103, Pittsburg, CA 94565',
+    },
+    {
+      name: 'The UPS Store #1064',
+      address: '640 Bailey Road, Pittsburg, CA 94565',
+    },
+  ],
 };
 
 export function itemListJsonLd(listings: ShopListing[]): Record<string, unknown> {

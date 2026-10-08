@@ -1643,3 +1643,46 @@ export const alamedaFaq: FaqItem[] = [
     a: 'Cheapest rolling fee among INCLUDE rows: $45.00, a tie between The UPS Store #0447 (875 Island Drive, Suite A) and Certifix Live Scan dbw The UPS Store #0578 (909 Marina Village Pkwy). Earliest Saturday open: all three at 10:00 am. Latest close: The UPS Store #5898 at 6:00 pm (2601 Blanding Ave, Suite C). Highest INCLUDE fee: $48.00 (The UPS Store #5898, Saturday Walk-ins 10:00 am – 6:00 pm).',
   },
 ];
+
+export const pittsburgFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Pittsburg?',
+    a: 'This page lists 5 DOJ-listed Live Scan sites with a Pittsburg, California street address. 3 take Saturday walk-ins: The UPS Store #7269, SKSS Enterprises, Inc. dba The UPS Store # 5984, and The UPS Store #1064. Other-day hours come from each shop\'s DOJ page where shown. This is not every DOJ site in Pittsburg; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Pittsburg?',
+    a: 'It depends on the shop and the day. On DOJ, SKSS Enterprises, Inc. dba The UPS Store # 5984 takes walk-ins on weekdays and Saturday. The UPS Store #1064 and The UPS Store #7269 list Walk-ins & Appointments on weekdays and Saturday, and The UPS Store #7269 also on Sunday. E.N. Associates lists weekday Walk-ins & Appointments 10:00 am – 4:00 pm, then Appt. only 4:00 pm – 7:00 pm, and no Saturday. Pittsburg Police Department is weekday appointment-only. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
+    q: 'Can I walk in Saturday in Pittsburg without an appointment?',
+    a: 'Yes for the 3 DOJ Saturday walk-in rows on this page (Pittsburg street addresses only): The UPS Store #7269, SKSS Enterprises, Inc. dba The UPS Store # 5984, and The UPS Store #1064. SKSS Enterprises, Inc. dba The UPS Store # 5984 lists Walk-ins on Saturday; The UPS Store #7269 and The UPS Store #1064 list Walk-ins & Appointments, so appointments may still jump the line there. E.N. Associates and Pittsburg Police Department list no Saturday on DOJ. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. INCLUDE rolling fees on DOJ: $40.00 (SKSS Enterprises, Inc. dba The UPS Store # 5984), $45.00 (The UPS Store #1064), and The UPS Store #7269, which DOJ lists twice at the same street and phone with two different fees, $38.00 and $44.99. Ask The UPS Store #7269 which fee applies before you go.',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'All three Pittsburg Saturday walk-in INCLUDE rows on this page list cash, credit cards, and debit cards on DOJ. The UPS Store #7269: billing, cash, credit, debit on both DOJ entries; the $38.00 entry also lists checks, company checks, cashier\'s check, corporate accounts, and money order. SKSS Enterprises, Inc. dba The UPS Store # 5984: cash, credit, debit, and no Billing Accounts on DOJ. The UPS Store #1064: billing, cash, credit, debit. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are store hours the fingerprint hours?',
+    a: 'No. Shipping / retail hours on a shop\'s own page are not Live Scan hours. Live Scan Saturday hours are the DOJ column. Example: The UPS Store #1064 lists Saturday Walk-ins & Appointments 9:00 am – 5:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t Antioch / Concord on this list?',
+    a: 'This page is the city of Pittsburg, California only, not Contra Costa County. Antioch, Concord, Walnut Creek, Richmond, San Ramon, and other Contra Costa localities are other cities and are not listed here; those already have their own Live Scan pages. Other nearby cities are other cities (accessed 2026-10-07). This page is also not Pittsburgh, Pennsylvania.',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Pittsburg?',
+    a: 'Earliest Saturday open: all three at 9:00 am, and all three close at 5:00 pm. Lowest rolling fee listed on DOJ: $38.00 on one of the two DOJ entries for The UPS Store #7269 (4322 Century Blvd); its other entry lists $44.99. Cheapest INCLUDE row with a single DOJ fee: SKSS Enterprises, Inc. dba The UPS Store # 5984 at $40.00 (2120 Railroad Avenue, Suite #103). Highest single INCLUDE fee: $45.00 (The UPS Store #1064, 640 Bailey Road).',
+  },
+];
