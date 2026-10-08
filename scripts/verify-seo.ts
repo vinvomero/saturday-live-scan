@@ -156,6 +156,7 @@ for (const loc of [
   `${origin}vallejo-saturday-walk-in-live-scan/`,
   `${origin}fairfield-saturday-walk-in-live-scan/`,
   `${origin}alameda-saturday-walk-in-live-scan/`,
+  `${origin}pittsburg-saturday-walk-in-live-scan/`,
   `${origin}faq/`,
 ]) {
   if (!sitemap.includes(`<loc>${loc}</loc>`)) fail(`sitemap missing ${loc}`);
@@ -194,6 +195,7 @@ for (const loc of [
   `${origin}vallejo-saturday-walk-in-live-scan/`,
   `${origin}fairfield-saturday-walk-in-live-scan/`,
   `${origin}alameda-saturday-walk-in-live-scan/`,
+  `${origin}pittsburg-saturday-walk-in-live-scan/`,
   `${origin}faq/`,
 ]) {
   if (!llms.includes(loc)) fail(`llms.txt missing ${loc}`);
@@ -306,6 +308,7 @@ function checkPage(
     `${base}vallejo-saturday-walk-in-live-scan/`,
     `${base}fairfield-saturday-walk-in-live-scan/`,
     `${base}alameda-saturday-walk-in-live-scan/`,
+    `${base}pittsburg-saturday-walk-in-live-scan/`,
     `${base}faq/`,
   ]) {
     if (!html.includes(`href="${href}"`)) fail(`${rel}: missing internal link ${href}`);
@@ -588,6 +591,7 @@ const cityFiles = [
   'union-city-saturday-walk-in-live-scan', 'walnut-creek-saturday-walk-in-live-scan',
   'antioch-saturday-walk-in-live-scan', 'vallejo-saturday-walk-in-live-scan',
   'fairfield-saturday-walk-in-live-scan', 'alameda-saturday-walk-in-live-scan',
+  'pittsburg-saturday-walk-in-live-scan',
   'oakland-saturday-cash-live-scan', 'oakland-saturday-teacher-credential-live-scan',
   'oakland-saturday-downtown-vs-fruitvale-live-scan', 'alameda-county-sunday-live-scan',
 ];
