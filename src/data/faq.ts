@@ -1686,3 +1686,46 @@ export const pittsburgFaq: FaqItem[] = [
     a: 'Earliest Saturday open: all three at 9:00 am, and all three close at 5:00 pm. Lowest rolling fee listed on DOJ: $38.00 on one of the two DOJ entries for The UPS Store #7269 (4322 Century Blvd); its other entry lists $44.99. Cheapest INCLUDE row with a single DOJ fee: SKSS Enterprises, Inc. dba The UPS Store # 5984 at $40.00 (2120 Railroad Avenue, Suite #103). Highest single INCLUDE fee: $45.00 (The UPS Store #1064, 640 Bailey Road).',
   },
 ];
+
+export const santaRosaFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Santa Rosa?',
+    a: 'This page lists 13 DOJ-listed Live Scan sites with a Santa Rosa, California street address. 7 take Saturday walk-ins: see Open Saturday. Other-day hours come from each shop\'s DOJ page where shown. This is not every DOJ site in Sonoma County; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Santa Rosa?',
+    a: 'It depends on the shop and the day. On DOJ, of the 13 Santa Rosa sites on this page, 5 take weekday walk-ins, 6 list weekday Walk-ins & Appointments, and 2 are appointment-only on weekdays. On Saturday, 3 list Walk-ins, 4 list Walk-ins & Appointments, 1 is appointment-only, and 5 list no Saturday. 5 also list Sunday hours: 2 Walk-ins, 1 Walk-ins & Appointments, and 2 appointment-only. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
+    q: 'Can I walk in Saturday in Santa Rosa without an appointment?',
+    a: 'Yes for the 7 DOJ Saturday walk-in rows on this page (Santa Rosa street addresses only): The UPS Store #2189, Gil\'s Business Tax Services, INC., The UPS Store 7577, The UPS Store # 5804, The UPS Store #4739, The UPS Store #6261, and Postal Plus, Inc.. The UPS Store # 5804, The UPS Store #4739, and The UPS Store #6261 list Walk-ins on Saturday; The UPS Store #2189, Gil\'s Business Tax Services, INC., The UPS Store 7577, and Postal Plus, Inc. list Walk-ins & Appointments, so appointments may still jump the line there. The UPS Store 7669 is Saturday appointment-only on DOJ, and 5 other Santa Rosa sites list no Saturday. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. INCLUDE rolling fees on DOJ: $30.00 (The UPS Store #2189), $35.00 (Gil\'s Business Tax Services, INC. and Postal Plus, Inc.), $45.00 (The UPS Store 7577), $50.00 (The UPS Store # 5804 and The UPS Store #6261), and $60.00 (The UPS Store #4739). Five of the seven DOJ pages also say additional service fees may apply. Ask the shop before you go.',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'All seven Santa Rosa Saturday walk-in INCLUDE rows on this page list cash, credit cards, and debit cards on DOJ. The UPS Store #4739 and The UPS Store 7577 list no Billing Accounts on DOJ; The UPS Store #4739 also lists checks and company checks. Postal Plus, Inc., The UPS Store # 5804, The UPS Store #6261, and The UPS Store 7577 list cashier\'s check, and Postal Plus, Inc., The UPS Store # 5804, and The UPS Store #6261 also list money order. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are store hours the fingerprint hours?',
+    a: 'No. Shipping / retail hours on a shop\'s own page are not Live Scan hours. Live Scan Saturday hours are the DOJ column. Example: The UPS Store #2189 lists Saturday Walk-ins & Appointments 9:00 am – 5:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t Petaluma / Rohnert Park on this list?',
+    a: 'This page is the city of Santa Rosa, California only, not Sonoma County. Windsor, Rohnert Park, Petaluma, Healdsburg, Sebastopol, and Sonoma are other localities on the DOJ Sonoma County list and are not listed here; see the DOJ county list for those (accessed 2026-10-09). Other nearby cities are other cities. This page is also not Santa Clara, which has its own Live Scan page.',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Santa Rosa?',
+    a: 'Earliest Saturday open: 9:00 am at five INCLUDE rows (The UPS Store #2189, Gil\'s Business Tax Services, INC., The UPS Store 7577, The UPS Store # 5804, and The UPS Store #4739). Latest close: 5:00 pm at The UPS Store #2189, Gil\'s Business Tax Services, INC., and The UPS Store #4739. Lowest rolling fee listed on DOJ: $30.00 (The UPS Store #2189, 122 Calistoga Road). Highest INCLUDE fee: $60.00 (The UPS Store #4739, 2360 Mendocino Avenue, #A2). Shortest Saturday window: Postal Plus, Inc., 10:00 am – 2:00 pm.',
+  },
+];
