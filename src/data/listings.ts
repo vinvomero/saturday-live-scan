@@ -172,6 +172,36 @@ export const listingsBySlug: Record<string, ShopListing[]> = {
       address: '640 Bailey Road, Pittsburg, CA 94565',
     },
   ],
+  'santa-rosa-saturday-walk-in-live-scan': [
+    {
+      name: 'The UPS Store #2189',
+      address: '122 Calistoga Road, Santa Rosa, CA 95409',
+    },
+    {
+      name: 'Gil\'s Business Tax Services, INC.',
+      address: '1534 Sebastopol Road, Santa Rosa, CA 95407',
+    },
+    {
+      name: 'The UPS Store 7577',
+      address: '711 STONY POINT RD. STE 7, Santa Rosa, CA 95407',
+    },
+    {
+      name: 'The UPS Store # 5804',
+      address: '1415 Fulton Road, Suite 205, Santa Rosa, CA 95403',
+    },
+    {
+      name: 'The UPS Store #4739',
+      address: '2360 Mendocino Avenue, #A2, Santa Rosa, CA 95403',
+    },
+    {
+      name: 'The UPS Store #6261',
+      address: '2661-A Santa Rosa Avenue, Santa Rosa, CA 95407',
+    },
+    {
+      name: 'Postal Plus, Inc.',
+      address: '422 Larkfield Center, Santa Rosa, CA 95403',
+    },
+  ],
 };
 
 export function itemListJsonLd(listings: ShopListing[]): Record<string, unknown> {
