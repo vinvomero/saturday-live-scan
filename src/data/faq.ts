@@ -1729,3 +1729,46 @@ export const santaRosaFaq: FaqItem[] = [
     a: 'Earliest Saturday open: 9:00 am at five INCLUDE rows (The UPS Store #2189, Gil\'s Business Tax Services, INC., The UPS Store 7577, The UPS Store # 5804, and The UPS Store #4739). Latest close: 5:00 pm at The UPS Store #2189, Gil\'s Business Tax Services, INC., and The UPS Store #4739. Lowest rolling fee listed on DOJ: $30.00 (The UPS Store #2189, 122 Calistoga Road). Highest INCLUDE fee: $60.00 (The UPS Store #4739, 2360 Mendocino Avenue, #A2). Shortest Saturday window: Postal Plus, Inc., 10:00 am – 2:00 pm.',
   },
 ];
+
+export const sanRafaelFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in San Rafael?',
+    a: 'This page lists 3 DOJ-listed Live Scan sites with a San Rafael, California street address. 2 take Saturday walk-ins: The UPS Store #6407 and The UPS Store #2623. Other-day hours come from each shop\'s DOJ page where shown. This is not every DOJ site in Marin County; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in San Rafael?',
+    a: 'It depends on the shop and the day. On DOJ, The UPS Store #6407 takes walk-ins on weekdays, Saturday, and Sunday; The UPS Store #2623 takes walk-ins on weekdays and Saturday; Marin County Sheriff\'s Office is appointment-only Monday to Thursday and lists no Saturday. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
+    q: 'Can I walk in Saturday in San Rafael without an appointment?',
+    a: 'Yes for the 2 DOJ Saturday walk-in rows on this page (San Rafael street addresses only): The UPS Store #6407 (8:00 am – 4:00 pm) and The UPS Store #2623 (10:00 am – 5:45 pm). Both list Walk-ins on Saturday on DOJ. Marin County Sheriff\'s Office lists no Saturday hours on DOJ. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. INCLUDE rolling fees on DOJ: $38.00 (The UPS Store #2623) and $40.00 (The UPS Store #6407). The The UPS Store #6407 DOJ page also says additional service fees may apply. Ask the shop before you go.',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'Both San Rafael Saturday walk-in INCLUDE rows on this page list billing accounts, cash, credit cards, and debit cards on DOJ. The UPS Store #2623 also lists company checks. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are store hours the fingerprint hours?',
+    a: 'No. Shipping / retail hours on a shop\'s own page are not Live Scan hours. Live Scan Saturday hours are the DOJ column. Example: The UPS Store #6407 lists Saturday Walk-ins 8:00 am – 4:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t Novato / Mill Valley on this list?',
+    a: 'This page is the city of San Rafael, California only, not Marin County. Novato, Mill Valley, Fairfax, Kentfield, and Tiburon are other localities on the DOJ Marin County list and are not listed here; see the DOJ county list for those (accessed 2026-10-09). Other nearby cities are other cities. This page is also not San Ramon, which has its own Live Scan page.',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in San Rafael?',
+    a: 'Earliest Saturday open: 8:00 am at The UPS Store #6407 (1005 Northgate Drive). Latest close: 5:45 pm at The UPS Store #2623. Lowest rolling fee listed on DOJ: $38.00 (The UPS Store #2623, 369-B 3rd Street). The UPS Store #6407 is $40.00.',
+  },
+];

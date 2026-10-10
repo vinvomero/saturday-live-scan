@@ -202,6 +202,16 @@ export const listingsBySlug: Record<string, ShopListing[]> = {
       address: '422 Larkfield Center, Santa Rosa, CA 95403',
     },
   ],
+  'san-rafael-saturday-walk-in-live-scan': [
+    {
+      name: 'The UPS Store #6407',
+      address: '1005 Northgate Drive, San Rafael, CA 94903',
+    },
+    {
+      name: 'The UPS Store #2623',
+      address: '369-B 3rd Street, San Rafael, CA 94901',
+    },
+  ],
 };
 
 export function itemListJsonLd(listings: ShopListing[]): Record<string, unknown> {
