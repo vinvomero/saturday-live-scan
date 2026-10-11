@@ -212,6 +212,16 @@ export const listingsBySlug: Record<string, ShopListing[]> = {
       address: '369-B 3rd Street, San Rafael, CA 94901',
     },
   ],
+  'napa-saturday-walk-in-live-scan': [
+    {
+      name: 'The UPS Store #3940',
+      address: '4225 Solano Avenue, Napa, CA 94558',
+    },
+    {
+      name: 'Photo Pro',
+      address: '1258 Trancas Street, Napa, CA 94558',
+    },
+  ],
 };
 
 export function itemListJsonLd(listings: ShopListing[]): Record<string, unknown> {

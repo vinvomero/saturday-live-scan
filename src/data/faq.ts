@@ -1772,3 +1772,46 @@ export const sanRafaelFaq: FaqItem[] = [
     a: 'Earliest Saturday open: 8:00 am at The UPS Store #6407 (1005 Northgate Drive). Latest close: 5:45 pm at The UPS Store #2623. Lowest rolling fee listed on DOJ: $38.00 (The UPS Store #2623, 369-B 3rd Street). The UPS Store #6407 is $40.00.',
   },
 ];
+
+export const napaFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Napa?',
+    a: 'This page lists 4 DOJ-listed Live Scan sites with a Napa, California street address. 2 take Saturday walk-ins: The UPS Store #3940 and Photo Pro. Other-day hours come from each shop\'s DOJ page where shown. This is not every DOJ site in Napa County; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Napa?',
+    a: 'It depends on the shop and the day. On DOJ, The UPS Store #3940 takes walk-ins on weekdays and lists walk-ins and appointments on Saturday; Photo Pro takes walk-ins on weekdays and Saturday; Napa Co. Sheriff\'s Dept. and Napa Police Depart. are weekday appointment-only and list no Saturday. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
+    q: 'Can I walk in Saturday in Napa without an appointment?',
+    a: 'Yes for the 2 DOJ Saturday walk-in rows on this page (Napa street addresses only): The UPS Store #3940 (9:00 am – 5:00 pm, walk-ins and appointments) and Photo Pro (10:00 am – 4:00 pm, walk-ins). Napa Co. Sheriff\'s Dept. and Napa Police Depart. list no Saturday hours on DOJ. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. INCLUDE rolling fees on DOJ: $23.00 (Photo Pro) and $25.00 (The UPS Store #3940). Both DOJ pages also say additional service fees may apply. Ask the shop before you go.',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'Both Napa Saturday walk-in INCLUDE rows on this page list billing accounts, cash, credit cards, and debit cards on DOJ, plus cashier\'s checks, company checks, corporate accounts, and money orders. The UPS Store #3940 also lists checks and IIS escrow accounts. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are store hours the fingerprint hours?',
+    a: 'No. Shipping / retail hours on a shop\'s own page are not Live Scan hours. Live Scan Saturday hours are the DOJ column. Example: The UPS Store #3940 lists Saturday Walk-ins & Appointments 9:00 am – 5:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t American Canyon / Calistoga on this list?',
+    a: 'This page is the city of Napa, California only, not Napa County. American Canyon and Calistoga are other localities on the DOJ Napa County list and are not listed here; see the DOJ county list for those (accessed 2026-10-10). Other nearby cities are other cities.',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Napa?',
+    a: 'Earliest Saturday open: 9:00 am at The UPS Store #3940 (4225 Solano Avenue). Latest close: 5:00 pm at The UPS Store #3940. Lowest rolling fee listed on DOJ: $23.00 (Photo Pro, 1258 Trancas Street, open 10:00 am – 4:00 pm). The UPS Store #3940 is $25.00.',
+  },
+];

@@ -159,6 +159,7 @@ for (const loc of [
   `${origin}pittsburg-saturday-walk-in-live-scan/`,
   `${origin}santa-rosa-saturday-walk-in-live-scan/`,
   `${origin}san-rafael-saturday-walk-in-live-scan/`,
+  `${origin}napa-saturday-walk-in-live-scan/`,
   `${origin}faq/`,
 ]) {
   if (!sitemap.includes(`<loc>${loc}</loc>`)) fail(`sitemap missing ${loc}`);
@@ -200,6 +201,7 @@ for (const loc of [
   `${origin}pittsburg-saturday-walk-in-live-scan/`,
   `${origin}santa-rosa-saturday-walk-in-live-scan/`,
   `${origin}san-rafael-saturday-walk-in-live-scan/`,
+  `${origin}napa-saturday-walk-in-live-scan/`,
   `${origin}faq/`,
 ]) {
   if (!llms.includes(loc)) fail(`llms.txt missing ${loc}`);
@@ -315,6 +317,7 @@ function checkPage(
     `${base}pittsburg-saturday-walk-in-live-scan/`,
     `${base}santa-rosa-saturday-walk-in-live-scan/`,
     `${base}san-rafael-saturday-walk-in-live-scan/`,
+    `${base}napa-saturday-walk-in-live-scan/`,
     `${base}faq/`,
   ]) {
     if (!html.includes(`href="${href}"`)) fail(`${rel}: missing internal link ${href}`);
@@ -598,7 +601,7 @@ const cityFiles = [
   'antioch-saturday-walk-in-live-scan', 'vallejo-saturday-walk-in-live-scan',
   'fairfield-saturday-walk-in-live-scan', 'alameda-saturday-walk-in-live-scan',
   'pittsburg-saturday-walk-in-live-scan', 'santa-rosa-saturday-walk-in-live-scan',
-  'san-rafael-saturday-walk-in-live-scan',
+  'san-rafael-saturday-walk-in-live-scan', 'napa-saturday-walk-in-live-scan',
   'oakland-saturday-cash-live-scan', 'oakland-saturday-teacher-credential-live-scan',
   'oakland-saturday-downtown-vs-fruitvale-live-scan', 'alameda-county-sunday-live-scan',
 ];
