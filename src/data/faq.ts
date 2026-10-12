@@ -1815,3 +1815,46 @@ export const napaFaq: FaqItem[] = [
     a: 'Earliest Saturday open: 9:00 am at The UPS Store #3940 (4225 Solano Avenue). Latest close: 5:00 pm at The UPS Store #3940. Lowest rolling fee listed on DOJ: $23.00 (Photo Pro, 1258 Trancas Street, open 10:00 am – 4:00 pm). The UPS Store #3940 is $25.00.',
   },
 ];
+
+export const brentwoodFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Brentwood?',
+    a: 'This page lists 4 DOJ-listed Live Scan sites with a Brentwood, California street address. 2 take Saturday walk-ins: The UPS Store #4291 and The UPS Store #2873. Other-day hours come from each shop\'s DOJ page where shown. This is not every DOJ site in Brentwood; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Brentwood?',
+    a: 'It depends on the shop and the day. On DOJ, The UPS Store #4291 takes walk-ins on weekdays, Saturday, and Sunday; The UPS Store #2873 takes walk-ins on weekdays and Saturday; Brentwood Police Department is appointment-only on Tuesday and lists no Saturday; GoldenWell Notary and Services, LLC is appointment-only on weekdays, Saturday, and Sunday. Appointments may still jump the line. Confirm before you go.',
+  },
+  {
+    q: 'Can I walk in Saturday in Brentwood without an appointment?',
+    a: 'Yes for the 2 DOJ Saturday walk-in rows on this page (Brentwood street addresses only): The UPS Store #4291 (9:00 am – 5:00 pm, walk-ins) and The UPS Store #2873 (9:00 am – 5:00 pm, walk-ins). GoldenWell Notary and Services, LLC lists Saturday as appointment-only, and Brentwood Police Department lists no Saturday hours on DOJ. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. Both Saturday walk-in rows list a $40.00 rolling fee on DOJ (The UPS Store #4291 and The UPS Store #2873). Ask the shop before you go.',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'Both Brentwood Saturday walk-in rows on this page (The UPS Store #4291 and The UPS Store #2873) list cash, credit cards, and debit cards on DOJ, and no other payment methods. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are store hours the fingerprint hours?',
+    a: 'No. Shipping / retail hours on a shop\'s own page are not Live Scan hours. Live Scan Saturday hours are the DOJ column. Example: The UPS Store #4291 lists Saturday Walk-ins 9:00 am – 5:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t Antioch / Oakley on this list?',
+    a: 'This page is the city of Brentwood, California only, not Contra Costa County. Antioch, Oakley, and other localities on the DOJ Contra Costa County list are other cities and are not listed here; see the DOJ county list for those (accessed 2026-10-11). Other nearby cities are other cities.',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Brentwood?',
+    a: 'It is a tie on DOJ. The UPS Store #4291 (2420 Sand Creek Road) and The UPS Store #2873 (1145 2nd Street) both list Saturday walk-ins 9:00 am – 5:00 pm and a $40.00 rolling fee. The UPS Store #4291 also lists Sunday walk-ins 10:30 am – 3:30 pm.',
+  },
+];
