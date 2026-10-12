@@ -222,6 +222,16 @@ export const listingsBySlug: Record<string, ShopListing[]> = {
       address: '1258 Trancas Street, Napa, CA 94558',
     },
   ],
+  'brentwood-saturday-walk-in-live-scan': [
+    {
+      name: 'SKSS Enterprises Inc. dba The UPS Store #4291',
+      address: '2420 Sand Creek Road, Suite C-3, Brentwood, CA 94513',
+    },
+    {
+      name: 'SKSS Enterprises, Inc. dba The UPS Store #2873',
+      address: '1145 2nd Street, Suite A, Brentwood, CA 94513',
+    },
+  ],
 };
 
 export function itemListJsonLd(listings: ShopListing[]): Record<string, unknown> {
