@@ -1858,3 +1858,46 @@ export const brentwoodFaq: FaqItem[] = [
     a: 'It is a tie on DOJ. The UPS Store #4291 (2420 Sand Creek Road) and The UPS Store #2873 (1145 2nd Street) both list Saturday walk-ins 9:00 am – 5:00 pm and a $40.00 rolling fee. The UPS Store #4291 also lists Sunday walk-ins 10:30 am – 3:30 pm.',
   },
 ];
+
+export const novatoFaq: FaqItem[] = [
+  {
+    q: 'Where can I get Live Scan in Novato?',
+    a: 'This page lists 1 DOJ-listed Live Scan site with a Novato street address. 1 takes Saturday walk-ins: The UPS Store #2464. Other-day hours come from its DOJ page. This is not every DOJ site in Marin County; see the DOJ county list for the rest. Confirm hours and fees with the shop before you go. Nobody was called.',
+  },
+  {
+    q: 'Do I need an appointment for Live Scan in Novato?',
+    a: 'Not on DOJ for this shop. The UPS Store #2464 lists walk-ins on weekdays, Saturday, and Sunday, with no appointments listed for those days. Appointments may still jump the line if the shop offers them. Confirm before you go.',
+  },
+  {
+    q: 'Can I walk in Saturday in Novato without an appointment?',
+    a: 'Yes for the 1 DOJ Saturday walk-in row on this page (Novato street addresses only): The UPS Store #2464 (8:00 am – 4:00 pm, walk-ins). DOJ lists no other Novato street site. Nobody was called.',
+  },
+  {
+    q: 'What do I bring?',
+    a: 'A California Request for Live Scan Service form (BCIA 8016) from the requesting agency, and unexpired photo ID. The requesting agency fills the ORI / OCA / job title. A blank 8016 from the internet is usually rejected.',
+  },
+  {
+    q: 'How much does it cost?',
+    a: 'The rolling fee in the table plus the agency DOJ/FBI processing fee. Some agencies put a billing number on the form so you only pay rolling. There is no honest single total. Do not budget from the 2012 Applicant Fingerprint Processing Fees PDF. The UPS Store #2464 lists a $40.00 rolling fee on DOJ, and its DOJ page also says additional service fees may apply. Ask the shop before you go.',
+  },
+  {
+    q: 'Cash or card?',
+    a: 'The UPS Store #2464 lists billing accounts, cash, credit cards, and debit cards on DOJ. No checks or money orders are listed. Confirm with the shop before you go.',
+  },
+  {
+    q: 'Are store hours the fingerprint hours?',
+    a: 'No. Shipping / retail hours on a shop\'s own page are not Live Scan hours. Live Scan Saturday hours are the DOJ column. Example: The UPS Store #2464 lists Saturday Walk-ins 8:00 am – 4:00 pm on DOJ. Those are fingerprint hours from DOJ, not a promise that every retail service is open.',
+  },
+  {
+    q: 'Why isn\'t San Rafael / Petaluma on this list?',
+    a: 'This page is the city of Novato only, not Marin County. San Rafael, Mill Valley, Fairfax, Kentfield, and Tiburon are other localities on the DOJ Marin County list, and Petaluma is in Sonoma County; see the DOJ county lists for those (accessed 2026-10-12). San Rafael has its own page. Other nearby cities are other cities.',
+  },
+  {
+    q: 'Do I get the results?',
+    a: 'No. Results go to the requesting agency, not to you. Keep the yellow copy / ATI number.',
+  },
+  {
+    q: 'What\'s the cheapest / earliest Saturday walk-in in Novato?',
+    a: 'There is only one on DOJ. The UPS Store #2464 (936 B 7th Street) lists Saturday walk-ins 8:00 am – 4:00 pm and a $40.00 rolling fee. It also lists Sunday walk-ins 10:00 am – 3:00 pm.',
+  },
+];
