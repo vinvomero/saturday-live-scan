@@ -232,6 +232,12 @@ export const listingsBySlug: Record<string, ShopListing[]> = {
       address: '1145 2nd Street, Suite A, Brentwood, CA 94513',
     },
   ],
+  'novato-saturday-walk-in-live-scan': [
+    {
+      name: 'The UPS Store #2464',
+      address: '936 B 7th Street, Novato, CA 94945',
+    },
+  ],
 };
 
 export function itemListJsonLd(listings: ShopListing[]): Record<string, unknown> {
